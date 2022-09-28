@@ -1,11 +1,13 @@
 <!-- ## Hey 👋 -->
 <!-- ## Hi there 👋 -->
-## Hi, I'm Huay 👋
+## Hi, I'm Huay
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- | <a href="https://github.com/imhuay"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imhuay&show_icons=true&include_all_commits=false&theme=default&hide_border=true&hide_title=true&disable_animations=false" alt="imahuy's github stats" /></a> | <a href="https://github.com/imhuay"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhuay&layout=compact&theme=default&hide_border=true&hide_title=true" /></a> |
-| --- | --- | -->
+<!-- 
+| <a href="https://github.com/imhuay"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imhuay&show_icons=true&include_all_commits=false&theme=default&hide_border=true&hide_title=true&disable_animations=false" alt="imahuy's github stats" /></a> | <a href="https://github.com/imhuay"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhuay&layout=compact&theme=default&hide_border=true&hide_title=true" /></a> |
+| --- | --- |
+ -->
 
 <table style="text-align: center; width: 100%; table-layout: fixed; border: 0;">
     <!--
@@ -26,6 +28,7 @@
 ![total views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/total_views_per_week.svg)
 ![total clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/total_clones.svg)
 ![total clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/total_clones_per_week.svg)
+![homepage views](https://visitor_badge.deta.dev/?id=github.imhuay&label=homepage%20views)
 
 </div>
 
@@ -55,32 +58,33 @@ class Huay:
     }
 ```
 
-### Repos
+## Repos
 
 <!-- 
 [![studies](https://github-readme-stats.vercel.app/api/pin/?username=imhuay&repo=studies&show_owner=true)](https://github.com/imhuay/studies)
 [![huaytools](https://github-readme-stats.vercel.app/api/pin/?username=imhuay&repo=huaytools&show_owner=true)](https://github.com/imhuay/huaytools)
  -->
 
-- [**imhuay/studies**](https://github.com/imhuay/studies)  ![GitHub Repo stars](https://img.shields.io/github/stars/imhuay/studies?style=social)  
+- ### [**imhuay/studies**](https://github.com/imhuay/studies)  ![GitHub Repo stars](https://custom-icon-badges.demolab.com/github/stars/imhuay/studies?style=social&logo=star&logoColor=black) ![GitHub forks](https://custom-icon-badges.demolab.com/github/forks/imhuay/studies?style=social&logo=fork&logoColor=black)  
     ![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/views.svg)
     ![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/views_per_week.svg)
     ![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/clones.svg)
     ![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/clones_per_week.svg)  
+    
     `Owner` / `2021.03 ~ Present` / `Develop/NLP/DeepLearning/Algorithms/LeetCodes`
 
-- [**imhuay/huaytools**](https://github.com/imhuay/huaytools)
-    ![GitHub Repo stars](https://img.shields.io/github/stars/imhuay/huaytools?style=social)  
+- ### [**imhuay/huaytools**](https://github.com/imhuay/huaytools)  ![GitHub Repo stars](https://custom-icon-badges.demolab.com/github/stars/imhuay/huaytools?style=social&logo=star&logoColor=black) ![GitHub forks](https://custom-icon-badges.demolab.com/github/forks/imhuay/huaytools?style=social&logo=fork&logoColor=black)  
     ![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-huaytools/views.svg)
     ![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-huaytools/views_per_week.svg)
     ![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-huaytools/clones.svg)
     ![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-huaytools/clones_per_week.svg)  
+
     `Owner` / `2022.06 ~ Present` / `Personal Python Toolbox: Common/NLP/Pytorch/Spark`
 
 
-### Contribution
+## Contribution
 
-- [**DarLiner/Algorithm_Interview_Notes-Chinese**](https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese) ![GitHub Repo stars](https://img.shields.io/github/stars/DarLiner/Algorithm_Interview_Notes-Chinese?style=social)  
+- ### [**DarLiner/Algorithm_Interview_Notes-Chinese**](https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese) ![GitHub Repo stars](https://custom-icon-badges.demolab.com/github/stars/DarLiner/Algorithm_Interview_Notes-Chinese?style=social&logo=star&logoColor=black)  
   `Main Contributor` / `2019.03 ~ 2019.12` / `Algorithm Codings` `Interview Notes`
 
 <!-- 
