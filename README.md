@@ -20,7 +20,6 @@
     </tr>
 </table>
 
-<!-- 
 <div align="center">
 
 ![total views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/total_views.svg)
@@ -29,7 +28,6 @@
 ![total clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/total_clones_per_week.svg)
 
 </div>
- -->
 
 ## About me
 ```python
@@ -59,10 +57,11 @@ class Huay:
 
 ### Repos
 
+<!-- 
 [![studies](https://github-readme-stats.vercel.app/api/pin/?username=imhuay&repo=studies&show_owner=true)](https://github.com/imhuay/studies)
 [![huaytools](https://github-readme-stats.vercel.app/api/pin/?username=imhuay&repo=huaytools&show_owner=true)](https://github.com/imhuay/huaytools)
+ -->
 
-<!-- 
 - [**imhuay/studies**](https://github.com/imhuay/studies)  ![GitHub Repo stars](https://img.shields.io/github/stars/imhuay/studies?style=social)  
     ![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/views.svg)
     ![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/views_per_week.svg)
@@ -77,7 +76,6 @@ class Huay:
     ![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-huaytools/clones.svg)
     ![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-huaytools/clones_per_week.svg)  
     `Owner` / `2022.06 ~ Present` / `Personal Python Toolbox: Common/NLP/Pytorch/Spark`
- -->
 
 
 ### Contribution
