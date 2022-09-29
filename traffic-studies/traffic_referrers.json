@@ -1,23 +1,23 @@
 [
   {
-    "referrer": "github.com",
-    "count": 91,
-    "uniques": 35
-  },
-  {
     "referrer": "shimo.im",
-    "count": 69,
-    "uniques": 11
+    "count": 57,
+    "uniques": 8
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 68,
-    "uniques": 17
+    "count": 55,
+    "uniques": 12
+  },
+  {
+    "referrer": "github.com",
+    "count": 53,
+    "uniques": 32
   },
   {
     "referrer": "Google",
-    "count": 33,
-    "uniques": 7
+    "count": 32,
+    "uniques": 6
   },
   {
     "referrer": "blog.csdn.net",
@@ -25,14 +25,14 @@
     "uniques": 2
   },
   {
-    "referrer": "link.csdn.net",
-    "count": 14,
-    "uniques": 4
-  },
-  {
     "referrer": "6aiq.com",
     "count": 12,
     "uniques": 6
+  },
+  {
+    "referrer": "link.csdn.net",
+    "count": 9,
+    "uniques": 3
   },
   {
     "referrer": "bbs.huaweicloud.com",
