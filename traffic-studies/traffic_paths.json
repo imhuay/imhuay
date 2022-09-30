@@ -2,32 +2,32 @@
   {
     "path": "/imhuay/studies",
     "title": "imhuay/studies: Notes of Develop/NLP/DeepLearning/Algorithms/LeetCodes",
-    "count": 201,
-    "uniques": 149
+    "count": 225,
+    "uniques": 165
   },
   {
     "path": "/imhuay/studies/tree/master/algorithms",
     "title": "studies/algorithms at master · imhuay/studies · GitHub",
-    "count": 62,
-    "uniques": 48
+    "count": 69,
+    "uniques": 53
   },
   {
     "path": "/imhuay/studies/tree/master/notes",
     "title": "studies/notes at master · imhuay/studies · GitHub",
-    "count": 50,
-    "uniques": 33
+    "count": 60,
+    "uniques": 39
   },
   {
     "path": "/imhuay/studies/blob/master/notes/010-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md",
     "title": "studies/010-深度学习.md at master · imhuay/studies · GitHub",
-    "count": 33,
-    "uniques": 23
+    "count": 36,
+    "uniques": 25
   },
   {
     "path": "/imhuay/studies/blob/master/notes/020-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md",
     "title": "studies/020-机器学习.md at master · imhuay/studies · GitHub",
-    "count": 15,
-    "uniques": 12
+    "count": 16,
+    "uniques": 13
   },
   {
     "path": "/imhuay/studies/blob/master/notes/110-Python.md",
@@ -36,27 +36,27 @@
     "uniques": 8
   },
   {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/XGBoost.md",
-    "title": "studies/XGBoost.md at master · imhuay/studies · GitHub",
-    "count": 8,
-    "uniques": 7
-  },
-  {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.md",
-    "title": "studies/损失函数.md at master · imhuay/studies · GitHub",
-    "count": 8,
-    "uniques": 5
+    "path": "/imhuay/studies/tree/master/notes/_archives/2022",
+    "title": "studies/notes/_archives/2022 at master · imhuay/studies · GitHub",
+    "count": 11,
+    "uniques": 6
   },
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md",
     "title": "studies/激活函数.md at master · imhuay/studies · GitHub",
-    "count": 7,
-    "uniques": 7
+    "count": 9,
+    "uniques": 9
   },
   {
-    "path": "/imhuay/studies/tree/master/src",
-    "title": "studies/src at master · imhuay/studies · GitHub",
-    "count": 7,
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/XGBoost.md",
+    "title": "studies/XGBoost.md at master · imhuay/studies · GitHub",
+    "count": 9,
+    "uniques": 8
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.md",
+    "title": "studies/损失函数.md at master · imhuay/studies · GitHub",
+    "count": 9,
     "uniques": 6
   }
 ]
