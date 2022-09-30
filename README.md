@@ -60,11 +60,12 @@ class Huay:
 
 ## Repos
 
-<!-- 
+<!-- 卡片形式
 [![studies](https://github-readme-stats.vercel.app/api/pin/?username=imhuay&repo=studies&show_owner=true)](https://github.com/imhuay/studies)
 [![huaytools](https://github-readme-stats.vercel.app/api/pin/?username=imhuay&repo=huaytools&show_owner=true)](https://github.com/imhuay/huaytools)
  -->
 
+<!-- 列表形式
 - ### [**imhuay/studies**](https://github.com/imhuay/studies)  ![GitHub Repo stars](https://custom-icon-badges.demolab.com/github/stars/imhuay/studies?style=social&logo=star&logoColor=black) ![GitHub forks](https://custom-icon-badges.demolab.com/github/forks/imhuay/studies?style=social&logo=fork&logoColor=black)  
     ![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/views.svg)
     ![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/views_per_week.svg)
@@ -79,7 +80,14 @@ class Huay:
     ![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-huaytools/clones.svg)
     ![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-huaytools/clones_per_week.svg)  
 
-    `Owner` / `2022.06 ~ Present` / `Personal Python Toolbox: Common/NLP/Pytorch/Spark`
+    `Owner` / `2022.06 ~ Present` / `Personal Python Toolbox: Common/NLP/Pytorch/Spark` 
+-->
+
+- ### [**imhuay/studies**](https://github.com/imhuay/studies)  ![GitHub Repo stars](https://custom-icon-badges.demolab.com/github/stars/imhuay/studies?style=social&logo=star&logoColor=black) ![GitHub forks](https://custom-icon-badges.demolab.com/github/forks/imhuay/studies?style=social&logo=fork&logoColor=black)
+    `Owner` / `2021.03 ~ Present` / `Develop/NLP/DeepLearning/Algorithms/LeetCodes`
+
+- ### [**imhuay/huaytools**](https://github.com/imhuay/huaytools)  ![GitHub Repo stars](https://custom-icon-badges.demolab.com/github/stars/imhuay/huaytools?style=social&logo=star&logoColor=black) ![GitHub forks](https://custom-icon-badges.demolab.com/github/forks/imhuay/huaytools?style=social&logo=fork&logoColor=black)
+    `Owner` / `2022.06 ~ Present` / `Personal Python Toolbox: Common/NLP/Pytorch/Spark` 
 
 
 ## Contribution
