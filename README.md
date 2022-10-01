@@ -57,7 +57,10 @@ class Huay:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown   1 hr 13 mins    >>>>>>>>>>>>>------------   50.51 %
+YAML       52 mins         >>>>>>>>>----------------   36.06 %
+Python     19 mins         >>>----------------------   13.37 %
+Other      0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
