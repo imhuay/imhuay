@@ -1,8 +1,9 @@
 # https://github.com/yi-Xu-0100/traffic2badge/blob/main/.github/workflows/traffic2badge.yml
 
-name: traffic2badge
+name: Traffic to Badge
 
 on:
+  workflow_dispatch: # for manual workflow trigger
   push:
     branches: [ 'master' ]
   schedule:
