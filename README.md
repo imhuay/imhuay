@@ -3,25 +3,6 @@
 ## Hi, I'm Huay
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> -->
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- 
-| <a href="https://github.com/imhuay"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imhuay&show_icons=true&include_all_commits=false&theme=default&hide_border=true&hide_title=true&disable_animations=false" alt="imahuy's github stats" /></a> | <a href="https://github.com/imhuay"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhuay&layout=compact&theme=default&hide_border=true&hide_title=true" /></a> |
-| --- | --- |
- -->
-
-<table style="text-align: center; width: 100%; table-layout: fixed; border: 0;">
-    <!--
-    <tr>
-        <th>stats</th>
-        <th>langs</th>
-    </tr>
-    -->
-    <tr>
-        <td><a href="https://github.com/imhuay"><img src="https://github-readme-stats.vercel.app/api?username=imhuay&show_icons=true&include_all_commits=false&theme=default&hide_border=true&hide_title=true&disable_animations=false" alt="github stats" /></a></td>
-        <td><a href="https://github.com/imhuay"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhuay&layout=compact&theme=default&hide_border=true&hide_title=true" alt="top-langs"/></a></td>
-    </tr>
-</table>
-
 <div align="center">
 
 ![total views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/total_views.svg)
@@ -31,6 +12,19 @@
 ![homepage views](https://visitor_badge.deta.dev/?id=github.imhuay&label=homepage%20views)
 
 </div>
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- 
+| <a href="https://github.com/imhuay"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imhuay&show_icons=true&include_all_commits=false&theme=default&hide_border=true&hide_title=true&disable_animations=false" alt="imahuy's github stats" /></a> | <a href="https://github.com/imhuay"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhuay&layout=compact&theme=default&hide_border=true&hide_title=true" /></a> |
+| --- | --- |
+ -->
+
+<table style="text-align: center; width: 100%; table-layout: fixed; border: 0;">
+<tr>
+<td><a href="https://github.com/imhuay"><img src="https://github-readme-stats.vercel.app/api?username=imhuay&show_icons=true&include_all_commits=false&theme=default&hide_border=true&hide_title=true&disable_animations=false" alt="github stats" /></a></td>
+<td><a href="https://github.com/imhuay"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhuay&layout=compact&theme=default&hide_border=true&hide_title=true" alt="top-langs"/></a></td>
+</tr>
+</table>
 
 ## About me
 ```python
@@ -57,6 +51,11 @@ class Huay:
         ]
     }
 ```
+
+## Last week
+<!-- https://github.com/athul/waka-readme -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Repos
 
