@@ -55,6 +55,11 @@ class Huay:
 ## Last week
 <!-- https://github.com/athul/waka-readme -->
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## Repos
