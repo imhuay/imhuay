@@ -52,7 +52,7 @@ class Huay:
     }
 ```
 
-## Last week
+## Last 7 days
 <!-- https://github.com/athul/waka-readme -->
 <!--START_SECTION:waka-->
 
