@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/imhuay",
     "title": "imhuay/imhuay",
-    "count": 24,
-    "uniques": 3
+    "count": 30,
+    "uniques": 4
   },
   {
     "path": "/imhuay/imhuay/actions/workflows/waka-readme.yml",
@@ -18,6 +18,12 @@
     "uniques": 1
   },
   {
+    "path": "/imhuay/imhuay/commits/master",
+    "title": "Commits · imhuay/imhuay",
+    "count": 4,
+    "uniques": 1
+  },
+  {
     "path": "/imhuay/imhuay/actions/runs/3163834791",
     "title": "Add wakatime · imhuay/imhuay@8ce682a",
     "count": 3,
@@ -26,12 +32,6 @@
   {
     "path": "/imhuay/imhuay/actions/workflows/traffic2badge.yml",
     "title": "Actions · imhuay/imhuay",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/imhuay/commits/master",
-    "title": "Commits · imhuay/imhuay",
     "count": 3,
     "uniques": 1
   },
