@@ -57,12 +57,7 @@ class Huay:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown           1 hr 50 mins    >>>>>>>>>>>--------------   45.44 %
-YAML               1 hr 6 mins     >>>>>>>------------------   27.40 %
-Python             50 mins         >>>>>--------------------   20.54 %
-Text               9 mins          >------------------------   04.04 %
-PythonStub         4 mins          -------------------------   01.76 %
-requirements.txt   1 min           -------------------------   00.80 %
+Other              3 hrs 44 mins   >>>>>>>>-----------------   31.69 %
 ```
 
 <!--END_SECTION:waka-->
