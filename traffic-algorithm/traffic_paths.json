@@ -36,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/imhuay/algorithm/blob/master/topics/%E9%A2%98%E9%9B%86-%E5%89%91%E6%8C%87Offer.md",
-    "title": "algorithm/题集-剑指Offer.md at master · imhuay/algorithm · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/imhuay/algorithm/branches",
     "title": "Branches · imhuay/algorithm · GitHub",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/imhuay/algorithm/commit/master",
     "title": "[U] 优化目录显示 · imhuay/algorithm@a1dbd88 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/algorithm/tags",
+    "title": "Releases · imhuay/algorithm · GitHub",
     "count": 1,
     "uniques": 1
   }
