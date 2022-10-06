@@ -65,9 +65,6 @@ Other              4 hrs 40 mins   >>>>>>-------------------   23.58 %
 
 ## Contributions
 
-- #### [imhuay/studies](https://github.com/imhuay/studies)  ![GitHub Repo stars](https://custom-icon-badges.demolab.com/github/stars/imhuay/studies?style=social&logo=star&logoColor=black) ![GitHub forks](https://custom-icon-badges.demolab.com/github/forks/imhuay/studies?style=social&logo=fork&logoColor=black)
-  `Owner` / `2021.03 ~ Present` / `Develop/NLP/DeepLearning/Algorithms/LeetCodes`
-
 - #### [DarLiner/Algorithm_Interview_Notes-Chinese](https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese) ![GitHub Repo stars](https://custom-icon-badges.demolab.com/github/stars/DarLiner/Algorithm_Interview_Notes-Chinese?style=social&logo=star&logoColor=black)
   `Main Contributor` / `2019.03 ~ 2019.12` / `Algorithm Codings` `Interview Notes`
 
