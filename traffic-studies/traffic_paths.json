@@ -2,20 +2,20 @@
   {
     "path": "/imhuay/studies",
     "title": "imhuay/studies: Notes of Develop/NLP/DeepLearning/Algorithms/LeetCodes",
-    "count": 216,
-    "uniques": 156
-  },
-  {
-    "path": "/imhuay/studies/tree/master/algorithms",
-    "title": "studies/algorithms at master · imhuay/studies · GitHub",
-    "count": 40,
-    "uniques": 35
+    "count": 214,
+    "uniques": 155
   },
   {
     "path": "/imhuay/studies/tree/master/notes",
     "title": "studies/notes at master · imhuay/studies · GitHub",
     "count": 40,
     "uniques": 25
+  },
+  {
+    "path": "/imhuay/studies/tree/master/algorithms",
+    "title": "studies/algorithms at master · imhuay/studies · GitHub",
+    "count": 39,
+    "uniques": 34
   },
   {
     "path": "/imhuay/studies/blob/master/algorithms/README.md",
@@ -36,12 +36,6 @@
     "uniques": 6
   },
   {
-    "path": "/imhuay/studies/blob/master/algorithms/notes/%E5%90%88%E9%9B%86-LeetCode.md",
-    "title": "studies/合集-LeetCode.md at master · imhuay/studies · GitHub",
-    "count": 6,
-    "uniques": 5
-  },
-  {
     "path": "/imhuay/studies/tree/master/notes/_archives/2022/04",
     "title": "studies/notes/_archives/2022/04 at master · imhuay/studies · GitHub",
     "count": 6,
@@ -54,9 +48,15 @@
     "uniques": 5
   },
   {
-    "path": "/imhuay/studies/tree/master/scripts",
-    "title": "studies/scripts at master · imhuay/studies",
+    "path": "/imhuay/studies/blob/master/algorithms/notes/%E5%90%88%E9%9B%86-LeetCode.md",
+    "title": "studies/合集-LeetCode.md at master · imhuay/studies · GitHub",
     "count": 5,
-    "uniques": 3
+    "uniques": 4
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/020-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md",
+    "title": "studies/020-机器学习.md at master · imhuay/studies · GitHub",
+    "count": 4,
+    "uniques": 4
   }
 ]
