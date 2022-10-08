@@ -2,13 +2,13 @@
   {
     "path": "/imhuay/huaytools",
     "title": "imhuay/huaytools: Personal python toolbox.",
-    "count": 23,
+    "count": 16,
     "uniques": 4
   },
   {
     "path": "/imhuay/huaytools/actions",
     "title": "Actions · imhuay/huaytools",
-    "count": 9,
+    "count": 4,
     "uniques": 1
   },
   {
@@ -18,20 +18,8 @@
     "uniques": 1
   },
   {
-    "path": "/imhuay/huaytools/actions/new",
-    "title": "Actions · imhuay/huaytools",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/imhuay/huaytools/actions/runs/3162988219",
     "title": "Assert mypy · imhuay/huaytools@f386a85",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/actions/workflows/python-package.yml",
-    "title": "Actions · imhuay/huaytools",
     "count": 2,
     "uniques": 1
   },
@@ -48,15 +36,27 @@
     "uniques": 1
   },
   {
-    "path": "/imhuay/huaytools/new/master",
-    "title": "New File",
+    "path": "/imhuay/huaytools/pulls",
+    "title": "Pull requests · imhuay/huaytools",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/imhuay/huaytools/packages",
-    "title": "Packages · imhuay/huaytools",
-    "count": 2,
+    "path": "/imhuay/huaytools/actions/runs/3162957710",
+    "title": "Assert mypy · imhuay/huaytools@aa569d9",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/huaytools/actions/runs/3162957710/jobs/5150058660",
+    "title": "Assert mypy · imhuay/huaytools@aa569d9",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/huaytools/actions/runs/3162988219/jobs/5150120113",
+    "title": "Assert mypy · imhuay/huaytools@f386a85",
+    "count": 1,
     "uniques": 1
   }
 ]
