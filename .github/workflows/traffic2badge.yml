@@ -4,10 +4,10 @@ name: Traffic to Badge
 
 on:
   workflow_dispatch: # for manual workflow trigger
-  push:
-    branches: [ 'master' ]
+  #push:
+  #  branches: [ 'master' ]
   schedule:
-    - cron: '0 0 * * *'  # UTC
+    - cron: '0 20 * * *'  # UTC
 
 jobs:
   run:
