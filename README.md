@@ -55,6 +55,8 @@ class Huay:
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 32 hrs 47 mins
+
 Python             13 hrs          >>>>>>>>>>---------------   39.69 %
 Markdown           9 hrs 38 mins   >>>>>>>------------------   29.39 %
 Other              4 hrs 40 mins   >>>>---------------------   14.24 %
