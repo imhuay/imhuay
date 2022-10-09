@@ -1,10 +1,12 @@
 name: Waka Readme
 
 on:
-  #push:
+  push:
+    paths:
+      - '.github/workflows/waka-readme.yml'
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: '0 0 * * *' # runs at every 12AM UTC
+    - cron: '0 22 * * *' # runs at every 22:00 UTC
 
 jobs:
   update-readme:
@@ -22,4 +24,4 @@ jobs:
           SHOW_TITLE: false
           SHOW_TIME: true
           SHOW_TOTAL: false
-          SHOW_MASKED_TIME: false  # override SHOW_TOTAL
+          SHOW_MASKED_TIME: true  # override SHOW_TOTAL
