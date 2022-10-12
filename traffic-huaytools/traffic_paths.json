@@ -2,19 +2,13 @@
   {
     "path": "/imhuay/huaytools",
     "title": "imhuay/huaytools: Personal python toolbox.",
-    "count": 10,
+    "count": 9,
     "uniques": 1
   },
   {
     "path": "/imhuay/huaytools/actions",
     "title": "Actions · imhuay/huaytools",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/actions/workflows/build.yml",
-    "title": "Actions · imhuay/huaytools",
-    "count": 4,
+    "count": 3,
     "uniques": 1
   },
   {
@@ -24,7 +18,7 @@
     "uniques": 1
   },
   {
-    "path": "/imhuay/huaytools/actions/workflows/release.yml",
+    "path": "/imhuay/huaytools/actions/workflows/build.yml",
     "title": "Actions · imhuay/huaytools",
     "count": 2,
     "uniques": 1
@@ -32,12 +26,6 @@
   {
     "path": "/imhuay/huaytools/branches",
     "title": "Branches · imhuay/huaytools",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/pulls",
-    "title": "Pull requests · imhuay/huaytools",
     "count": 2,
     "uniques": 1
   },
@@ -56,6 +44,18 @@
   {
     "path": "/imhuay/huaytools/actions/runs/3162988219/jobs/5150120113",
     "title": "Assert mypy · imhuay/huaytools@f386a85",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/huaytools/actions/workflows/release.yml",
+    "title": "Actions · imhuay/huaytools",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/huaytools/blob/master/README.md",
+    "title": "huaytools/README.md at master · imhuay/huaytools",
     "count": 1,
     "uniques": 1
   }

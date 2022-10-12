@@ -3,7 +3,7 @@
     "path": "/imhuay/imhuay",
     "title": "imhuay/imhuay",
     "count": 38,
-    "uniques": 8
+    "uniques": 10
   },
   {
     "path": "/imhuay/imhuay/actions/workflows/waka-readme.yml",
@@ -36,6 +36,12 @@
     "uniques": 1
   },
   {
+    "path": "/imhuay/imhuay/blob/master/README.md",
+    "title": "imhuay/README.md at master · imhuay/imhuay",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/imhuay/imhuay/actions/runs/3163834791/jobs/5151702488",
     "title": "Add wakatime · imhuay/imhuay@8ce682a",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/imhuay/imhuay/actions/runs/3163861631/jobs/5151747268",
     "title": "Update wakatime · imhuay/imhuay@9877b0f",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/imhuay/actions/runs/3165927750",
-    "title": "Waka Readme · imhuay/imhuay@26f00d7",
     "count": 2,
     "uniques": 1
   }
