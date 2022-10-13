@@ -2,7 +2,7 @@
   {
     "path": "/imhuay/huaytools",
     "title": "imhuay/huaytools: Personal python toolbox.",
-    "count": 9,
+    "count": 7,
     "uniques": 1
   },
   {
@@ -14,12 +14,6 @@
   {
     "path": "/imhuay/huaytools/actions/runs/3162988219",
     "title": "Assert mypy · imhuay/huaytools@f386a85",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/actions/workflows/build.yml",
-    "title": "Actions · imhuay/huaytools",
     "count": 2,
     "uniques": 1
   },
@@ -48,14 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/imhuay/huaytools/actions/workflows/release.yml",
-    "title": "Actions · imhuay/huaytools",
+    "path": "/imhuay/huaytools/blob/master/README.md",
+    "title": "huaytools/README.md at master · imhuay/huaytools",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/imhuay/huaytools/blob/master/README.md",
-    "title": "huaytools/README.md at master · imhuay/huaytools",
+    "path": "/imhuay/huaytools/commits",
+    "title": "Commits · imhuay/huaytools",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/huaytools/projects",
+    "title": "Projects · huaytools",
     "count": 1,
     "uniques": 1
   }
