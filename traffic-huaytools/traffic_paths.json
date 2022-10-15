@@ -2,60 +2,6 @@
   {
     "path": "/imhuay/huaytools",
     "title": "imhuay/huaytools: Personal python toolbox.",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/actions",
-    "title": "Actions · imhuay/huaytools",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/actions/runs/3162988219",
-    "title": "Assert mypy · imhuay/huaytools@f386a85",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/branches",
-    "title": "Branches · imhuay/huaytools",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/actions/runs/3162957710",
-    "title": "Assert mypy · imhuay/huaytools@aa569d9",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/actions/runs/3162957710/jobs/5150058660",
-    "title": "Assert mypy · imhuay/huaytools@aa569d9",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/actions/runs/3162988219/jobs/5150120113",
-    "title": "Assert mypy · imhuay/huaytools@f386a85",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/blob/master/README.md",
-    "title": "huaytools/README.md at master · imhuay/huaytools",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/commits",
-    "title": "Commits · imhuay/huaytools",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/projects",
-    "title": "Projects · huaytools",
     "count": 1,
     "uniques": 1
   }
