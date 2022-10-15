@@ -55,14 +55,14 @@ class Huay:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 47 hrs 7 mins
+Total Time: 43 hrs 32 mins
 
-Markdown           22 hrs 14 mins  >>>>>>>>>>>>-------------   47.20 %
-Python             14 hrs 32 mins  >>>>>>>>-----------------   30.87 %
-GitHub             5 hrs 8 mins    >>>----------------------   10.91 %
-YAML               2 hrs 33 mins   >------------------------   05.43 %
-LeetCode           2 hrs 1 min     >------------------------   04.29 %
-Text               13 mins         -------------------------   00.48 %
+Markdown           20 hrs 2 mins   >>>>>>>>>>>>-------------   46.02 %
+Python             12 hrs 34 mins  >>>>>>>------------------   28.89 %
+GitHub             6 hrs 8 mins    >>>>---------------------   14.09 %
+YAML               2 hrs 18 mins   >------------------------   05.30 %
+LeetCode           2 hrs 12 mins   >------------------------   05.05 %
+Stylus             8 mins          -------------------------   00.33 %
 ```
 
 <!--END_SECTION:waka-->
