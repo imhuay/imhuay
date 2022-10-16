@@ -2,14 +2,8 @@
   {
     "path": "/imhuay/imhuay",
     "title": "imhuay/imhuay",
-    "count": 17,
-    "uniques": 9
-  },
-  {
-    "path": "/imhuay/imhuay/commits/master",
-    "title": "Commits · imhuay/imhuay",
-    "count": 2,
-    "uniques": 2
+    "count": 11,
+    "uniques": 8
   },
   {
     "path": "/imhuay/imhuay/blob/master/README.md",
@@ -26,6 +20,12 @@
   {
     "path": "/imhuay/imhuay/commit/ecbd6d41f6d20c19130987c06fc038b096959c25",
     "title": "Update README.md · imhuay/imhuay@ecbd6d4",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/imhuay/commits/master",
+    "title": "Commits · imhuay/imhuay",
     "count": 1,
     "uniques": 1
   },

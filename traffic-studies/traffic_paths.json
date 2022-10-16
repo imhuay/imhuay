@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/studies",
     "title": "imhuay/studies: Notes of Develop/NLP/DeepLearning/Algorithms/LeetCodes",
-    "count": 288,
-    "uniques": 156
+    "count": 312,
+    "uniques": 160
   },
   {
     "path": "/imhuay/studies/blob/master/algorithms/README.md",
@@ -14,49 +14,49 @@
   {
     "path": "/imhuay/studies/blob/master/notes/010-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md",
     "title": "studies/010-深度学习.md at master · imhuay/studies · GitHub",
-    "count": 43,
-    "uniques": 31
+    "count": 44,
+    "uniques": 32
   },
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/Transformer%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98.md",
     "title": "studies/Transformer常见面试问题.md at master · imhuay/studies · GitHub",
-    "count": 29,
+    "count": 32,
     "uniques": 17
   },
   {
     "path": "/imhuay/studies/tree/master/algorithms",
     "title": "studies/algorithms at master · imhuay/studies · GitHub",
-    "count": 25,
+    "count": 24,
     "uniques": 18
   },
   {
     "path": "/imhuay/studies/tree/master/notes",
     "title": "studies/notes at master · imhuay/studies · GitHub",
-    "count": 21,
-    "uniques": 12
+    "count": 22,
+    "uniques": 13
+  },
+  {
+    "path": "/imhuay/studies/actions/workflows/daily.yml",
+    "title": "Actions · imhuay/studies",
+    "count": 16,
+    "uniques": 1
   },
   {
     "path": "/imhuay/studies/blob/master/notes/020-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md",
     "title": "studies/020-机器学习.md at master · imhuay/studies · GitHub",
+    "count": 15,
+    "uniques": 12
+  },
+  {
+    "path": "/imhuay/studies/actions",
+    "title": "Actions · imhuay/studies",
     "count": 14,
-    "uniques": 11
-  },
-  {
-    "path": "/imhuay/studies/tree/master/notes/_archives/2022",
-    "title": "studies/notes/_archives/2022 at master · imhuay/studies · GitHub",
-    "count": 12,
-    "uniques": 5
-  },
-  {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/CNN.md",
-    "title": "studies/CNN.md at master · imhuay/studies · GitHub",
-    "count": 10,
-    "uniques": 9
+    "uniques": 1
   },
   {
     "path": "/imhuay/studies/blob/master/notes/110-Python.md",
     "title": "studies/110-Python.md at master · imhuay/studies · GitHub",
-    "count": 10,
-    "uniques": 5
+    "count": 12,
+    "uniques": 7
   }
 ]
