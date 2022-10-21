@@ -1,7 +1,6 @@
 <!-- ## Hey 👋 -->
 <!-- ## Hi there 👋 -->
-
-## Hi, I'm Huay
+<!-- ## Hi, I'm Huay -->
 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> -->
 
@@ -19,32 +18,33 @@
 <!-- 
 | <a href="https://github.com/imhuay"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imhuay&show_icons=true&include_all_commits=false&theme=default&hide_border=true&hide_title=true&disable_animations=false" alt="imahuy's github stats" /></a> | <a href="https://github.com/imhuay"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhuay&layout=compact&theme=default&hide_border=true&hide_title=true" /></a> |
 | --- | --- |
- -->
+-->
 
+<!--
 <table style="text-align: center; width: 100%; table-layout: fixed; border: 0;">
 <tr>
 <td><a href="https://github.com/imhuay"><img src="https://github-readme-stats.vercel.app/api?username=imhuay&show_icons=true&include_all_commits=false&theme=default&hide_border=true&hide_title=true&disable_animations=false" alt="github stats" /></a></td>
 <td><a href="https://github.com/imhuay"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhuay&layout=compact&theme=default&hide_border=true&hide_title=true" alt="top-langs"/></a></td>
 </tr>
 </table>
+-->
 
 ## About me
 
 ```python
-class Huay:
+class ImHuay:
     email = 'imhuay@163.com'
     languages = ['Python', 'Java', 'HiveSQL']
     researches = {
         'Deep Learning': {
-            'Backends':   ['Pytorch', 'Keras'],
-            'Directions': ['Representation Learning', 'Few-Shot Learning', 'Contrastive Learning'],
-            'Models':     ['CNN', 'RNN/LSTM', 'Transformer/BERTs', ...],
+            'backends':   ['Pytorch', 'Keras'],
+            'directions': ['Representation Learning', 'Few-Shot Learning', 'Contrastive Learning'],
+            'models':     ['CNN', 'RNN/LSTM', 'Transformer/BERTs', ...],
         },
         'Natural Language Processing (NLP)': [
-            'Sentence Embedding',
-            'Text Classification / Sentiment Analysis',
-            'Aspect-Based Sentiment Analysis (ABSA)',
+            'Sentiment Analysis',
             'Entity Linking',
+            'Relation Extraction'
         ]
     }
 ```
@@ -66,7 +66,6 @@ Stylus       8 mins          -------------------------   00.30 %
 ```
 
 <!--END_SECTION:waka-->
-
 
 ## Contributions
 
