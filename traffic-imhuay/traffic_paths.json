@@ -2,36 +2,12 @@
   {
     "path": "/imhuay/imhuay",
     "title": "imhuay/imhuay",
-    "count": 5,
-    "uniques": 4
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/imhuay/imhuay/blob/master/.github/workflows/traffic2badge.yml",
     "title": "imhuay/traffic2badge.yml at master · imhuay/imhuay",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/imhuay/blob/master/README.md",
-    "title": "imhuay/README.md at master · imhuay/imhuay",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/imhuay/commit/930ea8ca46f21545fc6144c20b466e8d76ccaf90",
-    "title": "Update README.md · imhuay/imhuay@930ea8c",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/imhuay/commit/ecbd6d41f6d20c19130987c06fc038b096959c25",
-    "title": "Update README.md · imhuay/imhuay@ecbd6d4",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/imhuay/commits/master/README.md",
-    "title": "History for README.md - imhuay/imhuay",
     "count": 1,
     "uniques": 1
   },
