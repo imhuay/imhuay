@@ -1,31 +1,26 @@
 [
   {
     "referrer": "github.com",
-    "count": 204,
+    "count": 201,
     "uniques": 34
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 53,
-    "uniques": 26
+    "count": 48,
+    "uniques": 24
   },
   {
     "referrer": "1o24bbs.com",
-    "count": 40,
-    "uniques": 10
+    "count": 41,
+    "uniques": 11
   },
   {
-    "referrer": "6aiq.com",
-    "count": 23,
-    "uniques": 3
-  },
-  {
-    "referrer": "link.juejin.cn",
+    "referrer": "link.csdn.net",
     "count": 11,
     "uniques": 3
   },
   {
-    "referrer": "link.csdn.net",
+    "referrer": "link.juejin.cn",
     "count": 11,
     "uniques": 3
   },
@@ -40,9 +35,14 @@
     "uniques": 1
   },
   {
-    "referrer": "Google",
+    "referrer": "6aiq.com",
     "count": 5,
-    "uniques": 1
+    "uniques": 4
+  },
+  {
+    "referrer": "link.1point3acres.com",
+    "count": 5,
+    "uniques": 2
   },
   {
     "referrer": "ava-yangl.github.io",
