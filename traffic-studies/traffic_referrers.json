@@ -1,7 +1,7 @@
 [
   {
     "referrer": "github.com",
-    "count": 201,
+    "count": 198,
     "uniques": 34
   },
   {
@@ -20,9 +20,9 @@
     "uniques": 3
   },
   {
-    "referrer": "link.juejin.cn",
-    "count": 11,
-    "uniques": 3
+    "referrer": "bbs.huaweicloud.com",
+    "count": 10,
+    "uniques": 2
   },
   {
     "referrer": "shimo.im",
@@ -40,13 +40,13 @@
     "uniques": 4
   },
   {
-    "referrer": "link.1point3acres.com",
+    "referrer": "link.juejin.cn",
     "count": 5,
     "uniques": 2
   },
   {
-    "referrer": "ava-yangl.github.io",
+    "referrer": "link.1point3acres.com",
     "count": 5,
-    "uniques": 1
+    "uniques": 2
   }
 ]
