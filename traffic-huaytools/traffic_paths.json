@@ -1,49 +1,25 @@
 [
   {
-    "path": "/imhuay/huaytools/actions/runs/3325661944",
-    "title": "Build · imhuay/huaytools@4e707ef",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "path": "/imhuay/huaytools",
     "title": "imhuay/huaytools: Personal python toolbox.",
-    "count": 1,
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/imhuay/huaytools/actions",
-    "title": "Actions · imhuay/huaytools",
-    "count": 1,
+    "path": "/imhuay/huaytools/actions/runs/3420884666/jobs/5696280471",
+    "title": "Fix: mypy no_implicit_optional · imhuay/huaytools@0e75978",
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/imhuay/huaytools/actions/runs/3325661944/jobs/5498584092",
-    "title": "Build · imhuay/huaytools@4e707ef",
-    "count": 1,
+    "path": "/imhuay/huaytools/blob/master/setup.cfg",
+    "title": "huaytools/setup.cfg at master · imhuay/huaytools",
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/imhuay/huaytools/actions/runs/3325661944/jobs/5498584651",
-    "title": "Build · imhuay/huaytools@4e707ef",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/blob/master/.github/workflows/release.yml",
-    "title": "huaytools/release.yml at master · imhuay/huaytools",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/issues",
-    "title": "Issues · imhuay/huaytools",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/tree/master/.github/workflows",
-    "title": "huaytools/.github/workflows at master · imhuay/huaytools",
+    "path": "/imhuay/huaytools/actions/runs/3420924223/jobs/5696371987",
+    "title": "Fix: mypy no_implicit_optional · imhuay/huaytools@7589fcc",
     "count": 1,
     "uniques": 1
   }
