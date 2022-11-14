@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/huaytools",
     "title": "imhuay/huaytools: Personal python toolbox.",
-    "count": 3,
-    "uniques": 2
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/imhuay/huaytools/actions/runs/3420884666/jobs/5696280471",
@@ -26,6 +26,12 @@
   {
     "path": "/imhuay/huaytools/blob/master/README.md",
     "title": "huaytools/README.md at master · imhuay/huaytools",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/huaytools/blob/master/setup.py",
+    "title": "huaytools/setup.py at master · imhuay/huaytools",
     "count": 1,
     "uniques": 1
   }
