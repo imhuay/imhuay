@@ -2,26 +2,8 @@
   {
     "path": "/imhuay/huaytools",
     "title": "imhuay/huaytools: Personal python toolbox.",
-    "count": 5,
-    "uniques": 4
-  },
-  {
-    "path": "/imhuay/huaytools/actions/runs/3420884666/jobs/5696280471",
-    "title": "Fix: mypy no_implicit_optional · imhuay/huaytools@0e75978",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/blob/master/setup.cfg",
-    "title": "huaytools/setup.cfg at master · imhuay/huaytools",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/actions/runs/3420924223/jobs/5696371987",
-    "title": "Fix: mypy no_implicit_optional · imhuay/huaytools@7589fcc",
-    "count": 1,
-    "uniques": 1
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/imhuay/huaytools/blob/master/README.md",
