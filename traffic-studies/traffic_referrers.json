@@ -1,7 +1,7 @@
 [
   {
     "referrer": "github.com",
-    "count": 91,
+    "count": 93,
     "uniques": 29
   },
   {
@@ -11,8 +11,13 @@
   },
   {
     "referrer": "1o24bbs.com",
-    "count": 20,
-    "uniques": 4
+    "count": 31,
+    "uniques": 6
+  },
+  {
+    "referrer": "link.zhihu.com",
+    "count": 14,
+    "uniques": 7
   },
   {
     "referrer": "shimo.im",
@@ -25,19 +30,9 @@
     "uniques": 2
   },
   {
-    "referrer": "link.zhihu.com",
-    "count": 9,
-    "uniques": 6
-  },
-  {
     "referrer": "developer.aliyun.com",
     "count": 6,
     "uniques": 2
-  },
-  {
-    "referrer": "link.csdn.net",
-    "count": 6,
-    "uniques": 1
   },
   {
     "referrer": "githubs.cn",
@@ -45,7 +40,12 @@
     "uniques": 2
   },
   {
-    "referrer": "gitee.com",
+    "referrer": "link.juejin.cn",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "referrer": "blog.51cto.com",
     "count": 4,
     "uniques": 1
   }
