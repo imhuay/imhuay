@@ -55,9 +55,9 @@ class ImHuay:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 mins
+Total Time: 4 mins
 
-GitHub   5 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+GitHub   4 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
