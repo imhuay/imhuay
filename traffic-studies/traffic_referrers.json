@@ -2,7 +2,7 @@
   {
     "referrer": "github.com",
     "count": 66,
-    "uniques": 25
+    "uniques": 26
   },
   {
     "referrer": "6aiq.com",
@@ -10,19 +10,14 @@
     "uniques": 5
   },
   {
-    "referrer": "1o24bbs.com",
-    "count": 23,
-    "uniques": 4
-  },
-  {
     "referrer": "shimo.im",
     "count": 22,
     "uniques": 7
   },
   {
-    "referrer": "link.zhihu.com",
-    "count": 20,
-    "uniques": 9
+    "referrer": "Google",
+    "count": 17,
+    "uniques": 4
   },
   {
     "referrer": "link.csdn.net",
@@ -30,13 +25,13 @@
     "uniques": 2
   },
   {
-    "referrer": "Google",
-    "count": 14,
-    "uniques": 3
+    "referrer": "link.zhihu.com",
+    "count": 16,
+    "uniques": 9
   },
   {
-    "referrer": "link.juejin.cn",
-    "count": 5,
+    "referrer": "1o24bbs.com",
+    "count": 12,
     "uniques": 2
   },
   {
@@ -46,6 +41,11 @@
   },
   {
     "referrer": "archive.org",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "referrer": "developer.aliyun.com",
     "count": 4,
     "uniques": 1
   }
