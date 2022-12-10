@@ -2,14 +2,14 @@
   {
     "path": "/imhuay/studies",
     "title": "imhuay/studies: Notes of Develop/NLP/DeepLearning/Algorithms/LeetCodes",
-    "count": 165,
-    "uniques": 102
+    "count": 173,
+    "uniques": 107
   },
   {
     "path": "/imhuay/studies/blob/master/algorithms/README.md",
     "title": "studies/README.md at master · imhuay/studies · GitHub",
-    "count": 40,
-    "uniques": 24
+    "count": 39,
+    "uniques": 23
   },
   {
     "path": "/imhuay/studies/blob/master/notes/010-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md",
@@ -20,7 +20,13 @@
   {
     "path": "/imhuay/studies/tree/master/notes",
     "title": "studies/notes at master · imhuay/studies · GitHub",
-    "count": 15,
+    "count": 18,
+    "uniques": 10
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/999-WIKI.md",
+    "title": "studies/999-WIKI.md at master · imhuay/studies · GitHub",
+    "count": 14,
     "uniques": 10
   },
   {
@@ -28,12 +34,6 @@
     "title": "studies/Transformer常见面试问题.md at master · imhuay/studies · GitHub",
     "count": 14,
     "uniques": 9
-  },
-  {
-    "path": "/imhuay/studies/blob/master/notes/999-WIKI.md",
-    "title": "studies/999-WIKI.md at master · imhuay/studies · GitHub",
-    "count": 13,
-    "uniques": 11
   },
   {
     "path": "/imhuay/studies/blob/master/notes/020-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md",
@@ -54,9 +54,9 @@
     "uniques": 8
   },
   {
-    "path": "/imhuay/studies/blob/master/notes/030-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.md",
-    "title": "studies/030-自然语言处理.md at master · imhuay/studies · GitHub",
-    "count": 7,
-    "uniques": 5
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/RNN.md",
+    "title": "studies/RNN.md at master · imhuay/studies · GitHub",
+    "count": 8,
+    "uniques": 4
   }
 ]
