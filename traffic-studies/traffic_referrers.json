@@ -1,37 +1,32 @@
 [
   {
     "referrer": "github.com",
-    "count": 149,
-    "uniques": 28
-  },
-  {
-    "referrer": "link.zhihu.com",
-    "count": 26,
-    "uniques": 14
+    "count": 157,
+    "uniques": 30
   },
   {
     "referrer": "6aiq.com",
-    "count": 23,
-    "uniques": 9
+    "count": 22,
+    "uniques": 8
   },
   {
     "referrer": "link.csdn.net",
-    "count": 19,
-    "uniques": 4
+    "count": 22,
+    "uniques": 5
   },
   {
-    "referrer": "shimo.im",
+    "referrer": "link.zhihu.com",
+    "count": 21,
+    "uniques": 12
+  },
+  {
+    "referrer": "1o24bbs.com",
     "count": 14,
     "uniques": 2
   },
   {
     "referrer": "gitee.com",
     "count": 12,
-    "uniques": 2
-  },
-  {
-    "referrer": "1o24bbs.com",
-    "count": 11,
     "uniques": 2
   },
   {
@@ -47,6 +42,11 @@
   {
     "referrer": "app.yinxiang.com",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "referrer": "bbs.pinggu.org",
+    "count": 2,
     "uniques": 1
   }
 ]
