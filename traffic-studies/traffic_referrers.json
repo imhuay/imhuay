@@ -1,7 +1,7 @@
 [
   {
     "referrer": "github.com",
-    "count": 139,
+    "count": 128,
     "uniques": 25
   },
   {
@@ -10,14 +10,14 @@
     "uniques": 6
   },
   {
-    "referrer": "link.zhihu.com",
-    "count": 20,
-    "uniques": 11
+    "referrer": "6aiq.com",
+    "count": 25,
+    "uniques": 10
   },
   {
-    "referrer": "6aiq.com",
-    "count": 19,
-    "uniques": 8
+    "referrer": "link.zhihu.com",
+    "count": 20,
+    "uniques": 10
   },
   {
     "referrer": "gitee.com",
@@ -35,11 +35,6 @@
     "uniques": 1
   },
   {
-    "referrer": "app.yinxiang.com",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "referrer": "onebox.huawei.com",
     "count": 3,
     "uniques": 1
@@ -48,5 +43,10 @@
     "referrer": "Google",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "bbs.pinggu.org",
+    "count": 2,
+    "uniques": 1
   }
 ]
