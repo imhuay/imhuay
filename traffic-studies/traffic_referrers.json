@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 128,
-    "uniques": 25
+    "count": 141,
+    "uniques": 30
   },
   {
     "referrer": "link.csdn.net",
@@ -16,7 +16,7 @@
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 20,
+    "count": 21,
     "uniques": 10
   },
   {
@@ -28,11 +28,6 @@
     "referrer": "1o24bbs.com",
     "count": 14,
     "uniques": 2
-  },
-  {
-    "referrer": "github.dev",
-    "count": 6,
-    "uniques": 1
   },
   {
     "referrer": "onebox.huawei.com",
@@ -47,6 +42,11 @@
   {
     "referrer": "bbs.pinggu.org",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "Bing",
+    "count": 1,
     "uniques": 1
   }
 ]
