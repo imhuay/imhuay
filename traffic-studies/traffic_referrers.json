@@ -1,13 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 116,
-    "uniques": 31
+    "count": 93,
+    "uniques": 30
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 31,
-    "uniques": 11
+    "count": 33,
+    "uniques": 12
+  },
+  {
+    "referrer": "gitee.com",
+    "count": 20,
+    "uniques": 5
   },
   {
     "referrer": "6aiq.com",
@@ -16,18 +21,13 @@
   },
   {
     "referrer": "link.csdn.net",
-    "count": 18,
-    "uniques": 4
-  },
-  {
-    "referrer": "gitee.com",
-    "count": 16,
-    "uniques": 5
+    "count": 12,
+    "uniques": 3
   },
   {
     "referrer": "1o24bbs.com",
-    "count": 14,
-    "uniques": 2
+    "count": 9,
+    "uniques": 1
   },
   {
     "referrer": "onebox.huawei.com",
@@ -45,8 +45,8 @@
     "uniques": 1
   },
   {
-    "referrer": "Bing",
-    "count": 1,
+    "referrer": "shimo.im",
+    "count": 2,
     "uniques": 1
   }
 ]
