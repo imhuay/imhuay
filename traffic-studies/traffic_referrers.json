@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 67,
+    "count": 78,
     "uniques": 31
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 38,
-    "uniques": 13
+    "count": 37,
+    "uniques": 12
   },
   {
     "referrer": "1o24bbs.com",
@@ -25,27 +25,27 @@
     "uniques": 3
   },
   {
-    "referrer": "link.csdn.net",
-    "count": 8,
-    "uniques": 2
-  },
-  {
     "referrer": "shimo.im",
     "count": 3,
     "uniques": 2
   },
   {
-    "referrer": "onebox.huawei.com",
-    "count": 3,
+    "referrer": "bbs.pinggu.org",
+    "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "Google",
+    "referrer": "link.csdn.net",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "bigquant.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "bbs.huaweicloud.com",
     "count": 1,
     "uniques": 1
   }
