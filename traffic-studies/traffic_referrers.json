@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 78,
-    "uniques": 31
+    "count": 81,
+    "uniques": 32
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 37,
-    "uniques": 12
+    "count": 35,
+    "uniques": 11
   },
   {
     "referrer": "1o24bbs.com",
@@ -15,14 +15,14 @@
     "uniques": 4
   },
   {
-    "referrer": "6aiq.com",
-    "count": 12,
-    "uniques": 4
-  },
-  {
     "referrer": "gitee.com",
     "count": 8,
     "uniques": 3
+  },
+  {
+    "referrer": "6aiq.com",
+    "count": 6,
+    "uniques": 2
   },
   {
     "referrer": "shimo.im",
@@ -45,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "bbs.huaweicloud.com",
+    "referrer": "chunlife.top",
     "count": 1,
     "uniques": 1
   }
