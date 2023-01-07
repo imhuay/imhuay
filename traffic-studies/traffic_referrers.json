@@ -1,13 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 83,
-    "uniques": 30
-  },
-  {
-    "referrer": "link.zhihu.com",
-    "count": 25,
-    "uniques": 8
+    "count": 85,
+    "uniques": 27
   },
   {
     "referrer": "1o24bbs.com",
@@ -15,9 +10,24 @@
     "uniques": 6
   },
   {
-    "referrer": "gitee.com",
-    "count": 8,
+    "referrer": "link.zhihu.com",
+    "count": 11,
+    "uniques": 6
+  },
+  {
+    "referrer": "6aiq.com",
+    "count": 11,
     "uniques": 3
+  },
+  {
+    "referrer": "link.juejin.cn",
+    "count": 11,
+    "uniques": 1
+  },
+  {
+    "referrer": "gitee.com",
+    "count": 6,
+    "uniques": 2
   },
   {
     "referrer": "shimo.im",
@@ -25,8 +35,8 @@
     "uniques": 2
   },
   {
-    "referrer": "6aiq.com",
-    "count": 3,
+    "referrer": "Google",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -36,16 +46,6 @@
   },
   {
     "referrer": "link.csdn.net",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "bigquant.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "chunlife.top",
     "count": 1,
     "uniques": 1
   }
