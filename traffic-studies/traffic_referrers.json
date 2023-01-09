@@ -1,7 +1,7 @@
 [
   {
     "referrer": "github.com",
-    "count": 88,
+    "count": 95,
     "uniques": 27
   },
   {
@@ -21,17 +21,12 @@
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 10,
-    "uniques": 5
+    "count": 7,
+    "uniques": 3
   },
   {
     "referrer": "gitee.com",
-    "count": 6,
-    "uniques": 2
-  },
-  {
-    "referrer": "shimo.im",
-    "count": 3,
+    "count": 4,
     "uniques": 2
   },
   {
@@ -45,7 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "link.csdn.net",
+    "referrer": "shimo.im",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "bigquant.com",
     "count": 1,
     "uniques": 1
   }

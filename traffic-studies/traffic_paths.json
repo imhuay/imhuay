@@ -2,14 +2,14 @@
   {
     "path": "/imhuay/studies",
     "title": "imhuay/studies: Notes of Develop/NLP/DeepLearning/Algorithms/LeetCodes",
-    "count": 183,
-    "uniques": 101
+    "count": 182,
+    "uniques": 95
   },
   {
     "path": "/imhuay/studies/blob/master/algorithms/README.md",
     "title": "studies/README.md at master · imhuay/studies · GitHub",
-    "count": 32,
-    "uniques": 19
+    "count": 30,
+    "uniques": 18
   },
   {
     "path": "/imhuay/studies/blob/master/notes/010-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md",
@@ -32,20 +32,14 @@
   {
     "path": "/imhuay/studies/tree/master/algorithms",
     "title": "studies/algorithms at master · imhuay/studies · GitHub",
-    "count": 9,
-    "uniques": 7
+    "count": 10,
+    "uniques": 8
   },
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md",
     "title": "studies/激活函数.md at master · imhuay/studies · GitHub",
-    "count": 8,
-    "uniques": 8
-  },
-  {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/CNN.md",
-    "title": "studies/CNN.md at master · imhuay/studies · GitHub",
-    "count": 8,
-    "uniques": 7
+    "count": 9,
+    "uniques": 9
   },
   {
     "path": "/imhuay/studies/tree/master/notes",
@@ -54,9 +48,15 @@
     "uniques": 7
   },
   {
-    "path": "/imhuay/studies/blob/master/notes/999-WIKI.md",
-    "title": "studies/999-WIKI.md at master · imhuay/studies · GitHub",
-    "count": 6,
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/CNN.md",
+    "title": "studies/CNN.md at master · imhuay/studies · GitHub",
+    "count": 7,
     "uniques": 6
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/110-Python.md",
+    "title": "studies/110-Python.md at master · imhuay/studies · GitHub",
+    "count": 6,
+    "uniques": 5
   }
 ]
