@@ -2,14 +2,14 @@
   {
     "path": "/imhuay/studies",
     "title": "imhuay/studies: Notes of Develop/NLP/DeepLearning/Algorithms/LeetCodes",
-    "count": 156,
-    "uniques": 105
+    "count": 152,
+    "uniques": 109
   },
   {
     "path": "/imhuay/studies/blob/master/notes/010-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md",
     "title": "studies/010-深度学习.md at master · imhuay/studies · GitHub",
-    "count": 46,
-    "uniques": 22
+    "count": 47,
+    "uniques": 24
   },
   {
     "path": "/imhuay/studies/blob/master/algorithms/README.md",
@@ -26,14 +26,8 @@
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/CNN.md",
     "title": "studies/CNN.md at master · imhuay/studies · GitHub",
-    "count": 11,
-    "uniques": 8
-  },
-  {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md",
-    "title": "studies/激活函数.md at master · imhuay/studies · GitHub",
-    "count": 11,
-    "uniques": 8
+    "count": 12,
+    "uniques": 9
   },
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E8%BF%87%E6%8B%9F%E5%90%88%E4%B8%8E%E6%AD%A3%E5%88%99%E5%8C%96.md",
@@ -42,20 +36,26 @@
     "uniques": 3
   },
   {
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md",
+    "title": "studies/激活函数.md at master · imhuay/studies · GitHub",
+    "count": 10,
+    "uniques": 8
+  },
+  {
     "path": "/imhuay/studies/tree/master/notes",
     "title": "studies/notes at master · imhuay/studies",
     "count": 10,
     "uniques": 8
   },
   {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.md",
-    "title": "studies/损失函数.md at master · imhuay/studies · GitHub",
-    "count": 10,
-    "uniques": 6
-  },
-  {
     "path": "/imhuay/studies/blob/master/algorithms/problems/2021/11/%E5%89%91%E6%8C%87Offer_0300_%E7%AE%80%E5%8D%95_%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.md",
     "title": "studies/剑指Offer_0300_简单_数组中重复的数字.md at master · imhuay/studies · GitHub",
+    "count": 9,
+    "uniques": 7
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/020-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md",
+    "title": "studies/020-机器学习.md at master · imhuay/studies · GitHub",
     "count": 9,
     "uniques": 7
   }
