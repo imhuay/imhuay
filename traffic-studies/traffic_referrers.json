@@ -6,8 +6,8 @@
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 21,
-    "uniques": 10
+    "count": 22,
+    "uniques": 11
   },
   {
     "referrer": "1o24bbs.com",
@@ -16,18 +16,8 @@
   },
   {
     "referrer": "Google",
-    "count": 11,
-    "uniques": 6
-  },
-  {
-    "referrer": "6aiq.com",
-    "count": 11,
+    "count": 10,
     "uniques": 5
-  },
-  {
-    "referrer": "shimo.im",
-    "count": 6,
-    "uniques": 2
   },
   {
     "referrer": "yuque.com",
@@ -40,12 +30,22 @@
     "uniques": 2
   },
   {
-    "referrer": "hd.nowcoder.com",
+    "referrer": "shimo.im",
     "count": 3,
     "uniques": 1
   },
   {
     "referrer": "bbs.huaweicloud.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "rvlavpltis.jiandaoyun.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "link.juejin.cn",
     "count": 1,
     "uniques": 1
   }
