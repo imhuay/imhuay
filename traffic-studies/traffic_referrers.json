@@ -1,7 +1,7 @@
 [
   {
     "referrer": "github.com",
-    "count": 56,
+    "count": 55,
     "uniques": 22
   },
   {
@@ -10,13 +10,13 @@
     "uniques": 10
   },
   {
-    "referrer": "1o24bbs.com",
-    "count": 13,
-    "uniques": 5
-  },
-  {
     "referrer": "Google",
     "count": 9,
+    "uniques": 4
+  },
+  {
+    "referrer": "1o24bbs.com",
+    "count": 7,
     "uniques": 4
   },
   {
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "shimo.im",
-    "count": 3,
-    "uniques": 1
+    "count": 4,
+    "uniques": 2
   },
   {
     "referrer": "bbs.huaweicloud.com",
