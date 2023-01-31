@@ -1,13 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 101,
-    "uniques": 27
-  },
-  {
-    "referrer": "link.zhihu.com",
-    "count": 12,
-    "uniques": 8
+    "count": 92,
+    "uniques": 28
   },
   {
     "referrer": "6aiq.com",
@@ -15,9 +10,14 @@
     "uniques": 5
   },
   {
+    "referrer": "link.zhihu.com",
+    "count": 10,
+    "uniques": 7
+  },
+  {
     "referrer": "Google",
-    "count": 5,
-    "uniques": 3
+    "count": 6,
+    "uniques": 4
   },
   {
     "referrer": "shimo.im",
@@ -40,12 +40,12 @@
     "uniques": 2
   },
   {
-    "referrer": "rvlavpltis.jiandaoyun.com",
-    "count": 1,
-    "uniques": 1
+    "referrer": "link.juejin.cn",
+    "count": 2,
+    "uniques": 2
   },
   {
-    "referrer": "gitee.com",
+    "referrer": "rvlavpltis.jiandaoyun.com",
     "count": 1,
     "uniques": 1
   }
