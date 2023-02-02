@@ -1,8 +1,23 @@
 [
   {
     "referrer": "github.com",
-    "count": 88,
-    "uniques": 28
+    "count": 87,
+    "uniques": 29
+  },
+  {
+    "referrer": "link.juejin.cn",
+    "count": 33,
+    "uniques": 4
+  },
+  {
+    "referrer": "Google",
+    "count": 15,
+    "uniques": 6
+  },
+  {
+    "referrer": "6aiq.com",
+    "count": 12,
+    "uniques": 6
   },
   {
     "referrer": "shimo.im",
@@ -10,24 +25,14 @@
     "uniques": 5
   },
   {
-    "referrer": "6aiq.com",
-    "count": 11,
-    "uniques": 5
-  },
-  {
     "referrer": "link.zhihu.com",
-    "count": 7,
-    "uniques": 6
+    "count": 8,
+    "uniques": 7
   },
   {
     "referrer": "1o24bbs.com",
     "count": 7,
     "uniques": 3
-  },
-  {
-    "referrer": "Google",
-    "count": 6,
-    "uniques": 4
   },
   {
     "referrer": "bbs.huaweicloud.com",
@@ -40,13 +45,8 @@
     "uniques": 3
   },
   {
-    "referrer": "link.juejin.cn",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "rvlavpltis.jiandaoyun.com",
-    "count": 1,
+    "referrer": "pudn.com",
+    "count": 4,
     "uniques": 1
   }
 ]
