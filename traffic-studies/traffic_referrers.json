@@ -1,7 +1,7 @@
 [
   {
     "referrer": "github.com",
-    "count": 137,
+    "count": 133,
     "uniques": 51
   },
   {
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "6aiq.com",
-    "count": 15,
-    "uniques": 8
+    "count": 19,
+    "uniques": 9
   },
   {
     "referrer": "1o24bbs.com",
@@ -31,8 +31,13 @@
   },
   {
     "referrer": "Google",
-    "count": 11,
-    "uniques": 7
+    "count": 10,
+    "uniques": 6
+  },
+  {
+    "referrer": "link.juejin.cn",
+    "count": 8,
+    "uniques": 5
   },
   {
     "referrer": "blog.51cto.com",
@@ -43,10 +48,5 @@
     "referrer": "bbs.huaweicloud.com",
     "count": 7,
     "uniques": 2
-  },
-  {
-    "referrer": "link.juejin.cn",
-    "count": 6,
-    "uniques": 4
   }
 ]
