@@ -1,38 +1,33 @@
 [
   {
     "referrer": "github.com",
-    "count": 157,
-    "uniques": 61
+    "count": 161,
+    "uniques": 62
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 73,
+    "count": 71,
     "uniques": 19
   },
   {
     "referrer": "6aiq.com",
-    "count": 58,
-    "uniques": 17
-  },
-  {
-    "referrer": "1o24bbs.com",
-    "count": 24,
-    "uniques": 4
+    "count": 63,
+    "uniques": 18
   },
   {
     "referrer": "bbs.huaweicloud.com",
-    "count": 17,
-    "uniques": 4
+    "count": 23,
+    "uniques": 6
   },
   {
     "referrer": "Google",
-    "count": 15,
-    "uniques": 5
+    "count": 16,
+    "uniques": 6
   },
   {
-    "referrer": "shuzhiduo.com",
-    "count": 8,
-    "uniques": 1
+    "referrer": "1o24bbs.com",
+    "count": 15,
+    "uniques": 3
   },
   {
     "referrer": "mail.google.com",
@@ -46,6 +41,11 @@
   },
   {
     "referrer": "fvfr8uqlu6.feishu.cn",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "referrer": "ddosi.org",
     "count": 3,
     "uniques": 1
   }
