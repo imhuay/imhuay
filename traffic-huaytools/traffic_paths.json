@@ -1,55 +1,7 @@
 [
   {
     "path": "/imhuay/huaytools",
-    "title": "imhuay/huaytools: Personal python toolbox.",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/imhuay/huaytools/blob/master/LICENSE",
-    "title": "huaytools/LICENSE at master · imhuay/huaytools",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/blob/master/README.md",
-    "title": "huaytools/README.md at master · imhuay/huaytools",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/blob/master/requirements.txt",
-    "title": "huaytools/requirements.txt at master · imhuay/huaytools",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/blob/master/src/huaytools/extensions/dict_extensions.py",
-    "title": "huaytools/dict_extensions.py at master · imhuay/huaytools",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/blob/master/tests/__init__.py",
-    "title": "huaytools/__init__.py at master · imhuay/huaytools",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/tree/master/src/huaytools",
-    "title": "huaytools/src/huaytools at master · imhuay/huaytools",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/tree/master/src/huaytools/extensions",
-    "title": "huaytools/src/huaytools/extensions at master · imhuay/huaytools",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/tree/master/tests",
-    "title": "huaytools/tests at master · imhuay/huaytools",
+    "title": "GitHub - imhuay/huaytools: Personal python toolbox.",
     "count": 1,
     "uniques": 1
   }
