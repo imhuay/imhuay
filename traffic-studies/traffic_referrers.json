@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 197,
-    "uniques": 61
+    "count": 201,
+    "uniques": 63
   },
   {
     "referrer": "6aiq.com",
-    "count": 85,
-    "uniques": 19
+    "count": 88,
+    "uniques": 20
   },
   {
     "referrer": "link.zhihu.com",
@@ -30,6 +30,11 @@
     "uniques": 5
   },
   {
+    "referrer": "link.juejin.cn",
+    "count": 9,
+    "uniques": 4
+  },
+  {
     "referrer": "fantasy-jxf.gitbook.io",
     "count": 8,
     "uniques": 2
@@ -38,11 +43,6 @@
     "referrer": "coladrill.github.io",
     "count": 7,
     "uniques": 1
-  },
-  {
-    "referrer": "link.juejin.cn",
-    "count": 6,
-    "uniques": 3
   },
   {
     "referrer": "developer.aliyun.com",
