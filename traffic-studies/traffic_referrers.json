@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 201,
-    "uniques": 63
+    "count": 205,
+    "uniques": 64
   },
   {
     "referrer": "6aiq.com",
@@ -11,18 +11,13 @@
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 29,
-    "uniques": 17
+    "count": 31,
+    "uniques": 18
   },
   {
     "referrer": "link.csdn.net",
-    "count": 16,
-    "uniques": 4
-  },
-  {
-    "referrer": "bbs.huaweicloud.com",
-    "count": 11,
-    "uniques": 1
+    "count": 13,
+    "uniques": 3
   },
   {
     "referrer": "Google",
@@ -47,6 +42,11 @@
   {
     "referrer": "developer.aliyun.com",
     "count": 4,
+    "uniques": 1
+  },
+  {
+    "referrer": "gitee.com",
+    "count": 2,
     "uniques": 1
   }
 ]
