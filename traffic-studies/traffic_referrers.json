@@ -1,28 +1,23 @@
 [
   {
     "referrer": "github.com",
-    "count": 205,
-    "uniques": 64
+    "count": 160,
+    "uniques": 59
   },
   {
     "referrer": "6aiq.com",
-    "count": 88,
-    "uniques": 20
-  },
-  {
-    "referrer": "link.zhihu.com",
-    "count": 31,
+    "count": 80,
     "uniques": 18
   },
   {
-    "referrer": "link.csdn.net",
-    "count": 13,
-    "uniques": 3
+    "referrer": "link.zhihu.com",
+    "count": 33,
+    "uniques": 20
   },
   {
     "referrer": "Google",
-    "count": 9,
-    "uniques": 5
+    "count": 12,
+    "uniques": 6
   },
   {
     "referrer": "link.juejin.cn",
@@ -38,6 +33,11 @@
     "referrer": "coladrill.github.io",
     "count": 7,
     "uniques": 1
+  },
+  {
+    "referrer": "link.csdn.net",
+    "count": 6,
+    "uniques": 2
   },
   {
     "referrer": "developer.aliyun.com",
