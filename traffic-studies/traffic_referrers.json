@@ -1,38 +1,38 @@
 [
   {
     "referrer": "github.com",
-    "count": 142,
-    "uniques": 47
+    "count": 124,
+    "uniques": 45
   },
   {
     "referrer": "6aiq.com",
-    "count": 56,
-    "uniques": 14
+    "count": 58,
+    "uniques": 15
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 49,
-    "uniques": 22
+    "count": 57,
+    "uniques": 24
+  },
+  {
+    "referrer": "mark-to-win.com",
+    "count": 12,
+    "uniques": 1
   },
   {
     "referrer": "Google",
-    "count": 12,
-    "uniques": 6
-  },
-  {
-    "referrer": "link.csdn.net",
-    "count": 12,
-    "uniques": 4
+    "count": 9,
+    "uniques": 5
   },
   {
     "referrer": "link.juejin.cn",
-    "count": 9,
+    "count": 8,
     "uniques": 3
   },
   {
-    "referrer": "coladrill.github.io",
-    "count": 7,
-    "uniques": 1
+    "referrer": "link.csdn.net",
+    "count": 8,
+    "uniques": 3
   },
   {
     "referrer": "zhihu.com",
@@ -45,8 +45,8 @@
     "uniques": 1
   },
   {
-    "referrer": "Bing",
+    "referrer": "shimo.im",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   }
 ]
