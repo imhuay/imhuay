@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/imhuay",
     "title": "imhuay/imhuay",
-    "count": 5,
-    "uniques": 4
+    "count": 6,
+    "uniques": 5
   },
   {
     "path": "/imhuay/imhuay/blob/master/README.md",
@@ -27,6 +27,18 @@
     "path": "/imhuay/imhuay/blob/master/.github/workflows/waka-readme.yml",
     "title": "imhuay/waka-readme.yml at master · imhuay/imhuay",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/imhuay/compare",
+    "title": "Compare · imhuay/imhuay",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/imhuay/pulls",
+    "title": "Pull requests · imhuay/imhuay",
+    "count": 1,
     "uniques": 1
   }
 ]
