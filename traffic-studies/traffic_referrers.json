@@ -1,18 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 141,
-    "uniques": 44
+    "count": 132,
+    "uniques": 39
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 57,
+    "count": 58,
     "uniques": 23
   },
   {
     "referrer": "6aiq.com",
-    "count": 27,
-    "uniques": 10
+    "count": 21,
+    "uniques": 8
   },
   {
     "referrer": "mark-to-win.com",
@@ -20,12 +20,12 @@
     "uniques": 1
   },
   {
-    "referrer": "link.csdn.net",
+    "referrer": "Google",
     "count": 8,
-    "uniques": 3
+    "uniques": 4
   },
   {
-    "referrer": "link.juejin.cn",
+    "referrer": "link.csdn.net",
     "count": 8,
     "uniques": 3
   },
@@ -33,11 +33,6 @@
     "referrer": "learnku.com",
     "count": 8,
     "uniques": 1
-  },
-  {
-    "referrer": "Google",
-    "count": 7,
-    "uniques": 3
   },
   {
     "referrer": "zhihu.com",
@@ -48,5 +43,10 @@
     "referrer": "toutiao.io",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "referrer": "shimo.im",
+    "count": 2,
+    "uniques": 2
   }
 ]
