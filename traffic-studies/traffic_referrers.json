@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 132,
-    "uniques": 39
+    "count": 126,
+    "uniques": 38
   },
   {
     "referrer": "link.zhihu.com",
     "count": 58,
-    "uniques": 23
+    "uniques": 24
   },
   {
     "referrer": "6aiq.com",
@@ -40,13 +40,13 @@
     "uniques": 2
   },
   {
-    "referrer": "toutiao.io",
-    "count": 3,
+    "referrer": "lanqiao.cn",
+    "count": 4,
     "uniques": 1
   },
   {
-    "referrer": "shimo.im",
-    "count": 2,
-    "uniques": 2
+    "referrer": "toutiao.io",
+    "count": 3,
+    "uniques": 1
   }
 ]
