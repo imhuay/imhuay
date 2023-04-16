@@ -1,28 +1,23 @@
 [
   {
     "referrer": "github.com",
-    "count": 126,
-    "uniques": 38
+    "count": 125,
+    "uniques": 37
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 58,
-    "uniques": 24
+    "count": 55,
+    "uniques": 21
   },
   {
     "referrer": "6aiq.com",
-    "count": 21,
-    "uniques": 8
+    "count": 30,
+    "uniques": 9
   },
   {
     "referrer": "mark-to-win.com",
     "count": 12,
     "uniques": 1
-  },
-  {
-    "referrer": "Google",
-    "count": 8,
-    "uniques": 4
   },
   {
     "referrer": "link.csdn.net",
@@ -33,6 +28,11 @@
     "referrer": "learnku.com",
     "count": 8,
     "uniques": 1
+  },
+  {
+    "referrer": "Google",
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "zhihu.com",
