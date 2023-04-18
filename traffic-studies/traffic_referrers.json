@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 134,
-    "uniques": 35
+    "count": 106,
+    "uniques": 31
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 52,
-    "uniques": 18
+    "count": 50,
+    "uniques": 17
   },
   {
     "referrer": "6aiq.com",
@@ -15,19 +15,19 @@
     "uniques": 8
   },
   {
-    "referrer": "mark-to-win.com",
-    "count": 12,
-    "uniques": 1
+    "referrer": "link.csdn.net",
+    "count": 17,
+    "uniques": 5
   },
   {
     "referrer": "Google",
-    "count": 11,
+    "count": 14,
     "uniques": 4
   },
   {
-    "referrer": "link.csdn.net",
-    "count": 8,
-    "uniques": 3
+    "referrer": "mark-to-win.com",
+    "count": 12,
+    "uniques": 1
   },
   {
     "referrer": "learnku.com",
@@ -35,12 +35,12 @@
     "uniques": 1
   },
   {
-    "referrer": "zhihu.com",
-    "count": 4,
-    "uniques": 2
+    "referrer": "link.juejin.cn",
+    "count": 7,
+    "uniques": 3
   },
   {
-    "referrer": "link.juejin.cn",
+    "referrer": "zhihu.com",
     "count": 4,
     "uniques": 2
   },
