@@ -1,18 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 120,
-    "uniques": 31
+    "count": 123,
+    "uniques": 36
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 44,
-    "uniques": 16
+    "count": 50,
+    "uniques": 18
   },
   {
     "referrer": "6aiq.com",
-    "count": 28,
-    "uniques": 9
+    "count": 30,
+    "uniques": 11
   },
   {
     "referrer": "Google",
@@ -30,14 +30,14 @@
     "uniques": 1
   },
   {
+    "referrer": "link.juejin.cn",
+    "count": 9,
+    "uniques": 4
+  },
+  {
     "referrer": "learnku.com",
     "count": 8,
     "uniques": 1
-  },
-  {
-    "referrer": "link.juejin.cn",
-    "count": 7,
-    "uniques": 3
   },
   {
     "referrer": "zhihu.com",
