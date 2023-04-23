@@ -2,17 +2,17 @@
   {
     "referrer": "github.com",
     "count": 135,
-    "uniques": 36
+    "uniques": 35
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 38,
-    "uniques": 16
+    "count": 37,
+    "uniques": 15
   },
   {
     "referrer": "6aiq.com",
-    "count": 38,
-    "uniques": 12
+    "count": 31,
+    "uniques": 11
   },
   {
     "referrer": "Google",
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "link.csdn.net",
-    "count": 16,
-    "uniques": 4
+    "count": 15,
+    "uniques": 3
   },
   {
     "referrer": "mark-to-win.com",
@@ -40,9 +40,9 @@
     "uniques": 1
   },
   {
-    "referrer": "zhihu.com",
+    "referrer": "yuque.com",
     "count": 4,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "referrer": "lanqiao.cn",
