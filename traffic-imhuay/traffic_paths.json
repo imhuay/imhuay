@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/imhuay",
     "title": "imhuay/imhuay",
-    "count": 3,
-    "uniques": 2
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/imhuay/imhuay/blob/master/.github/workflows/traffic2badge.yml",
@@ -21,18 +21,6 @@
     "path": "/imhuay/imhuay/tree/master/.github/workflows",
     "title": "imhuay/.github/workflows at master · imhuay/imhuay",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/imhuay/compare",
-    "title": "Compare · imhuay/imhuay",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/imhuay/pulls",
-    "title": "Pull requests · imhuay/imhuay",
-    "count": 1,
     "uniques": 1
   }
 ]
