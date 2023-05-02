@@ -1,18 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 140,
-    "uniques": 43
+    "count": 116,
+    "uniques": 39
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 49,
-    "uniques": 20
+    "count": 53,
+    "uniques": 21
   },
   {
     "referrer": "6aiq.com",
-    "count": 36,
-    "uniques": 10
+    "count": 35,
+    "uniques": 9
   },
   {
     "referrer": "Google",
@@ -36,12 +36,12 @@
   },
   {
     "referrer": "shimo.im",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
-    "referrer": "1o24bbs.com",
-    "count": 2,
+    "referrer": "Bing",
+    "count": 1,
     "uniques": 1
   },
   {
