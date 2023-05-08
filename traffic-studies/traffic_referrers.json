@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 129,
-    "uniques": 44
+    "count": 112,
+    "uniques": 42
   },
   {
     "referrer": "6aiq.com",
@@ -11,13 +11,13 @@
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 53,
+    "count": 52,
     "uniques": 19
   },
   {
     "referrer": "Google",
-    "count": 26,
-    "uniques": 7
+    "count": 20,
+    "uniques": 6
   },
   {
     "referrer": "link.csdn.net",
@@ -31,12 +31,12 @@
   },
   {
     "referrer": "link.juejin.cn",
-    "count": 5,
+    "count": 4,
     "uniques": 2
   },
   {
     "referrer": "yuque.com",
-    "count": 5,
+    "count": 4,
     "uniques": 1
   },
   {
