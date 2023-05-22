@@ -1,18 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 217,
-    "uniques": 41
+    "count": 198,
+    "uniques": 35
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 95,
-    "uniques": 17
+    "count": 91,
+    "uniques": 13
   },
   {
     "referrer": "6aiq.com",
-    "count": 57,
-    "uniques": 8
+    "count": 73,
+    "uniques": 10
   },
   {
     "referrer": "link.csdn.net",
@@ -21,7 +21,7 @@
   },
   {
     "referrer": "Google",
-    "count": 34,
+    "count": 38,
     "uniques": 9
   },
   {
@@ -35,11 +35,6 @@
     "uniques": 4
   },
   {
-    "referrer": "1o24bbs.com",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "referrer": "yuque.com",
     "count": 4,
     "uniques": 1
@@ -48,5 +43,10 @@
     "referrer": "link.juejin.cn",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "referrer": "tgso.pro",
+    "count": 1,
+    "uniques": 1
   }
 ]
