@@ -6,13 +6,8 @@
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 83,
-    "uniques": 15
-  },
-  {
-    "referrer": "Google",
-    "count": 74,
-    "uniques": 9
+    "count": 89,
+    "uniques": 16
   },
   {
     "referrer": "link.csdn.net",
@@ -20,19 +15,24 @@
     "uniques": 6
   },
   {
+    "referrer": "Google",
+    "count": 59,
+    "uniques": 8
+  },
+  {
+    "referrer": "6aiq.com",
+    "count": 35,
+    "uniques": 11
+  },
+  {
     "referrer": "huggingface.co",
     "count": 35,
     "uniques": 1
   },
   {
-    "referrer": "6aiq.com",
-    "count": 32,
-    "uniques": 11
-  },
-  {
     "referrer": "link.juejin.cn",
-    "count": 11,
-    "uniques": 4
+    "count": 10,
+    "uniques": 3
   },
   {
     "referrer": "hub.nuaa.cf",
