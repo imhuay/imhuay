@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 106,
-    "uniques": 25
+    "count": 104,
+    "uniques": 24
   },
   {
     "referrer": "6aiq.com",
-    "count": 59,
-    "uniques": 16
+    "count": 62,
+    "uniques": 17
   },
   {
     "referrer": "Google",
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 45,
-    "uniques": 16
+    "count": 51,
+    "uniques": 17
   },
   {
     "referrer": "huggingface.co",
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "link.csdn.net",
-    "count": 27,
-    "uniques": 4
+    "count": 31,
+    "uniques": 5
   },
   {
     "referrer": "blog.51cto.com",
