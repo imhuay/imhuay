@@ -1,6 +1,6 @@
 {
-  "count": 16399,
-  "uniques": 4178,
+  "count": 16497,
+  "uniques": 4193,
   "views": [
     {
       "timestamp": "2022-09-15T00:00:00Z",
@@ -1361,6 +1361,11 @@
       "timestamp": "2023-06-13T00:00:00Z",
       "count": 51,
       "uniques": 14
+    },
+    {
+      "timestamp": "2023-06-14T00:00:00Z",
+      "count": 98,
+      "uniques": 15
     }
   ]
 }
