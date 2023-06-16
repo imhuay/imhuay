@@ -2,32 +2,38 @@
   {
     "path": "/imhuay/studies",
     "title": "imhuay/studies: Notes of Develop/NLP/DeepLearning/Algorithms/LeetCodes",
-    "count": 215,
-    "uniques": 141
+    "count": 220,
+    "uniques": 142
   },
   {
     "path": "/imhuay/studies/blob/master/notes/010-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md",
     "title": "studies/notes/010-深度学习.md at master · imhuay/studies",
-    "count": 127,
+    "count": 133,
     "uniques": 38
   },
   {
     "path": "/imhuay/studies/blob/master/algorithms/README.md",
     "title": "studies/README.md at master · imhuay/studies · GitHub",
-    "count": 70,
-    "uniques": 29
+    "count": 74,
+    "uniques": 30
   },
   {
     "path": "/imhuay/studies/blob/master/notes/020-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md",
     "title": "studies/notes/020-机器学习.md at master · imhuay/studies",
-    "count": 49,
-    "uniques": 17
+    "count": 52,
+    "uniques": 19
   },
   {
     "path": "/imhuay/studies/tree/master/notes",
     "title": "studies/notes at master · imhuay/studies · GitHub",
-    "count": 38,
-    "uniques": 14
+    "count": 47,
+    "uniques": 16
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/Transformer%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md",
+    "title": "studies/Transformer常见问题.md at master · imhuay/studies · GitHub",
+    "count": 37,
+    "uniques": 18
   },
   {
     "path": "/imhuay/studies/blob/master/notes/110-Python.md",
@@ -36,27 +42,21 @@
     "uniques": 13
   },
   {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/Transformer%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md",
-    "title": "studies/Transformer常见问题.md at master · imhuay/studies · GitHub",
-    "count": 31,
-    "uniques": 15
-  },
-  {
     "path": "/imhuay/studies/blob/master/notes/030-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.md",
     "title": "studies/notes/030-自然语言处理.md at master · imhuay/studies · GitHub",
-    "count": 29,
-    "uniques": 12
+    "count": 31,
+    "uniques": 13
   },
   {
     "path": "/imhuay/studies/blob/master/notes/999-WIKI.md",
-    "title": "studies/notes/999-WIKI.md at master · imhuay/studies",
-    "count": 26,
-    "uniques": 7
+    "title": "studies/notes/999-WIKI.md at master · imhuay/studies · GitHub",
+    "count": 29,
+    "uniques": 9
   },
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md",
     "title": "studies/激活函数.md at master · imhuay/studies · GitHub",
     "count": 24,
-    "uniques": 15
+    "uniques": 13
   }
 ]
