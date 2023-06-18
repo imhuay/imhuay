@@ -1,31 +1,36 @@
 [
   {
     "referrer": "github.com",
-    "count": 286,
-    "uniques": 41
+    "count": 290,
+    "uniques": 42
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 73,
-    "uniques": 19
+    "count": 68,
+    "uniques": 17
   },
   {
     "referrer": "6aiq.com",
-    "count": 18,
+    "count": 17,
     "uniques": 6
   },
   {
+    "referrer": "DuckDuckGo",
+    "count": 14,
+    "uniques": 1
+  },
+  {
     "referrer": "link.csdn.net",
-    "count": 13,
+    "count": 12,
     "uniques": 4
   },
   {
-    "referrer": "bbs.huaweicloud.com",
-    "count": 4,
-    "uniques": 2
+    "referrer": "Google",
+    "count": 5,
+    "uniques": 3
   },
   {
-    "referrer": "Google",
+    "referrer": "bbs.huaweicloud.com",
     "count": 4,
     "uniques": 2
   },
@@ -42,11 +47,6 @@
   {
     "referrer": "blog.51cto.com",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "snngrow.com",
-    "count": 1,
     "uniques": 1
   }
 ]
