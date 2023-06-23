@@ -2,25 +2,25 @@
   {
     "path": "/imhuay/studies",
     "title": "imhuay/studies: Notes of Develop/NLP/DeepLearning/Algorithms/LeetCodes",
-    "count": 193,
-    "uniques": 128
+    "count": 179,
+    "uniques": 115
   },
   {
     "path": "/imhuay/studies/blob/master/notes/010-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md",
     "title": "studies/notes/010-深度学习.md at master · imhuay/studies · GitHub",
-    "count": 145,
-    "uniques": 32
+    "count": 141,
+    "uniques": 31
   },
   {
     "path": "/imhuay/studies/blob/master/algorithms/README.md",
     "title": "studies/README.md at master · imhuay/studies · GitHub",
-    "count": 79,
-    "uniques": 31
+    "count": 77,
+    "uniques": 30
   },
   {
     "path": "/imhuay/studies/tree/master/notes",
     "title": "studies/notes at master · imhuay/studies · GitHub",
-    "count": 41,
+    "count": 42,
     "uniques": 12
   },
   {
@@ -32,8 +32,8 @@
   {
     "path": "/imhuay/studies/blob/master/notes/020-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md",
     "title": "studies/notes/020-机器学习.md at master · imhuay/studies · GitHub",
-    "count": 37,
-    "uniques": 13
+    "count": 35,
+    "uniques": 12
   },
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md",
@@ -42,21 +42,21 @@
     "uniques": 11
   },
   {
-    "path": "/imhuay/studies/blob/master/notes/030-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.md",
-    "title": "studies/notes/030-自然语言处理.md at master · imhuay/studies · GitHub",
-    "count": 24,
-    "uniques": 8
-  },
-  {
     "path": "/imhuay/studies/tree/master/algorithms",
     "title": "studies/algorithms at master · imhuay/studies · GitHub",
     "count": 24,
     "uniques": 8
   },
   {
-    "path": "/imhuay/studies/blob/master/notes/999-WIKI.md",
-    "title": "studies/notes/999-WIKI.md at master · imhuay/studies · GitHub",
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E4%BD%BF%E7%94%A8%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E6%A0%87%E8%AE%B0%E6%B3%95%E6%93%8D%E4%BD%9C%E5%BC%A0%E9%87%8F.md",
+    "title": "studies/notes/_archives/2022/05/使用爱因斯坦标记法操作张量.md at master · imhuay/studies ·...",
+    "count": 24,
+    "uniques": 6
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/030-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.md",
+    "title": "studies/notes/030-自然语言处理.md at master · imhuay/studies · GitHub",
     "count": 23,
-    "uniques": 8
+    "uniques": 7
   }
 ]
