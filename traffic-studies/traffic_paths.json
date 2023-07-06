@@ -2,61 +2,61 @@
   {
     "path": "/imhuay/studies",
     "title": "imhuay/studies: Notes of Develop/NLP/DeepLearning/Algorithms/LeetCodes",
-    "count": 207,
-    "uniques": 119
+    "count": 240,
+    "uniques": 130
   },
   {
     "path": "/imhuay/studies/blob/master/notes/010-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md",
     "title": "studies/notes/010-深度学习.md at master · imhuay/studies · GitHub",
-    "count": 120,
-    "uniques": 35
+    "count": 128,
+    "uniques": 37
   },
   {
     "path": "/imhuay/studies/blob/master/algorithms/README.md",
     "title": "studies/algorithms/README.md at master · imhuay/studies · GitHub",
-    "count": 65,
-    "uniques": 27
+    "count": 74,
+    "uniques": 29
   },
   {
     "path": "/imhuay/studies/blob/master/notes/020-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md",
     "title": "studies/notes/020-机器学习.md at master · imhuay/studies · GitHub",
-    "count": 54,
-    "uniques": 17
+    "count": 58,
+    "uniques": 18
   },
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/Transformer%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md",
     "title": "studies/notes/_archives/2022/05/Transformer常见问题.md at master · imhuay/studies...",
-    "count": 42,
-    "uniques": 18
+    "count": 55,
+    "uniques": 22
   },
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/XGBoost.md",
     "title": "studies/notes/_archives/2022/05/XGBoost.md at master · imhuay/studies · GitHub",
-    "count": 32,
-    "uniques": 13
+    "count": 34,
+    "uniques": 14
   },
   {
     "path": "/imhuay/studies/tree/master/notes",
     "title": "studies/notes at master · imhuay/studies · GitHub",
-    "count": 31,
+    "count": 32,
     "uniques": 15
-  },
-  {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md",
-    "title": "studies/notes/_archives/2022/05/激活函数.md at master · imhuay/studies · GitHub",
-    "count": 26,
-    "uniques": 14
   },
   {
     "path": "/imhuay/studies/blob/master/notes/110-Python.md",
     "title": "studies/notes/110-Python.md at master · imhuay/studies · GitHub",
-    "count": 26,
-    "uniques": 7
+    "count": 28,
+    "uniques": 8
   },
   {
-    "path": "/imhuay/studies/blob/master/notes/030-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.md",
-    "title": "studies/notes/030-自然语言处理.md at master · imhuay/studies · GitHub",
-    "count": 23,
-    "uniques": 5
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/CNN.md",
+    "title": "studies/notes/_archives/2022/05/CNN.md at master · imhuay/studies · GitHub",
+    "count": 25,
+    "uniques": 10
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/999-WIKI.md",
+    "title": "studies/notes/999-WIKI.md at master · imhuay/studies · GitHub",
+    "count": 24,
+    "uniques": 13
   }
 ]
