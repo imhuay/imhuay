@@ -1,23 +1,23 @@
 [
   {
     "referrer": "github.com",
-    "count": 226,
+    "count": 297,
     "uniques": 43
   },
   {
+    "referrer": "6aiq.com",
+    "count": 118,
+    "uniques": 16
+  },
+  {
     "referrer": "link.zhihu.com",
-    "count": 96,
+    "count": 95,
     "uniques": 12
   },
   {
-    "referrer": "6aiq.com",
-    "count": 89,
-    "uniques": 15
-  },
-  {
     "referrer": "link.juejin.cn",
-    "count": 19,
-    "uniques": 2
+    "count": 12,
+    "uniques": 1
   },
   {
     "referrer": "Baidu",
