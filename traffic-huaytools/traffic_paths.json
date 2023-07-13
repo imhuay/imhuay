@@ -12,12 +12,6 @@
     "uniques": 1
   },
   {
-    "path": "/imhuay/huaytools",
-    "title": "GitHub - imhuay/huaytools: Personal python toolbox.",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/imhuay/huaytools/blob/master/src/huaytools/utils/dataclass_utils.py",
     "title": "huaytools/src/huaytools/utils/dataclass_utils.py at master · imhuay/huaytools...",
     "count": 2,
@@ -27,6 +21,12 @@
     "path": "/imhuay/huaytools/tree/master/src/huaytools/extensions",
     "title": "huaytools/src/huaytools/extensions at master · imhuay/huaytools · GitHub",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/huaytools",
+    "title": "GitHub - imhuay/huaytools: Personal python toolbox.",
+    "count": 1,
     "uniques": 1
   },
   {
