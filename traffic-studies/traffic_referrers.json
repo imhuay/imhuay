@@ -2,17 +2,17 @@
   {
     "referrer": "github.com",
     "count": 468,
-    "uniques": 54
+    "uniques": 56
   },
   {
     "referrer": "6aiq.com",
-    "count": 197,
+    "count": 240,
     "uniques": 16
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 42,
-    "uniques": 11
+    "count": 45,
+    "uniques": 13
   },
   {
     "referrer": "link.csdn.net",
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "t.co",
-    "count": 6,
-    "uniques": 1
+    "referrer": "Google",
+    "count": 10,
+    "uniques": 5
   },
   {
-    "referrer": "app.yinxiang.com",
+    "referrer": "t.co",
     "count": 6,
     "uniques": 1
   }
