@@ -1,44 +1,14 @@
 [
   {
-    "path": "/imhuay/huaytools/tree/master/src/huaytools",
-    "title": "huaytools/src/huaytools at master · imhuay/huaytools · GitHub",
-    "count": 6,
+    "path": "/imhuay/huaytools",
+    "title": "GitHub - imhuay/huaytools: Personal python toolbox.",
+    "count": 2,
     "uniques": 2
   },
   {
-    "path": "/imhuay/huaytools",
-    "title": "GitHub - imhuay/huaytools: Personal python toolbox.",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/imhuay/huaytools/tree/master/src/huaytools/utils",
-    "title": "huaytools/src/huaytools/utils at master · imhuay/huaytools · GitHub",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/blob/master/src/huaytools/utils/dataclass_utils.py",
-    "title": "huaytools/src/huaytools/utils/dataclass_utils.py at master · imhuay/huaytools...",
+    "path": "/imhuay/huaytools/tree/master/src/huaytools",
+    "title": "huaytools/src/huaytools at master · imhuay/huaytools · GitHub",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/tree/master/src/huaytools/extensions",
-    "title": "huaytools/src/huaytools/extensions at master · imhuay/huaytools · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/issues",
-    "title": "Issues · imhuay/huaytools · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/issues/1",
-    "title": "迁移 imhuay/studies/src 到本仓库 · Issue #1 · imhuay/huaytools · GitHub",
-    "count": 1,
     "uniques": 1
   }
 ]
