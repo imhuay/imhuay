@@ -1,26 +1,26 @@
 [
   {
-    "path": "/imhuay/huaytools/tree/master/src/huaytools",
-    "title": "huaytools/src/huaytools at master · imhuay/huaytools · GitHub",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "path": "/imhuay/huaytools/blob/master/src/huaytools/utils/_common.py",
     "title": "huaytools/src/huaytools/utils/_common.py at master · imhuay/huaytools",
     "count": 4,
     "uniques": 1
   },
   {
-    "path": "/imhuay/huaytools",
-    "title": "imhuay/huaytools: Personal python toolbox.",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/imhuay/huaytools/tree/master/src/huaytools/utils",
     "title": "huaytools/src/huaytools/utils at master · imhuay/huaytools",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/huaytools/tree/master/src/huaytools",
+    "title": "huaytools/src/huaytools at master · imhuay/huaytools",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/huaytools",
+    "title": "imhuay/huaytools: Personal python toolbox.",
+    "count": 1,
     "uniques": 1
   }
 ]
