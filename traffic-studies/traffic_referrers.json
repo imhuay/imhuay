@@ -1,27 +1,27 @@
 [
   {
     "referrer": "github.com",
-    "count": 222,
+    "count": 216,
     "uniques": 39
   },
   {
     "referrer": "6aiq.com",
-    "count": 107,
+    "count": 69,
     "uniques": 9
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 27,
-    "uniques": 11
-  },
-  {
-    "referrer": "wx.zsxq.com",
-    "count": 18,
-    "uniques": 2
+    "count": 25,
+    "uniques": 10
   },
   {
     "referrer": "blog.csdn.net",
     "count": 18,
+    "uniques": 1
+  },
+  {
+    "referrer": "wx.zsxq.com",
+    "count": 17,
     "uniques": 1
   },
   {
