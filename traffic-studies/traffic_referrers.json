@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 216,
-    "uniques": 39
+    "count": 226,
+    "uniques": 42
   },
   {
     "referrer": "6aiq.com",
-    "count": 69,
-    "uniques": 9
+    "count": 70,
+    "uniques": 10
   },
   {
     "referrer": "link.zhihu.com",
@@ -30,6 +30,11 @@
     "uniques": 6
   },
   {
+    "referrer": "1o24bbs.com",
+    "count": 9,
+    "uniques": 4
+  },
+  {
     "referrer": "bbs.huaweicloud.com",
     "count": 9,
     "uniques": 3
@@ -38,11 +43,6 @@
     "referrer": "hd.nowcoder.com",
     "count": 9,
     "uniques": 2
-  },
-  {
-    "referrer": "1o24bbs.com",
-    "count": 8,
-    "uniques": 3
   },
   {
     "referrer": "link.csdn.net",
