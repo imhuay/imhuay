@@ -12,6 +12,12 @@
     "uniques": 1
   },
   {
+    "path": "/imhuay/huaytools",
+    "title": "imhuay/huaytools: Personal python toolbox.",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/imhuay/huaytools/blob/master/.github/workflows/build.yml",
     "title": "huaytools/.github/workflows/build.yml at master · imhuay/huaytools",
     "count": 2,
@@ -27,12 +33,6 @@
     "path": "/imhuay/huaytools/tree/master/src/huaytools",
     "title": "huaytools/src/huaytools at master · imhuay/huaytools",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools",
-    "title": "imhuay/huaytools: Personal python toolbox.",
-    "count": 1,
     "uniques": 1
   },
   {
