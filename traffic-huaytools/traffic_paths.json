@@ -1,24 +1,6 @@
 [
   {
-    "path": "/imhuay/huaytools/blob/master/.github/workflows/build.yml",
-    "title": "huaytools/.github/workflows/build.yml at master · imhuay/huaytools",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/tree/master/.github/workflows",
-    "title": "huaytools/.github/workflows at master · imhuay/huaytools",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/imhuay/huaytools",
-    "title": "imhuay/huaytools: Personal python toolbox.",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/tree/master",
     "title": "imhuay/huaytools: Personal python toolbox.",
     "count": 1,
     "uniques": 1
