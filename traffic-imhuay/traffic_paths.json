@@ -1,43 +1,13 @@
 [
   {
-    "path": "/imhuay/imhuay/tree/master/.github/workflows",
-    "title": "imhuay/.github/workflows at master · imhuay/imhuay · GitHub",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "path": "/imhuay/imhuay",
     "title": "imhuay/imhuay",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/imhuay/imhuay/blob/master/.gitattributes",
-    "title": "imhuay/.gitattributes at master · imhuay/imhuay",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/imhuay/blob/master/.github/workflows/traffic2badge.yml",
-    "title": "imhuay/.github/workflows/traffic2badge.yml at master · imhuay/imhuay",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/imhuay/blob/master/.github/workflows/waka-readme.yml",
-    "title": "imhuay/.github/workflows/waka-readme.yml at master · imhuay/imhuay",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/imhuay/blob/master/.gitignore",
-    "title": "imhuay/.gitignore at master · imhuay/imhuay",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/imhuay/blob/master/README.md",
-    "title": "imhuay/README.md at master · imhuay/imhuay",
+    "path": "/imhuay/imhuay/tree/master/.github/workflows",
+    "title": "imhuay/.github/workflows at master · imhuay/imhuay · GitHub",
     "count": 2,
     "uniques": 1
   }
