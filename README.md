@@ -57,11 +57,11 @@ class ImHuay:
 ```txt
 Total Time: 16 hrs 11 mins
 
-Python         9 hrs 43 mins   >>>>>>>>>>>>>>>----------   59.99 %
-Bash           2 hrs 38 mins   >>>>---------------------   16.29 %
-GitHub         2 hrs 10 mins   >>>----------------------   13.39 %
-Shell Script   1 hr 27 mins    >>-----------------------   08.98 %
-Text           9 mins          -------------------------   00.98 %
+Python         9 hrs 43 mins   >>>>>>>>>>>>>>>----------   60.03 %
+Bash           2 hrs 38 mins   >>>>---------------------   16.30 %
+GitHub         2 hrs 10 mins   >>>----------------------   13.40 %
+Shell Script   1 hr 27 mins    >>-----------------------   08.99 %
+Text           8 mins          -------------------------   00.92 %
 ```
 
 <!--END_SECTION:waka-->
