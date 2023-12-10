@@ -12,12 +12,6 @@
     "uniques": 1
   },
   {
-    "path": "/imhuay/imhuay",
-    "title": "GitHub - imhuay/imhuay",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/imhuay/imhuay/blob/master/.github/workflows/waka-readme.yml",
     "title": "imhuay/.github/workflows/waka-readme.yml at master · imhuay/imhuay · GitHub",
     "count": 2,
@@ -27,6 +21,12 @@
     "path": "/imhuay/imhuay/tree/master",
     "title": "GitHub - imhuay/imhuay",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/imhuay",
+    "title": "GitHub - imhuay/imhuay",
+    "count": 1,
     "uniques": 1
   }
 ]
