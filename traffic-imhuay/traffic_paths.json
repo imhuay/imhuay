@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "path": "/imhuay/imhuay/releases",
+    "title": "Releases · imhuay/imhuay",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/imhuay/releases/tag/v1",
+    "title": "Release v1 · imhuay/imhuay",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/imhuay",
+    "title": "imhuay/imhuay",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/imhuay/pulls",
+    "title": "Pull requests · imhuay/imhuay",
+    "count": 1,
+    "uniques": 1
+  }
+]
