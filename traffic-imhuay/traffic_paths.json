@@ -1,31 +1,13 @@
 [
   {
-    "path": "/imhuay/imhuay/releases",
-    "title": "Releases · imhuay/imhuay",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/imhuay",
-    "title": "imhuay/imhuay",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/imhuay/imhuay/blob/master/README.md",
     "title": "imhuay/README.md at master · imhuay/imhuay · GitHub",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/imhuay/imhuay/releases/tag/v1",
-    "title": "Release v1 · imhuay/imhuay",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/imhuay/pulls",
-    "title": "Pull requests · imhuay/imhuay",
+    "path": "/imhuay/imhuay",
+    "title": "Github镜像站-GitHub - imhuay/imhuay",
     "count": 1,
     "uniques": 1
   }
