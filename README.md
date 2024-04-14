@@ -55,12 +55,12 @@ class ImHuay:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 46 mins
+Total Time: 15 hrs 42 mins
 
-Python       6 hrs 22 mins   >>>>>>>>>>>>-------------   49.90 %
-Markdown     3 hrs 31 mins   >>>>>>>------------------   27.61 %
-GitHub       2 hrs 38 mins   >>>>>--------------------   20.70 %
-Text         13 mins         -------------------------   01.78 %
+Python       8 hrs 50 mins   >>>>>>>>>>>>>>-----------   56.27 %
+Markdown     3 hrs 38 mins   >>>>>>-------------------   23.21 %
+GitHub       2 hrs 59 mins   >>>>>--------------------   19.07 %
+Text         13 mins         -------------------------   01.45 %
 Other        0 secs          -------------------------   00.01 %
 ```
 
