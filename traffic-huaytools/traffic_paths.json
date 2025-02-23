@@ -2,8 +2,20 @@
   {
     "path": "/imhuay/huaytools",
     "title": "imhuay/huaytools: Personal python toolbox.",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/huaytools/tree/master/src/huaytools",
+    "title": "huaytools/src/huaytools at master · imhuay/huaytools",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/huaytools/tree/master/src/huaytools/extensions",
+    "title": "huaytools/src/huaytools/extensions at master · imhuay/huaytools",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/imhuay/huaytools/blob/master/src/huaytools/extensions/dict_extensions.py",
@@ -14,18 +26,6 @@
   {
     "path": "/imhuay/huaytools/tree/master",
     "title": "imhuay/huaytools: Personal python toolbox.",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/tree/master/src/huaytools",
-    "title": "huaytools/src/huaytools at master · imhuay/huaytools",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/huaytools/tree/master/src/huaytools/extensions",
-    "title": "huaytools/src/huaytools/extensions at master · imhuay/huaytools",
     "count": 1,
     "uniques": 1
   }
