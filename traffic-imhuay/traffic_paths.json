@@ -1,7 +1,13 @@
 [
   {
     "path": "/imhuay/imhuay",
-    "title": "GitHub - imhuay/imhuay",
+    "title": "imhuay/imhuay",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/imhuay/commit/d08c719cc6a1878e1be38c0a88e5a539dca61086",
+    "title": "Auto-update wakatime · imhuay/imhuay@d08c719",
     "count": 1,
     "uniques": 1
   }
