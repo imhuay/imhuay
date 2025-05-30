@@ -55,9 +55,9 @@ class ImHuay:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 36 hrs 13 mins
+Total Time: 34 hrs 54 mins
 
-Other   36 hrs 13 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Other   34 hrs 54 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
