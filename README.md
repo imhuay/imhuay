@@ -124,6 +124,36 @@
 [![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay/clones_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-imhuay)
 ```
 
+## 📚 [imhuay.github.io](https://github.com/imhuay/imhuay/tree/traffic/traffic-imhuay.github.io)
+
+### 📷 Badges without link of [imhuay.github.io](https://github.com/imhuay/imhuay/tree/traffic/traffic-imhuay.github.io)
+
+![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/views.svg)
+![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/clones.svg)
+![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/views.svg)
+![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/clones.svg)
+![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [imhuay.github.io](https://github.com/imhuay/imhuay/tree/traffic/traffic-imhuay.github.io)
+
+[![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/views.svg)](https://github.com/imhuay/imhuay/tree/traffic#-imhuay.github.io)
+[![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/views_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-imhuay.github.io)
+[![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/clones.svg)](https://github.com/imhuay/imhuay/tree/traffic#-imhuay.github.io)
+[![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/clones_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-imhuay.github.io)
+
+```markdown
+[![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/views.svg)](https://github.com/imhuay/imhuay/tree/traffic#-imhuay.github.io)
+[![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/views_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-imhuay.github.io)
+[![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/clones.svg)](https://github.com/imhuay/imhuay/tree/traffic#-imhuay.github.io)
+[![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/clones_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-imhuay.github.io)
+```
+
 ## 📚 [template-python](https://github.com/imhuay/imhuay/tree/traffic/traffic-template-python)
 
 ### 📷 Badges without link of [template-python](https://github.com/imhuay/imhuay/tree/traffic/traffic-template-python)
