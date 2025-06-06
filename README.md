@@ -55,13 +55,13 @@ class ImHuay:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 12 mins
+Total Time: 1 hr 36 mins
 
-Other            6 hrs 15 mins   >>>>>>>>>>>>>>>>>>>>>>---   86.77 %
-Bash             24 mins         >------------------------   05.67 %
-JSON             17 mins         >------------------------   04.09 %
-GitIgnore file   8 mins          -------------------------   01.92 %
-Git Config       2 mins          -------------------------   00.66 %
+Other            39 mins         >>>>>>>>>>---------------   41.00 %
+Bash             24 mins         >>>>>>-------------------   25.28 %
+JSON             17 mins         >>>>>--------------------   18.22 %
+GitIgnore file   8 mins          >>-----------------------   08.55 %
+Git Config       2 mins          >------------------------   02.93 %
 ```
 
 <!--END_SECTION:waka-->
