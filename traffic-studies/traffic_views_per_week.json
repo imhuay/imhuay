@@ -1,41 +1,5 @@
 {
-  "count": 726,
-  "uniques": 104,
-  "views": [
-    {
-      "timestamp": "2023-07-23T00:00:00Z",
-      "count": 89,
-      "uniques": 16
-    },
-    {
-      "timestamp": "2023-07-24T00:00:00Z",
-      "count": 106,
-      "uniques": 13
-    },
-    {
-      "timestamp": "2023-07-25T00:00:00Z",
-      "count": 298,
-      "uniques": 25
-    },
-    {
-      "timestamp": "2023-07-26T00:00:00Z",
-      "count": 66,
-      "uniques": 17
-    },
-    {
-      "timestamp": "2023-07-27T00:00:00Z",
-      "count": 70,
-      "uniques": 13
-    },
-    {
-      "timestamp": "2023-07-28T00:00:00Z",
-      "count": 70,
-      "uniques": 13
-    },
-    {
-      "timestamp": "2023-07-29T00:00:00Z",
-      "count": 27,
-      "uniques": 7
-    }
-  ]
+  "count": 0,
+  "uniques": 0,
+  "views": []
 }

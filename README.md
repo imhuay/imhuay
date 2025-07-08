@@ -154,6 +154,36 @@
 [![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/clones_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-imhuay.github.io)
 ```
 
+## 📚 [studies](https://github.com/imhuay/imhuay/tree/traffic/traffic-studies)
+
+### 📷 Badges without link of [studies](https://github.com/imhuay/imhuay/tree/traffic/traffic-studies)
+
+![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/views.svg)
+![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/clones.svg)
+![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/views.svg)
+![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/clones.svg)
+![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [studies](https://github.com/imhuay/imhuay/tree/traffic/traffic-studies)
+
+[![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/views.svg)](https://github.com/imhuay/imhuay/tree/traffic#-studies)
+[![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/views_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-studies)
+[![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/clones.svg)](https://github.com/imhuay/imhuay/tree/traffic#-studies)
+[![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/clones_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-studies)
+
+```markdown
+[![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/views.svg)](https://github.com/imhuay/imhuay/tree/traffic#-studies)
+[![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/views_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-studies)
+[![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/clones.svg)](https://github.com/imhuay/imhuay/tree/traffic#-studies)
+[![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-studies/clones_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-studies)
+```
+
 ## 📚 [template-python](https://github.com/imhuay/imhuay/tree/traffic/traffic-template-python)
 
 ### 📷 Badges without link of [template-python](https://github.com/imhuay/imhuay/tree/traffic/traffic-template-python)
