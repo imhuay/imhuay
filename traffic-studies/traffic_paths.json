@@ -2,14 +2,14 @@
   {
     "path": "/imhuay/studies",
     "title": "imhuay/studies: 学习笔记",
-    "count": 2,
-    "uniques": 2
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/Transformer%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md",
     "title": "studies/notes/_archives/2022/05/Transformer常见问题.md at master · imhuay/studies",
-    "count": 2,
-    "uniques": 1
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/imhuay/studies/tree/master/notes",
@@ -18,8 +18,26 @@
     "uniques": 1
   },
   {
+    "path": "/imhuay/studies/blob/master/notes/010-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md",
+    "title": "studies/notes/010-深度学习.md at master · imhuay/studies",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/imhuay/studies/blob/master/notes/999-WIKI.md",
     "title": "studies/notes/999-WIKI.md at master · imhuay/studies",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/Attention.md",
+    "title": "studies/notes/_archives/2022/05/Attention.md at master · imhuay/studies",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/TransformerWiki.md",
+    "title": "studies/notes/_archives/2022/05/TransformerWiki.md at master · imhuay/studies",
     "count": 1,
     "uniques": 1
   },
@@ -38,24 +56,6 @@
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/12/%E6%90%9C%E7%B4%A2%E4%B8%8ENLP.md",
     "title": "studies/notes/_archives/2022/12/搜索与NLP.md at master · imhuay/studies",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/12/query%E7%BA%A0%E9%94%99.md",
-    "title": "studies/notes/_archives/2022/12/query纠错.md at master · imhuay/studies",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/studies/tree/master",
-    "title": "imhuay/studies: 学习笔记",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/studies/tree/master/notes/_archives",
-    "title": "studies/notes/_archives at master · imhuay/studies",
     "count": 1,
     "uniques": 1
   }
