@@ -2,25 +2,31 @@
   {
     "path": "/imhuay/studies",
     "title": "imhuay/studies: 学习笔记",
-    "count": 18,
-    "uniques": 15
+    "count": 24,
+    "uniques": 20
+  },
+  {
+    "path": "/imhuay/studies/tree/master/notes",
+    "title": "studies/notes at master · imhuay/studies",
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/010-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md",
+    "title": "studies/notes/010-深度学习.md at master · imhuay/studies · GitHub",
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/999-WIKI.md",
+    "title": "studies/notes/999-WIKI.md at master · imhuay/studies · GitHub",
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/Transformer%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md",
     "title": "studies/notes/_archives/2022/05/Transformer常见问题.md at master · imhuay/studies",
     "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/imhuay/studies/tree/master/notes",
-    "title": "studies/notes at master · imhuay/studies",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/imhuay/studies/blob/master/notes/010-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md",
-    "title": "studies/notes/010-深度学习.md at master · imhuay/studies · GitHub",
-    "count": 3,
     "uniques": 3
   },
   {
@@ -30,15 +36,15 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/studies/blob/master/notes/999-WIKI.md",
-    "title": "studies/notes/999-WIKI.md at master · imhuay/studies · GitHub",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/imhuay/studies/tree/master/algorithms",
     "title": "studies/algorithms at master · imhuay/studies",
     "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/studies/blob/master/algorithms/README.md",
+    "title": "studies/algorithms/README.md at master · imhuay/studies",
+    "count": 2,
     "uniques": 2
   },
   {
@@ -50,12 +56,6 @@
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/12/query%E7%BA%A0%E9%94%99.md",
     "title": "studies/notes/_archives/2022/12/query纠错.md at master · imhuay/studies",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/imhuay/studies/blob/master/README.md",
-    "title": "studies/README.md at master · imhuay/studies",
     "count": 2,
     "uniques": 2
   }
