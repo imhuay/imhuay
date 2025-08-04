@@ -2,14 +2,14 @@
   {
     "path": "/imhuay/studies",
     "title": "imhuay/studies: 学习笔记",
-    "count": 67,
-    "uniques": 49
+    "count": 63,
+    "uniques": 46
   },
   {
     "path": "/imhuay/studies/blob/master/notes/010-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md",
     "title": "studies/notes/010-深度学习.md at master · imhuay/studies · GitHub",
-    "count": 13,
-    "uniques": 10
+    "count": 12,
+    "uniques": 9
   },
   {
     "path": "/imhuay/studies/blob/master/algorithms/README.md",
@@ -36,27 +36,27 @@
     "uniques": 4
   },
   {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/RNN.md",
-    "title": "studies/notes/_archives/2022/05/RNN.md at master · imhuay/studies · GitHub",
-    "count": 4,
-    "uniques": 4
-  },
-  {
-    "path": "/imhuay/studies/blob/master/notes/999-WIKI.md",
-    "title": "studies/notes/999-WIKI.md at master · imhuay/studies · GitHub",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md",
     "title": "studies/notes/_archives/2022/05/激活函数.md at master · imhuay/studies",
     "count": 4,
     "uniques": 3
   },
   {
-    "path": "/imhuay/studies/tree/master/notes",
-    "title": "studies/notes at master · imhuay/studies · GitHub",
-    "count": 4,
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/RNN.md",
+    "title": "studies/notes/_archives/2022/05/RNN.md at master · imhuay/studies · GitHub",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/XGBoost.md",
+    "title": "studies/notes/_archives/2022/05/XGBoost.md at master · imhuay/studies · GitHub",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/999-WIKI.md",
+    "title": "studies/notes/999-WIKI.md at master · imhuay/studies · GitHub",
+    "count": 3,
     "uniques": 2
   }
 ]
