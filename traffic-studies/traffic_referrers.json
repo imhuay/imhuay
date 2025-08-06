@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 50,
-    "uniques": 21
+    "count": 51,
+    "uniques": 23
   },
   {
     "referrer": "hd.nowcoder.com",
@@ -10,12 +10,12 @@
     "uniques": 1
   },
   {
-    "referrer": "Google",
+    "referrer": "articles.zsxq.com",
     "count": 3,
     "uniques": 2
   },
   {
-    "referrer": "articles.zsxq.com",
+    "referrer": "Google",
     "count": 3,
     "uniques": 2
   },
@@ -25,7 +25,12 @@
     "uniques": 1
   },
   {
-    "referrer": "ktczkxbjp8.feishu.cn",
+    "referrer": "cloud.tencent.com",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "Baidu",
     "count": 2,
     "uniques": 1
   },
@@ -35,17 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "cloud.tencent.com",
+    "referrer": "ktczkxbjp8.feishu.cn",
     "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "yuque.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "link.zhihu.com",
+    "referrer": "emoumcwvfx.feishu.cn",
     "count": 1,
     "uniques": 1
   }
