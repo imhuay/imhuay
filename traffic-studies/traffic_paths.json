@@ -2,8 +2,20 @@
   {
     "path": "/imhuay/studies",
     "title": "imhuay/studies: 学习笔记",
-    "count": 72,
-    "uniques": 54
+    "count": 80,
+    "uniques": 60
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/Transformer%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md",
+    "title": "studies/notes/_archives/2022/05/Transformer常见问题.md at master · imhuay/studies...",
+    "count": 13,
+    "uniques": 11
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/010-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md",
+    "title": "studies/notes/010-深度学习.md at master · imhuay/studies · GitHub",
+    "count": 13,
+    "uniques": 10
   },
   {
     "path": "/imhuay/studies/blob/master/algorithms/README.md",
@@ -12,16 +24,16 @@
     "uniques": 11
   },
   {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/Transformer%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md",
-    "title": "studies/notes/_archives/2022/05/Transformer常见问题.md at master · imhuay/studies...",
-    "count": 12,
-    "uniques": 10
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E8%BF%87%E6%8B%9F%E5%90%88%E4%B8%8E%E6%AD%A3%E5%88%99%E5%8C%96.md",
+    "title": "studies/notes/_archives/2022/05/过拟合与正则化.md at master · imhuay/studies · GitHub",
+    "count": 5,
+    "uniques": 5
   },
   {
-    "path": "/imhuay/studies/blob/master/notes/010-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md",
-    "title": "studies/notes/010-深度学习.md at master · imhuay/studies · GitHub",
-    "count": 12,
-    "uniques": 9
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/XGBoost.md",
+    "title": "studies/notes/_archives/2022/05/XGBoost.md at master · imhuay/studies · GitHub",
+    "count": 5,
+    "uniques": 5
   },
   {
     "path": "/imhuay/studies/tree/master",
@@ -42,21 +54,9 @@
     "uniques": 4
   },
   {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/XGBoost.md",
-    "title": "studies/notes/_archives/2022/05/XGBoost.md at master · imhuay/studies · GitHub",
-    "count": 4,
-    "uniques": 4
-  },
-  {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.md",
     "title": "studies/notes/_archives/2022/05/损失函数.md at master · imhuay/studies · GitHub",
     "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/RNN.md",
-    "title": "studies/notes/_archives/2022/05/RNN.md at master · imhuay/studies · GitHub",
-    "count": 3,
     "uniques": 3
   }
 ]
