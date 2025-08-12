@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 72,
-    "uniques": 23
+    "count": 74,
+    "uniques": 21
   },
   {
     "referrer": "link.zhihu.com",
@@ -21,7 +21,7 @@
   },
   {
     "referrer": "Google",
-    "count": 5,
+    "count": 4,
     "uniques": 3
   },
   {
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "ktczkxbjp8.feishu.cn",
-    "count": 2,
+    "referrer": "emoumcwvfx.feishu.cn",
+    "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "emoumcwvfx.feishu.cn",
+    "referrer": "yuque.com",
     "count": 1,
     "uniques": 1
   }
