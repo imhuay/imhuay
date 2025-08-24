@@ -1,21 +1,15 @@
 [
   {
     "path": "/imhuay/studies",
-    "title": "imhuay/studies: 笔记",
-    "count": 23,
-    "uniques": 18
+    "title": "GitHub - imhuay/studies: 笔记",
+    "count": 19,
+    "uniques": 15
   },
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/XGBoost.md",
     "title": "studies/notes/_archives/2022/05/XGBoost.md at master · imhuay/studies · GitHub",
     "count": 5,
     "uniques": 2
-  },
-  {
-    "path": "/imhuay/studies/tree/master/algorithms",
-    "title": "studies/algorithms at master · imhuay/studies · GitHub",
-    "count": 4,
-    "uniques": 3
   },
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md",
@@ -48,14 +42,20 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/studies/blob/master/algorithms/problems/2022/05/%E7%89%9B%E5%AE%A2_0128_%E5%9B%B0%E9%9A%BE_%E6%8E%A5%E9%9B%A8%E6%B0%B4%E9%97%AE%E9%A2%98.md",
-    "title": "studies/algorithms/problems/2022/05/牛客_0128_困难_接雨水问题.md at master · imhuay/st...",
+    "path": "/imhuay/studies/blob/master/algorithms/problems/2022/06/LeetCode_0143_%E4%B8%AD%E7%AD%89_%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md",
+    "title": "studies/algorithms/problems/2022/06/LeetCode_0143_中等_重排链表.md at master · imhu...",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/imhuay/studies/blob/master/algorithms/problems/2022/06/LeetCode_0143_%E4%B8%AD%E7%AD%89_%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md",
-    "title": "studies/algorithms/problems/2022/06/LeetCode_0143_中等_重排链表.md at master · imhu...",
+    "path": "/imhuay/studies/blob/master/notes/020-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md",
+    "title": "studies/notes/020-机器学习.md at master · imhuay/studies · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.md",
+    "title": "studies/notes/_archives/2022/05/损失函数.md at master · imhuay/studies · GitHub",
     "count": 2,
     "uniques": 1
   }
