@@ -2,60 +2,24 @@
   {
     "path": "/imhuay/studies",
     "title": "GitHub - imhuay/studies: 笔记",
-    "count": 12,
-    "uniques": 10
+    "count": 6,
+    "uniques": 4
   },
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/XGBoost.md",
     "title": "studies/notes/_archives/2022/05/XGBoost.md at master · imhuay/studies · GitHub",
-    "count": 5,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/imhuay/studies/blob/master/notes/_archives/2022/10/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E7%AC%94%E8%AE%B0.md",
-    "title": "studies/notes/_archives/2022/10/算法面试笔记.md at master · imhuay/studies · GitHub",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/imhuay/studies/blob/master/algorithms/README.md",
-    "title": "studies/algorithms/README.md at master · imhuay/studies · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md",
-    "title": "studies/notes/_archives/2022/05/激活函数.md at master · imhuay/studies · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/imhuay/studies/blob/master/algorithms/problems/2022/06/LeetCode_0143_%E4%B8%AD%E7%AD%89_%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md",
-    "title": "studies/algorithms/problems/2022/06/LeetCode_0143_中等_重排链表.md at master · imhu...",
-    "count": 2,
+    "title": "studies/notes/_archives/2022/10/算法面试笔记.md at master · imhuay/studies",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/imhuay/studies/blob/master/notes/020-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md",
-    "title": "studies/notes/020-机器学习.md at master · imhuay/studies · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/05/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.md",
-    "title": "studies/notes/_archives/2022/05/损失函数.md at master · imhuay/studies · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/studies/blob/master/notes/_archives/2022/12/%E6%90%9C%E7%B4%A2%E4%B8%8ENLP.md",
-    "title": "studies/notes/_archives/2022/12/搜索与NLP.md at master · imhuay/studies · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/studies/blob/master/algorithms/problems/2021/10/LeetCode_0001_%E7%AE%80%E5%8D%95_%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md",
-    "title": "studies/algorithms/problems/2021/10/LeetCode_0001_简单_两数之和.md at master · imhu...",
+    "path": "/imhuay/studies/blob/master/notes/_archives/2022/12/jupyter%E4%B8%8Eipython%E5%A4%87%E5%BF%98.md",
+    "title": "studies/notes/_archives/2022/12/jupyter与ipython备忘.md at master · imhuay/studi...",
     "count": 1,
     "uniques": 1
   }
