@@ -154,34 +154,34 @@
 [![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-imhuay.github.io/clones_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-imhuay.github.io)
 ```
 
-## 📚 [space](https://github.com/imhuay/imhuay/tree/traffic/traffic-space)
+## 📚 [sspace](https://github.com/imhuay/imhuay/tree/traffic/traffic-sspace)
 
-### 📷 Badges without link of [space](https://github.com/imhuay/imhuay/tree/traffic/traffic-space)
+### 📷 Badges without link of [sspace](https://github.com/imhuay/imhuay/tree/traffic/traffic-sspace)
 
-![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/views.svg)
-![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/clones.svg)
-![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/views.svg)
+![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/clones.svg)
+![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/clones_per_week.svg)
 
 ```markdown
-![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/views.svg)
-![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/clones.svg)
-![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/views.svg)
+![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/clones.svg)
+![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/clones_per_week.svg)
 ```
 
-### 🔗 Badges with link of [space](https://github.com/imhuay/imhuay/tree/traffic/traffic-space)
+### 🔗 Badges with link of [sspace](https://github.com/imhuay/imhuay/tree/traffic/traffic-sspace)
 
-[![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/views.svg)](https://github.com/imhuay/imhuay/tree/traffic#-space)
-[![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/views_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-space)
-[![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/clones.svg)](https://github.com/imhuay/imhuay/tree/traffic#-space)
-[![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/clones_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-space)
+[![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/views.svg)](https://github.com/imhuay/imhuay/tree/traffic#-sspace)
+[![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/views_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-sspace)
+[![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/clones.svg)](https://github.com/imhuay/imhuay/tree/traffic#-sspace)
+[![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/clones_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-sspace)
 
 ```markdown
-[![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/views.svg)](https://github.com/imhuay/imhuay/tree/traffic#-space)
-[![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/views_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-space)
-[![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/clones.svg)](https://github.com/imhuay/imhuay/tree/traffic#-space)
-[![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-space/clones_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-space)
+[![views](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/views.svg)](https://github.com/imhuay/imhuay/tree/traffic#-sspace)
+[![views per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/views_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-sspace)
+[![clones](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/clones.svg)](https://github.com/imhuay/imhuay/tree/traffic#-sspace)
+[![clones per week](https://raw.githubusercontent.com/imhuay/imhuay/traffic/traffic-sspace/clones_per_week.svg)](https://github.com/imhuay/imhuay/tree/traffic#-sspace)
 ```
 
 ## 📚 [template-python](https://github.com/imhuay/imhuay/tree/traffic/traffic-template-python)
