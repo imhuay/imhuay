@@ -44,26 +44,26 @@ class ImHuay:
 
     researches = {
         'Deep Learning': {
-            'backends': ['Pytorch'],
-            'directions': ['Representation Learning', 'SFT/RLHF', 'Agents'],
-            'models': ['Transformer', 'BERT/DeBERTa', 'LLaMa/MoE'],
-            'next': ['Function Calling/MCP', 'Generative Data Augmentation'],
+            'backends': ['PyTorch'],
+            'directions': ['Representation Learning', 'SFT/RLHF', 'Multi-Agent Systems'],
+            'models': ['Transformer', 'BERT/DeBERTa', 'LLaMA/MoE'],
+            'next': ['Function Calling & MCP', 'Generative Data Augmentation'],
         },
         'Natural Language Processing (NLP)': [
             'Sentence Embedding',
             'Text Classification / Sentiment Analysis',
             'Similarity Computation',
             'Information Extraction',
-            'Named Entity Recognition (NER) & Entity Linking',
+            'NER & Entity Linking',
         ],
     }
 
     projects = [
-        {'name': 'Search Relevance Optimization', 'methods': ['RLHF', 'Multi-Agent System']},
+        {'name': 'Search Relevance Optimization', 'methods': ['RLHF', 'Multi-Agent Systems']},
         {'name': 'Sensitive Content Detection', 'methods': ['SFT', 'Generative Data Augmentation']},
         {'name': 'Synonym Query Mining', 'methods': ['Graph-based Expansion', 'SimCSE']},
         {'name': 'Universal NER', 'methods': ['Schema-driven NER', 'Semantic Matching']},
-        {'name': 'User Content Profiling', 'methods': ['MRC-based Aspect Extraction']},
+        {'name': 'User Content Profiling', 'methods': ['MRC-style Aspect Extraction']},
     ]
 ```
 
