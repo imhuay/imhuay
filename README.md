@@ -34,19 +34,37 @@
 ```python
 class ImHuay:
     email = 'imhuay@163.com'
-    languages = ['Python', 'Java', 'HiveSQL']
+    location = 'Shanghai, China'
+
+    experiences = [
+        {'company': 'Pinduoduo / TEMU', 'title': 'Senior Algorithm Engineer', 'period': '2022.12 ~ 2025.06'},
+        {'company': 'Shopee / O2O', 'title': 'Senior Algorithm Engineer', 'period': '2022.06 ~ 2022.09'},
+        {'company': 'Meituan-Dianping / NLP Center', 'title': 'Algorithm Engineer (L6)', 'period': '2019.01 ~ 2022.06'},
+    ]
+
     researches = {
         'Deep Learning': {
-            'backends':   ['Pytorch', 'Keras'],
-            'directions': ['Representation Learning', 'Few-Shot Learning', 'Contrastive Learning'],
-            'models':     ['CNN', 'RNN/LSTM', 'Transformer/BERTs', ...],
+            'backends': ['Pytorch'],
+            'directions': ['Representation Learning', 'SFT/RLHF', 'Agents'],
+            'models': ['Transformer', 'BERT/DeBERTa', 'LLaMa/MoE'],
+            'next': ['Function Calling/MCP', 'Generative Data Augmentation'],
         },
         'Natural Language Processing (NLP)': [
-            'Sentiment Analysis',
-            'Entity Linking',
-            'Relation Extraction'
-        ]
+            'Sentence Embedding',
+            'Text Classification / Sentiment Analysis',
+            'Similarity Computation',
+            'Information Extraction',
+            'Named Entity Recognition (NER) & Entity Linking',
+        ],
     }
+
+    projects = [
+        {'name': 'Search Relevance Optimization', 'methods': ['RLHF', 'Multi-Agent System']},
+        {'name': 'Sensitive Content Detection', 'methods': ['SFT', 'Generative Data Augmentation']},
+        {'name': 'Synonym Query Mining', 'methods': ['Graph-based Expansion', 'SimCSE']},
+        {'name': 'Universal NER', 'methods': ['Schema-driven NER', 'Semantic Matching']},
+        {'name': 'User Content Profiling', 'methods': ['MRC-based Aspect Extraction']},
+    ]
 ```
 
 ## Last 7 days
