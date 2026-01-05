@@ -523,11 +523,6 @@
       "uniques": 8
     },
     {
-      "timestamp": "2025-12-21T00:00:00Z",
-      "count": 4,
-      "uniques": 3
-    },
-    {
       "timestamp": "2025-12-31T00:00:00Z",
       "count": 6,
       "uniques": 5
@@ -541,6 +536,11 @@
       "timestamp": "2026-01-02T00:00:00Z",
       "count": 18,
       "uniques": 10
+    },
+    {
+      "timestamp": "2025-12-22T00:00:00Z",
+      "count": 7,
+      "uniques": 7
     },
     {
       "timestamp": "2025-12-17T00:00:00Z",
@@ -563,9 +563,9 @@
       "uniques": 5
     },
     {
-      "timestamp": "2025-12-22T00:00:00Z",
-      "count": 7,
-      "uniques": 7
+      "timestamp": "2025-12-21T00:00:00Z",
+      "count": 4,
+      "uniques": 3
     },
     {
       "timestamp": "2025-12-23T00:00:00Z",
