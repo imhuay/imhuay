@@ -1,13 +1,13 @@
 [
   {
-    "referrer": "Google",
-    "count": 26,
+    "referrer": "github.com",
+    "count": 25,
     "uniques": 12
   },
   {
-    "referrer": "github.com",
-    "count": 24,
-    "uniques": 12
+    "referrer": "Google",
+    "count": 23,
+    "uniques": 10
   },
   {
     "referrer": "rain120.github.io",
