@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 25,
-    "uniques": 12
+    "count": 27,
+    "uniques": 13
   },
   {
     "referrer": "Google",
-    "count": 23,
-    "uniques": 10
+    "count": 25,
+    "uniques": 12
   },
   {
     "referrer": "rain120.github.io",
@@ -15,18 +15,13 @@
     "uniques": 1
   },
   {
+    "referrer": "link.zhihu.com",
+    "count": 5,
+    "uniques": 2
+  },
+  {
     "referrer": "cloud.tencent.com",
     "count": 5,
-    "uniques": 1
-  },
-  {
-    "referrer": "link.zhihu.com",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "referrer": "link.juejin.cn",
-    "count": 2,
     "uniques": 1
   },
   {
