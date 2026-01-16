@@ -2,14 +2,14 @@
   {
     "path": "/imhuay/sspace",
     "title": "sspace/ at master · imhuay/sspace · GitHub",
-    "count": 92,
-    "uniques": 61
+    "count": 98,
+    "uniques": 65
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "sspace/notes/_archives/2025/10/QA_合集.md at master · imhuay/sspace · GitHub",
-    "count": 13,
-    "uniques": 8
+    "count": 17,
+    "uniques": 11
   },
   {
     "path": "/imhuay/sspace/tree/master",
@@ -32,31 +32,31 @@
   {
     "path": "/imhuay/sspace/blob/master/algorithms/README.md",
     "title": "sspace/algorithms/README.md at master · imhuay/sspace · GitHub",
-    "count": 4,
-    "uniques": 2
+    "count": 6,
+    "uniques": 4
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
     "title": "sspace/notes/_archives/2022/05/过拟合与正则化.md at master · imhuay/sspace · GitHub",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
-    "title": "sspace/notes/_archives/2025/09/RLHF/RLHF.md at master · imhuay/sspace · GitHub",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_Agent_Prompt.md",
-    "title": "sspace/notes/_archives/2025/11/LLM_Agent_Prompt.md at master · imhuay/sspace ...",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/999-WIKI.md",
-    "title": "sspace/notes/999-WIKI.md at master · imhuay/sspace · GitHub",
-    "count": 3,
+    "count": 6,
     "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "title": "sspace/notes/_archives/2025/09/机器学习基础.md at master · imhuay/sspace · GitHub",
+    "count": 5,
+    "uniques": 4
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/XGBoost.md",
+    "title": "sspace/notes/_archives/2022/05/XGBoost.md at master · imhuay/sspace · GitHub",
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_改进.md",
+    "title": "sspace/notes/_archives/2025/09/Transformer_改进.md at master · imhuay/sspace · ...",
+    "count": 4,
+    "uniques": 4
   }
 ]
