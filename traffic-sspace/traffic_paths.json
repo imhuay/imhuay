@@ -2,31 +2,25 @@
   {
     "path": "/imhuay/sspace",
     "title": "sspace/ at master · imhuay/sspace · GitHub",
-    "count": 99,
-    "uniques": 65
+    "count": 97,
+    "uniques": 64
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "sspace/notes/_archives/2025/10/QA_合集.md at master · imhuay/sspace · GitHub",
     "count": 18,
-    "uniques": 11
+    "uniques": 10
   },
   {
     "path": "/imhuay/sspace/tree/master",
     "title": "imhuay/sspace: 我的学习空间: 笔记, 备忘, 刷题, 代码",
-    "count": 14,
-    "uniques": 6
+    "count": 13,
+    "uniques": 5
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/Transformer常见问题.md",
     "title": "sspace/notes/_archives/2022/05/Transformer常见问题.md at master · imhuay/sspace ·...",
-    "count": 9,
-    "uniques": 4
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/A-深度学习/A-深度学习基础.md",
-    "title": "File not found · GitHub",
-    "count": 8,
+    "count": 10,
     "uniques": 5
   },
   {
@@ -36,10 +30,22 @@
     "uniques": 4
   },
   {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
+    "title": "sspace/notes/_archives/2025/11/LLM_训练优化.md at master · imhuay/sspace · GitHub",
+    "count": 6,
+    "uniques": 3
+  },
+  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
     "title": "sspace/notes/_archives/2022/05/过拟合与正则化.md at master · imhuay/sspace · GitHub",
     "count": 6,
     "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/A-深度学习/A-深度学习基础.md",
+    "title": "File not found · GitHub",
+    "count": 5,
+    "uniques": 4
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
@@ -50,12 +56,6 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/XGBoost.md",
     "title": "sspace/notes/_archives/2022/05/XGBoost.md at master · imhuay/sspace · GitHub",
-    "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
-    "title": "sspace/notes/_archives/2025/11/LLM_训练优化.md at master · imhuay/sspace · GitHub",
     "count": 5,
     "uniques": 3
   }
