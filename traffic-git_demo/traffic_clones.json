@@ -593,9 +593,9 @@
       "uniques": 0
     },
     {
-      "timestamp": "2026-01-04T00:00:00Z",
-      "count": 0,
-      "uniques": 0
+      "timestamp": "2026-01-05T00:00:00Z",
+      "count": 1,
+      "uniques": 1
     },
     {
       "timestamp": "2026-01-02T00:00:00Z",
@@ -608,9 +608,9 @@
       "uniques": 0
     },
     {
-      "timestamp": "2026-01-05T00:00:00Z",
-      "count": 1,
-      "uniques": 1
+      "timestamp": "2026-01-04T00:00:00Z",
+      "count": 0,
+      "uniques": 0
     },
     {
       "timestamp": "2026-01-06T00:00:00Z",
