@@ -2,26 +2,26 @@
   {
     "path": "/imhuay/sspace",
     "title": "GitHub - imhuay/sspace: 我的学习空间: 笔记, 备忘, 刷题, 代码",
-    "count": 89,
-    "uniques": 62
+    "count": 84,
+    "uniques": 60
   },
   {
     "path": "/imhuay/sspace/tree/master",
     "title": "imhuay/sspace: 我的学习空间: 笔记, 备忘, 刷题, 代码",
-    "count": 22,
-    "uniques": 5
+    "count": 21,
+    "uniques": 4
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
-    "title": "sspace/notes/_archives/2025/09/Transformer.md at master · imhuay/sspace · Git...",
-    "count": 14,
+    "title": "sspace/notes/_archives/2025/09/Transformer.md at master · imhuay/sspace",
+    "count": 16,
     "uniques": 10
   },
   {
     "path": "/imhuay/sspace/blob/master/algorithms/README.md",
     "title": "sspace/algorithms/README.md at master · imhuay/sspace",
-    "count": 9,
-    "uniques": 7
+    "count": 8,
+    "uniques": 5
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
@@ -32,8 +32,14 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
     "title": "sspace/notes/_archives/2022/05/过拟合与正则化.md at master · imhuay/sspace",
-    "count": 6,
+    "count": 7,
     "uniques": 3
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "title": "sspace/notes/_archives/2025/09/机器学习基础.md at master · imhuay/sspace · GitHub",
+    "count": 6,
+    "uniques": 5
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/概率论基础.md",
@@ -52,11 +58,5 @@
     "title": "sspace/notes/_archives/2025/08/VSCode配置-Python.md at master · imhuay/sspace ·...",
     "count": 5,
     "uniques": 1
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
-    "title": "sspace/notes/_archives/2025/09/SFT.md at master · imhuay/sspace",
-    "count": 4,
-    "uniques": 4
   }
 ]
