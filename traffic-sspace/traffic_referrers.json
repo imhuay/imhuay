@@ -1,18 +1,18 @@
 [
   {
     "referrer": "github.com",
-    "count": 80,
-    "uniques": 25
-  },
-  {
-    "referrer": "link.zhihu.com",
-    "count": 19,
-    "uniques": 4
+    "count": 76,
+    "uniques": 23
   },
   {
     "referrer": "Google",
-    "count": 16,
-    "uniques": 10
+    "count": 17,
+    "uniques": 12
+  },
+  {
+    "referrer": "link.zhihu.com",
+    "count": 15,
+    "uniques": 2
   },
   {
     "referrer": "doubao.com",
@@ -22,6 +22,11 @@
   {
     "referrer": "deepseek.com",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "fantasy-jxf.gitbook.io",
+    "count": 1,
     "uniques": 1
   }
 ]

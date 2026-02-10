@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "GitHub - imhuay/sspace: 我的学习空间: 笔记, 备忘, 刷题, 代码",
-    "count": 82,
-    "uniques": 61
+    "count": 81,
+    "uniques": 60
   },
   {
     "path": "/imhuay/sspace/tree/master",
@@ -20,26 +20,14 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
     "title": "sspace/notes/_archives/2025/09/RLHF/RLHF.md at master · imhuay/sspace",
-    "count": 11,
+    "count": 12,
     "uniques": 6
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
-    "title": "sspace/notes/_archives/2025/09/SFT.md at master · imhuay/sspace",
-    "count": 9,
-    "uniques": 5
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
     "title": "sspace/notes/_archives/2022/05/过拟合与正则化.md at master · imhuay/sspace",
-    "count": 8,
-    "uniques": 4
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
-    "title": "sspace/algorithms/README.md at master · imhuay/sspace",
-    "count": 7,
-    "uniques": 6
+    "count": 10,
+    "uniques": 5
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
@@ -48,15 +36,27 @@
     "uniques": 6
   },
   {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
+    "title": "sspace/notes/_archives/2025/09/SFT.md at master · imhuay/sspace",
+    "count": 7,
+    "uniques": 3
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
+    "title": "sspace/algorithms/README.md at master · imhuay/sspace",
+    "count": 6,
+    "uniques": 5
+  },
+  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/概率论基础.md",
     "title": "sspace/notes/_archives/2025/09/概率论基础.md at master · imhuay/sspace · GitHub",
     "count": 5,
     "uniques": 4
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/08/VSCode备忘.md",
-    "title": "sspace/notes/_archives/2025/08/VSCode备忘.md at master · imhuay/sspace · GitHub",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_基座模型.md",
+    "title": "sspace/notes/_archives/2025/11/LLM_基座模型.md at master · imhuay/sspace",
     "count": 5,
-    "uniques": 1
+    "uniques": 2
   }
 ]
