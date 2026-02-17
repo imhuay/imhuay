@@ -2,32 +2,32 @@
   {
     "path": "/imhuay/sspace",
     "title": "GitHub - imhuay/sspace: 我的学习空间: 笔记, 备忘, 刷题, 代码",
-    "count": 69,
-    "uniques": 53
+    "count": 63,
+    "uniques": 47
   },
   {
     "path": "/imhuay/sspace/tree/master",
     "title": "imhuay/sspace: 我的学习空间: 笔记, 备忘, 刷题, 代码",
-    "count": 33,
-    "uniques": 6
+    "count": 30,
+    "uniques": 5
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "sspace/notes/_archives/2025/09/Transformer.md at master · imhuay/sspace · Git...",
-    "count": 17,
-    "uniques": 10
+    "count": 13,
+    "uniques": 8
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
     "title": "sspace/notes/_archives/2022/05/过拟合与正则化.md at master · imhuay/sspace",
-    "count": 14,
+    "count": 11,
     "uniques": 6
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
     "title": "sspace/notes/_archives/2025/09/RLHF/RLHF.md at master · imhuay/sspace",
-    "count": 10,
-    "uniques": 4
+    "count": 9,
+    "uniques": 3
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
@@ -42,21 +42,21 @@
     "uniques": 4
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
-    "title": "sspace/notes/_archives/2025/09/机器学习基础.md at master · imhuay/sspace · GitHub",
-    "count": 5,
-    "uniques": 4
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/概率论基础.md",
-    "title": "sspace/notes/_archives/2025/09/概率论基础.md at master · imhuay/sspace",
-    "count": 5,
-    "uniques": 4
-  },
-  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_基座模型.md",
     "title": "sspace/notes/_archives/2025/11/LLM_基座模型.md at master · imhuay/sspace",
     "count": 5,
     "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
+    "title": "sspace/notes/_archives/2025/09/SFT.md at master · imhuay/sspace",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "title": "sspace/notes/_archives/2025/09/机器学习基础.md at master · imhuay/sspace · GitHub",
+    "count": 4,
+    "uniques": 3
   }
 ]
