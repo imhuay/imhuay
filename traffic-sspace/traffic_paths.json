@@ -2,32 +2,32 @@
   {
     "path": "/imhuay/sspace",
     "title": "imhuay/sspace: 我的学习空间: 笔记, 备忘, 刷题, 代码",
-    "count": 175,
-    "uniques": 121
+    "count": 182,
+    "uniques": 129
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
-    "title": "sspace/notes/_archives/2025/09/Transformer.md at master · imhuay/sspace · Git...",
-    "count": 36,
-    "uniques": 23
+    "title": "sspace/notes/_archives/2025/09/Transformer.md at master · imhuay/sspace",
+    "count": 39,
+    "uniques": 25
   },
   {
     "path": "/imhuay/sspace/tree/master",
     "title": "GitHub - imhuay/sspace: 我的学习空间: 笔记, 备忘, 刷题, 代码",
-    "count": 24,
+    "count": 25,
     "uniques": 13
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/10/QA_合集.md",
+    "title": "sspace/notes/_archives/2025/10/QA_合集.md at master · imhuay/sspace · GitHub",
+    "count": 21,
+    "uniques": 10
   },
   {
     "path": "/imhuay/sspace/blob/master/algorithms/README.md",
     "title": "sspace/algorithms/README.md at master · imhuay/sspace · GitHub",
     "count": 17,
     "uniques": 13
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/10/QA_合集.md",
-    "title": "sspace/notes/_archives/2025/10/QA_合集.md at master · imhuay/sspace · GitHub",
-    "count": 16,
-    "uniques": 9
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
@@ -44,19 +44,19 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/10/树形递归技巧.md",
     "title": "sspace/notes/_archives/2022/10/树形递归技巧.md at master · imhuay/sspace · GitHub",
+    "count": 11,
+    "uniques": 9
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
+    "title": "imhuay/sspace: 我的学习空间: 笔记, 备忘, 刷题, 代码",
     "count": 10,
-    "uniques": 8
+    "uniques": 7
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
     "title": "sspace/notes/_archives/2025/09/Transformer.md at master · imhuay/sspace · Git...",
     "count": 10,
     "uniques": 6
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
-    "title": "sspace/notes/_archives/2022/05/过拟合与正则化.md at master · imhuay/sspace",
-    "count": 10,
-    "uniques": 4
   }
 ]
