@@ -2,12 +2,7 @@
   {
     "referrer": "github.com",
     "count": 43,
-    "uniques": 19
-  },
-  {
-    "referrer": "doubao.com",
-    "count": 42,
-    "uniques": 6
+    "uniques": 21
   },
   {
     "referrer": "Baidu",
@@ -16,7 +11,12 @@
   },
   {
     "referrer": "Google",
-    "count": 17,
+    "count": 19,
+    "uniques": 6
+  },
+  {
+    "referrer": "doubao.com",
+    "count": 12,
     "uniques": 5
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "referrer": "cloud.tencent.com",
-    "count": 7,
+    "count": 5,
     "uniques": 3
   },
   {
