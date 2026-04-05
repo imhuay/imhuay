@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 64,
-    "uniques": 23
+    "count": 66,
+    "uniques": 25
   },
   {
     "referrer": "Google",
@@ -28,10 +28,5 @@
     "referrer": "cloud.tencent.com",
     "count": 6,
     "uniques": 4
-  },
-  {
-    "referrer": "archive.org",
-    "count": 3,
-    "uniques": 1
   }
 ]

@@ -2,13 +2,13 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 123,
-    "uniques": 84
+    "count": 129,
+    "uniques": 88
   },
   {
     "path": "/imhuay/sspace/tree/master",
     "title": "/tree/master",
-    "count": 38,
+    "count": 37,
     "uniques": 8
   },
   {
@@ -54,9 +54,9 @@
     "uniques": 5
   },
   {
-    "path": "/imhuay/sspace/commits/master",
-    "title": "/commits/master",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
     "count": 7,
-    "uniques": 2
+    "uniques": 5
   }
 ]
