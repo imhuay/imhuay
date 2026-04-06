@@ -2,20 +2,20 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 129,
-    "uniques": 88
+    "count": 117,
+    "uniques": 84
   },
   {
     "path": "/imhuay/sspace/tree/master",
     "title": "/tree/master",
-    "count": 37,
-    "uniques": 8
+    "count": 34,
+    "uniques": 6
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
-    "count": 24,
-    "uniques": 18
+    "count": 22,
+    "uniques": 16
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
@@ -24,16 +24,22 @@
     "uniques": 5
   },
   {
+    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
+    "title": "/blob/master/algorithms/README.md",
+    "count": 9,
+    "uniques": 9
+  },
+  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/10/QA_合集.md",
     "title": "/blob/master/notes/_archives/2025/10/QA_合集.md",
     "count": 9,
     "uniques": 7
   },
   {
-    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
-    "title": "/blob/master/algorithms/README.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
     "count": 8,
-    "uniques": 8
+    "uniques": 6
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_LoRA.md",
@@ -50,12 +56,6 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
     "title": "/blob/master/notes/_archives/2025/09/SFT.md",
-    "count": 7,
-    "uniques": 5
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
-    "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
     "count": 7,
     "uniques": 5
   }
