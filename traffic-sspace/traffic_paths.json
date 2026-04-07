@@ -2,20 +2,20 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 117,
-    "uniques": 84
+    "count": 102,
+    "uniques": 75
   },
   {
     "path": "/imhuay/sspace/tree/master",
     "title": "/tree/master",
-    "count": 34,
-    "uniques": 6
+    "count": 31,
+    "uniques": 5
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
     "count": 22,
-    "uniques": 16
+    "uniques": 15
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
@@ -24,22 +24,16 @@
     "uniques": 5
   },
   {
-    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
-    "title": "/blob/master/algorithms/README.md",
-    "count": 9,
-    "uniques": 9
-  },
-  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/10/QA_合集.md",
     "title": "/blob/master/notes/_archives/2025/10/QA_合集.md",
-    "count": 9,
-    "uniques": 7
+    "count": 10,
+    "uniques": 8
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
     "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
-    "count": 8,
-    "uniques": 6
+    "count": 10,
+    "uniques": 7
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_LoRA.md",
@@ -48,15 +42,21 @@
     "uniques": 4
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
-    "title": "/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
+    "title": "/blob/master/notes/_archives/2025/09/SFT.md",
     "count": 7,
     "uniques": 5
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
-    "title": "/blob/master/notes/_archives/2025/09/SFT.md",
-    "count": 7,
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/BERT常见面试问题.md",
+    "title": "/blob/master/notes/_archives/2022/05/BERT常见面试问题.md",
+    "count": 6,
+    "uniques": 5
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/Transformer常见问题.md",
+    "title": "/blob/master/notes/_archives/2022/05/Transformer常见问题.md",
+    "count": 6,
     "uniques": 5
   }
 ]
