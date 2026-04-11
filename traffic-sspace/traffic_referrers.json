@@ -1,7 +1,7 @@
 [
   {
     "referrer": "github.com",
-    "count": 63,
+    "count": 61,
     "uniques": 25
   },
   {
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "Google",
-    "count": 10,
-    "uniques": 5
+    "count": 11,
+    "uniques": 6
   },
   {
     "referrer": "cloud.tencent.com",
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "link.zhihu.com",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "chatgpt.com",
