@@ -2,13 +2,13 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 112,
+    "count": 114,
     "uniques": 80
   },
   {
     "path": "/imhuay/sspace/tree/master",
     "title": "/tree/master",
-    "count": 47,
+    "count": 46,
     "uniques": 9
   },
   {
@@ -54,9 +54,9 @@
     "uniques": 4
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
-    "title": "/blob/master/notes/_archives/2025/09/SFT.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/_assets/Transformer-architecture.png",
+    "title": "/blob/master/notes/_archives/2025/09/_assets/Transformer-architecture.png",
     "count": 6,
-    "uniques": 1
+    "uniques": 4
   }
 ]
