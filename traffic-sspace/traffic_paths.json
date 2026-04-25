@@ -2,32 +2,38 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 111,
+    "count": 110,
     "uniques": 70
   },
   {
     "path": "/imhuay/sspace/tree/master",
     "title": "/tree/master",
-    "count": 41,
+    "count": 34,
     "uniques": 9
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
-    "count": 37,
-    "uniques": 17
+    "count": 32,
+    "uniques": 16
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
     "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
-    "count": 15,
-    "uniques": 9
+    "count": 14,
+    "uniques": 8
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
     "title": "/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
     "count": 10,
     "uniques": 4
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/激活函数.md",
+    "title": "/blob/master/notes/_archives/2022/05/激活函数.md",
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/概率论基础.md",
@@ -42,21 +48,15 @@
     "uniques": 6
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/激活函数.md",
-    "title": "/blob/master/notes/_archives/2022/05/激活函数.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/Transformer常见问题.md",
+    "title": "/blob/master/notes/_archives/2022/05/Transformer常见问题.md",
     "count": 7,
-    "uniques": 5
+    "uniques": 6
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF_强化学习基础.md",
     "title": "/blob/master/notes/_archives/2025/09/RLHF/RLHF_强化学习基础.md",
     "count": 7,
     "uniques": 3
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
-    "title": "/blob/master/notes/_archives/2025/09/SFT.md",
-    "count": 7,
-    "uniques": 2
   }
 ]
