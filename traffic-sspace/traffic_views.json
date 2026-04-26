@@ -1088,14 +1088,14 @@
       "uniques": 12
     },
     {
-      "timestamp": "2026-04-11T00:00:00Z",
-      "count": 21,
-      "uniques": 7
-    },
-    {
       "timestamp": "2026-04-12T00:00:00Z",
       "count": 22,
       "uniques": 8
+    },
+    {
+      "timestamp": "2026-04-11T00:00:00Z",
+      "count": 21,
+      "uniques": 7
     },
     {
       "timestamp": "2026-04-13T00:00:00Z",
