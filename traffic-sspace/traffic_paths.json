@@ -2,32 +2,32 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 106,
-    "uniques": 72
+    "count": 105,
+    "uniques": 70
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
     "count": 32,
-    "uniques": 16
+    "uniques": 15
   },
   {
     "path": "/imhuay/sspace/tree/master",
     "title": "/tree/master",
-    "count": 25,
-    "uniques": 8
+    "count": 19,
+    "uniques": 7
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
     "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
-    "count": 14,
+    "count": 13,
     "uniques": 8
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
     "title": "/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
-    "count": 10,
-    "uniques": 4
+    "count": 11,
+    "uniques": 5
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/激活函数.md",
@@ -38,25 +38,25 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/概率论基础.md",
     "title": "/blob/master/notes/_archives/2025/09/概率论基础.md",
-    "count": 8,
-    "uniques": 6
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
-    "title": "/blob/master/algorithms/README.md",
     "count": 7,
-    "uniques": 6
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF_强化学习基础.md",
-    "title": "/blob/master/notes/_archives/2025/09/RLHF/RLHF_强化学习基础.md",
-    "count": 7,
-    "uniques": 3
+    "uniques": 5
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/_assets/Transformer-architecture.png",
     "title": "/blob/master/notes/_archives/2025/09/_assets/Transformer-architecture.png",
     "count": 6,
+    "uniques": 4
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/10/QA_合集.md",
+    "title": "/blob/master/notes/_archives/2025/10/QA_合集.md",
+    "count": 5,
+    "uniques": 5
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
+    "title": "/blob/master/algorithms/README.md",
+    "count": 5,
     "uniques": 4
   }
 ]
