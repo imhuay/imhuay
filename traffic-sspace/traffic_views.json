@@ -1103,14 +1103,14 @@
       "uniques": 9
     },
     {
-      "timestamp": "2026-04-14T00:00:00Z",
-      "count": 23,
-      "uniques": 11
-    },
-    {
       "timestamp": "2026-04-15T00:00:00Z",
       "count": 26,
       "uniques": 10
+    },
+    {
+      "timestamp": "2026-04-14T00:00:00Z",
+      "count": 23,
+      "uniques": 11
     },
     {
       "timestamp": "2026-04-16T00:00:00Z",
