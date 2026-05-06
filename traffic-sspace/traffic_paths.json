@@ -2,25 +2,19 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 80,
-    "uniques": 55
+    "count": 77,
+    "uniques": 57
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
-    "count": 13,
+    "count": 12,
     "uniques": 10
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
     "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
     "count": 5,
-    "uniques": 4
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/999-WIKI.md",
-    "title": "/blob/master/notes/999-WIKI.md",
-    "count": 4,
     "uniques": 4
   },
   {
@@ -48,14 +42,20 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/020-机器学习.md",
-    "title": "/blob/master/notes/020-机器学习.md",
+    "path": "/imhuay/sspace/blob/master/notes/999-WIKI.md",
+    "title": "/blob/master/notes/999-WIKI.md",
     "count": 3,
-    "uniques": 2
+    "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/Transformer常见问题.md",
-    "title": "/blob/master/notes/_archives/2022/05/Transformer常见问题.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
+    "title": "/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/020-机器学习.md",
+    "title": "/blob/master/notes/020-机器学习.md",
     "count": 3,
     "uniques": 2
   }
