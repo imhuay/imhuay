@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 77,
-    "uniques": 57
+    "count": 64,
+    "uniques": 52
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
@@ -12,34 +12,10 @@
     "uniques": 10
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
-    "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
-    "count": 5,
-    "uniques": 4
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/概率论基础.md",
-    "title": "/blob/master/notes/_archives/2025/09/概率论基础.md",
-    "count": 4,
-    "uniques": 4
-  },
-  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/10/QA_合集.md",
     "title": "/blob/master/notes/_archives/2025/10/QA_合集.md",
     "count": 4,
     "uniques": 4
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
-    "title": "/blob/master/notes/_archives/2025/09/SFT.md",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/imhuay/sspace/tree/master",
-    "title": "/tree/master",
-    "count": 4,
-    "uniques": 3
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/999-WIKI.md",
@@ -48,15 +24,39 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
-    "title": "/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
+    "title": "/blob/master/notes/_archives/2025/09/SFT.md",
     "count": 3,
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/020-机器学习.md",
-    "title": "/blob/master/notes/020-机器学习.md",
+    "path": "/imhuay/sspace/tree/master",
+    "title": "/tree/master",
     "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/Transformer常见问题.md",
+    "title": "/blob/master/notes/_archives/2022/05/Transformer常见问题.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/激活函数.md",
+    "title": "/blob/master/notes/_archives/2022/05/激活函数.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/07/python函数声明中单独的正斜杠和星号是什么意思.md",
+    "title": "/blob/master/notes/_archives/2022/07/python函数声明中单独的正斜杠和星号是什么意思.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/08/RLHF.md",
+    "title": "/blob/master/notes/_archives/2025/08/RLHF.md",
+    "count": 2,
     "uniques": 2
   }
 ]
