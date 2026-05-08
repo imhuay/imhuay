@@ -2,26 +2,14 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 64,
-    "uniques": 52
+    "count": 57,
+    "uniques": 47
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
-    "count": 12,
-    "uniques": 10
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/10/QA_合集.md",
-    "title": "/blob/master/notes/_archives/2025/10/QA_合集.md",
-    "count": 4,
-    "uniques": 4
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/999-WIKI.md",
-    "title": "/blob/master/notes/999-WIKI.md",
-    "count": 3,
-    "uniques": 3
+    "count": 11,
+    "uniques": 9
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
@@ -30,9 +18,33 @@
     "uniques": 3
   },
   {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/10/QA_合集.md",
+    "title": "/blob/master/notes/_archives/2025/10/QA_合集.md",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "path": "/imhuay/sspace/tree/master",
     "title": "/tree/master",
     "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/000-数据结构与算法.md",
+    "title": "/blob/master/notes/000-数据结构与算法.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/010-深度学习.md",
+    "title": "/blob/master/notes/010-深度学习.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/999-WIKI.md",
+    "title": "/blob/master/notes/999-WIKI.md",
+    "count": 2,
     "uniques": 2
   },
   {
@@ -44,18 +56,6 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/激活函数.md",
     "title": "/blob/master/notes/_archives/2022/05/激活函数.md",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/07/python函数声明中单独的正斜杠和星号是什么意思.md",
-    "title": "/blob/master/notes/_archives/2022/07/python函数声明中单独的正斜杠和星号是什么意思.md",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/08/RLHF.md",
-    "title": "/blob/master/notes/_archives/2025/08/RLHF.md",
     "count": 2,
     "uniques": 2
   }
