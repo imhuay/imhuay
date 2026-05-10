@@ -2,7 +2,7 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 53,
+    "count": 55,
     "uniques": 44
   },
   {
@@ -14,6 +14,12 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
     "title": "/blob/master/notes/_archives/2025/09/SFT.md",
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/000-数据结构与算法.md",
+    "title": "/blob/master/notes/000-数据结构与算法.md",
     "count": 3,
     "uniques": 3
   },
@@ -30,14 +36,14 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/000-数据结构与算法.md",
-    "title": "/blob/master/notes/000-数据结构与算法.md",
+    "path": "/imhuay/sspace/blob/master/notes/010-深度学习.md",
+    "title": "/blob/master/notes/010-深度学习.md",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/010-深度学习.md",
-    "title": "/blob/master/notes/010-深度学习.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/07/知识图谱概述.md",
+    "title": "/blob/master/notes/_archives/2022/07/知识图谱概述.md",
     "count": 2,
     "uniques": 2
   },
@@ -48,14 +54,8 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/10/QA_合集.md",
-    "title": "/blob/master/notes/_archives/2025/10/QA_合集.md",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
-    "title": "/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
     "count": 2,
     "uniques": 2
   }
