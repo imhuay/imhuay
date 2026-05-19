@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 51,
-    "uniques": 43
+    "count": 55,
+    "uniques": 47
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
@@ -48,14 +48,14 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/A-深度学习/A-深度学习基础.md",
-    "title": "/blob/master/A-深度学习/A-深度学习基础.md",
+    "path": "/imhuay/sspace/blob/master/notes/000-数据结构与算法.md",
+    "title": "/blob/master/notes/000-数据结构与算法.md",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/000-数据结构与算法.md",
-    "title": "/blob/master/notes/000-数据结构与算法.md",
+    "path": "/imhuay/sspace/blob/master/notes/010-深度学习.md",
+    "title": "/blob/master/notes/010-深度学习.md",
     "count": 2,
     "uniques": 2
   }
