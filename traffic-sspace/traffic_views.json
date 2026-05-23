@@ -1291,6 +1291,11 @@
       "timestamp": "2026-05-21T00:00:00Z",
       "count": 12,
       "uniques": 5
+    },
+    {
+      "timestamp": "2026-05-22T00:00:00Z",
+      "count": 0,
+      "uniques": 0
     }
   ]
 }
