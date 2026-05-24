@@ -2,7 +2,7 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 47,
+    "count": 45,
     "uniques": 41
   },
   {
@@ -18,20 +18,14 @@
     "uniques": 5
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
-    "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
-    "count": 4,
-    "uniques": 4
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/10/程序员简历技巧.md",
-    "title": "/blob/master/notes/_archives/2022/10/程序员简历技巧.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
+    "title": "/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
     "count": 3,
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
-    "title": "/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
     "count": 3,
     "uniques": 3
   },
@@ -42,21 +36,27 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/09/设计模式.md",
-    "title": "/blob/master/notes/_archives/2022/09/设计模式.md",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/python国内镜像源.md",
-    "title": "/blob/master/notes/_archives/2022/06/python国内镜像源.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/10/程序员简历技巧.md",
+    "title": "/blob/master/notes/_archives/2022/10/程序员简历技巧.md",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/09/设计模式-工厂模式.md",
-    "title": "/blob/master/notes/_archives/2022/09/设计模式-工厂模式.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/08/python-uv备忘.md",
+    "title": "/blob/master/notes/_archives/2025/08/python-uv备忘.md",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/A-机器学习/A-机器学习基础.md",
+    "title": "/blob/master/A-机器学习/A-机器学习基础.md",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/010-深度学习.md",
+    "title": "/blob/master/notes/010-深度学习.md",
+    "count": 2,
+    "uniques": 1
   }
 ]
