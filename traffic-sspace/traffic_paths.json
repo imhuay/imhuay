@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 47,
-    "uniques": 40
+    "count": 44,
+    "uniques": 37
   },
   {
     "path": "/imhuay/sspace/blob/master/计算机网络/计算机网络-基基知识.md",
@@ -12,16 +12,22 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
-    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
-    "count": 7,
-    "uniques": 6
-  },
-  {
     "path": "/imhuay/sspace/blob/master/algorithms/README.md",
     "title": "/blob/master/algorithms/README.md",
     "count": 5,
     "uniques": 5
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
+    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
+    "count": 5,
+    "uniques": 4
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
@@ -30,16 +36,10 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
-    "title": "/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
+    "path": "/imhuay/sspace/blob/master/notes/010-深度学习.md",
+    "title": "/blob/master/notes/010-深度学习.md",
     "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
-    "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
-    "count": 3,
-    "uniques": 3
+    "uniques": 1
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/10/程序员简历技巧.md",
@@ -54,8 +54,8 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/10/QA_合集.md",
-    "title": "/blob/master/notes/_archives/2025/10/QA_合集.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
+    "title": "/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
     "count": 2,
     "uniques": 2
   }
