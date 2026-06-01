@@ -2,20 +2,14 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 57,
-    "uniques": 38
+    "count": 60,
+    "uniques": 37
   },
   {
     "path": "/imhuay/sspace/blob/master/计算机网络/计算机网络-基基知识.md",
     "title": "/blob/master/计算机网络/计算机网络-基基知识.md",
     "count": 23,
     "uniques": 3
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
-    "title": "/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
-    "count": 3,
-    "uniques": 2
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/010-深度学习.md",
@@ -30,24 +24,6 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
-    "title": "/blob/master/algorithms/README.md",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/10/程序员简历技巧.md",
-    "title": "/blob/master/notes/_archives/2022/10/程序员简历技巧.md",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/08/python-uv备忘.md",
-    "title": "/blob/master/notes/_archives/2025/08/python-uv备忘.md",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
     "title": "/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
     "count": 2,
@@ -58,5 +34,29 @@
     "title": "/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
+    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/A-深度学习/A-深度学习基础.md",
+    "title": "/blob/master/A-深度学习/A-深度学习基础.md",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/Linux后台运行.md",
+    "title": "/blob/master/notes/_archives/2022/06/Linux后台运行.md",
+    "count": 2,
+    "uniques": 1
   }
 ]
