@@ -12,22 +12,22 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
-    "title": "/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
     "title": "/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
-    "count": 3,
+    "count": 4,
     "uniques": 3
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/010-深度学习.md",
     "title": "/blob/master/notes/010-深度学习.md",
-    "count": 3,
-    "uniques": 1
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
+    "title": "/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/imhuay/sspace/blob/master/A-深度学习/《深度学习》整理.md",
@@ -48,14 +48,14 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
-    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
-    "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "path": "/imhuay/sspace/tree/master/algorithms",
+    "title": "/tree/master/algorithms",
     "count": 2,
     "uniques": 2
   }
