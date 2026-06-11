@@ -2,14 +2,14 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 56,
-    "uniques": 37
+    "count": 65,
+    "uniques": 45
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
-    "count": 4,
-    "uniques": 4
+    "count": 5,
+    "uniques": 5
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_位置编码.md",
@@ -24,26 +24,20 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/010-深度学习.md",
-    "title": "/blob/master/notes/010-深度学习.md",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/激活函数.md",
     "title": "/blob/master/notes/_archives/2022/05/激活函数.md",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/预训练模型的轻量化微调.md",
-    "title": "/blob/master/notes/_archives/2022/05/预训练模型的轻量化微调.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
+    "title": "/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
-    "title": "/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF_强化学习基础.md",
+    "title": "/blob/master/notes/_archives/2025/09/RLHF/RLHF_强化学习基础.md",
     "count": 2,
     "uniques": 2
   },
@@ -56,6 +50,12 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_MoE.md",
     "title": "/blob/master/notes/_archives/2025/09/Transformer_MoE.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_改进.md",
+    "title": "/blob/master/notes/_archives/2025/09/Transformer_改进.md",
     "count": 2,
     "uniques": 2
   }
