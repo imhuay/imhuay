@@ -6693,14 +6693,14 @@
       "uniques": 10
     },
     {
-      "timestamp": "2026-05-28T00:00:00Z",
-      "count": 22,
-      "uniques": 12
-    },
-    {
       "timestamp": "2026-05-29T00:00:00Z",
       "count": 25,
       "uniques": 14
+    },
+    {
+      "timestamp": "2026-05-28T00:00:00Z",
+      "count": 22,
+      "uniques": 12
     },
     {
       "timestamp": "2026-05-30T00:00:00Z",
