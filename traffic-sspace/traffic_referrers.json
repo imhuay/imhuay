@@ -6,18 +6,23 @@
   },
   {
     "referrer": "github.com",
-    "count": 10,
-    "uniques": 9
+    "count": 8,
+    "uniques": 8
   },
   {
     "referrer": "Google",
-    "count": 4,
-    "uniques": 4
+    "count": 5,
+    "uniques": 5
   },
   {
     "referrer": "doubao.com",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "referrer": "link.zhihu.com",
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "yuanbao.tencent.com",
