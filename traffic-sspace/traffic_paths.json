@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 46,
-    "uniques": 41
+    "count": 52,
+    "uniques": 46
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
@@ -18,6 +18,12 @@
     "uniques": 3
   },
   {
+    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
+    "title": "/blob/master/algorithms/README.md",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/imhuay/sspace/blob/master/A-深度学习/《深度学习》整理.md",
     "title": "/blob/master/A-深度学习/《深度学习》整理.md",
     "count": 2,
@@ -26,12 +32,6 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/激活函数.md",
     "title": "/blob/master/notes/_archives/2022/05/激活函数.md",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
-    "title": "/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
     "count": 2,
     "uniques": 2
   },
@@ -48,14 +48,14 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/C-算法/专题-D-大数运算.md",
-    "title": "/blob/master/C-算法/专题-D-大数运算.md",
+    "path": "/imhuay/sspace/tree/master",
+    "title": "/tree/master",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
-    "title": "/blob/master/notes/_archives/2025/09/SFT.md",
+    "path": "/imhuay/sspace/blob/master/C-算法/专题-D-大数运算.md",
+    "title": "/blob/master/C-算法/专题-D-大数运算.md",
     "count": 2,
     "uniques": 1
   }
