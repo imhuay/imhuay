@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 58,
-    "uniques": 51
+    "count": 54,
+    "uniques": 47
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/CNN.md",
@@ -42,14 +42,14 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
-    "title": "/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF_强化学习基础.md",
+    "title": "/blob/master/notes/_archives/2025/09/RLHF/RLHF_强化学习基础.md",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
-    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
+    "title": "/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
     "count": 2,
     "uniques": 2
   },

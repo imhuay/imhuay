@@ -1,13 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 22,
-    "uniques": 15
-  },
-  {
-    "referrer": "ata.atatech.org",
-    "count": 11,
-    "uniques": 6
+    "count": 21,
+    "uniques": 14
   },
   {
     "referrer": "Google",
@@ -15,17 +10,22 @@
     "uniques": 6
   },
   {
+    "referrer": "ata.atatech.org",
+    "count": 5,
+    "uniques": 4
+  },
+  {
     "referrer": "link.zhihu.com",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "yuanbao.tencent.com",
-    "count": 2,
+    "referrer": "bbs.huaweicloud.com",
+    "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "bbs.huaweicloud.com",
+    "referrer": "doubao.com",
     "count": 1,
     "uniques": 1
   },
