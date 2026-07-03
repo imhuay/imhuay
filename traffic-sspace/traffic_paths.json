@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 64,
-    "uniques": 51
+    "count": 62,
+    "uniques": 49
   },
   {
     "path": "/imhuay/sspace/tree/master",
@@ -42,12 +42,6 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
-    "title": "/blob/master/algorithms/README.md",
-    "count": 4,
-    "uniques": 4
-  },
-  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/损失函数.md",
     "title": "/blob/master/notes/_archives/2022/05/损失函数.md",
     "count": 4,
@@ -56,6 +50,12 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
     "title": "/blob/master/notes/_archives/2025/09/SFT.md",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/imhuay/sspace/tree/master/algorithms",
+    "title": "/tree/master/algorithms",
     "count": 4,
     "uniques": 3
   }
