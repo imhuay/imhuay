@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 59,
-    "uniques": 49
+    "count": 60,
+    "uniques": 50
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
@@ -36,6 +36,12 @@
     "uniques": 2
   },
   {
+    "path": "/imhuay/sspace/tree/master/algorithms",
+    "title": "/tree/master/algorithms",
+    "count": 5,
+    "uniques": 4
+  },
+  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
     "title": "/blob/master/notes/_archives/2025/09/SFT.md",
     "count": 4,
@@ -44,12 +50,6 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
     "title": "/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/imhuay/sspace/tree/master/algorithms",
-    "title": "/tree/master/algorithms",
     "count": 4,
     "uniques": 3
   },
