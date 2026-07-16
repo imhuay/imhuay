@@ -2,20 +2,20 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 43,
-    "uniques": 33
+    "count": 42,
+    "uniques": 32
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
-    "count": 8,
-    "uniques": 7
+    "count": 7,
+    "uniques": 6
   },
   {
     "path": "/imhuay/sspace/blob/master/algorithms/README.md",
     "title": "/blob/master/algorithms/README.md",
-    "count": 5,
-    "uniques": 4
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
@@ -26,12 +26,6 @@
   {
     "path": "/imhuay/sspace/blob/master/algorithms/problems/2021/10/LeetCode_0002_中等_两数相加.md",
     "title": "/blob/master/algorithms/problems/2021/10/LeetCode_0002_中等_两数相加.md",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/imhuay/sspace/tree/master/algorithms",
-    "title": "/tree/master/algorithms",
     "count": 2,
     "uniques": 2
   },
@@ -56,6 +50,12 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/爱因斯坦标记法.md",
     "title": "/blob/master/notes/_archives/2022/05/爱因斯坦标记法.md",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/12/synonym.2012.KDD.01/README.md",
+    "title": "/blob/master/notes/_archives/2022/12/synonym.2012.KDD.01/README.md",
     "count": 2,
     "uniques": 1
   }
