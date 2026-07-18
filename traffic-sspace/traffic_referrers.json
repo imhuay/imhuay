@@ -1,16 +1,11 @@
 [
   {
     "referrer": "github.com",
-    "count": 35,
-    "uniques": 11
+    "count": 39,
+    "uniques": 12
   },
   {
     "referrer": "Google",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "ata.atatech.org",
     "count": 1,
     "uniques": 1
   },
