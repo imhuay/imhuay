@@ -2,20 +2,14 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 41,
-    "uniques": 31
+    "count": 42,
+    "uniques": 30
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
-    "count": 5,
-    "uniques": 5
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
-    "title": "/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
     "count": 4,
-    "uniques": 3
+    "uniques": 4
   },
   {
     "path": "/imhuay/sspace/blob/master/algorithms/README.md",
@@ -26,6 +20,12 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/12/synonym.2012.KDD.01/README.md",
     "title": "/blob/master/notes/_archives/2022/12/synonym.2012.KDD.01/README.md",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
+    "title": "/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
     "count": 3,
     "uniques": 2
   },
