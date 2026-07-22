@@ -2,7 +2,7 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 45,
+    "count": 47,
     "uniques": 33
   },
   {
@@ -18,14 +18,14 @@
     "uniques": 4
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/12/synonym.2012.KDD.01/README.md",
-    "title": "/blob/master/notes/_archives/2022/12/synonym.2012.KDD.01/README.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_LoRA.md",
+    "title": "/blob/master/notes/_archives/2025/09/SFT_LoRA.md",
     "count": 3,
-    "uniques": 2
+    "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
-    "title": "/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/12/synonym.2012.KDD.01/README.md",
+    "title": "/blob/master/notes/_archives/2022/12/synonym.2012.KDD.01/README.md",
     "count": 3,
     "uniques": 2
   },
@@ -54,8 +54,8 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_LoRA.md",
-    "title": "/blob/master/notes/_archives/2025/09/SFT_LoRA.md",
+    "path": "/imhuay/sspace/tree/master/notes",
+    "title": "/tree/master/notes",
     "count": 2,
     "uniques": 2
   }
