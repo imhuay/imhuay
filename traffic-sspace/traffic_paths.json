@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 43,
-    "uniques": 30
+    "count": 41,
+    "uniques": 32
   },
   {
     "path": "/imhuay/sspace/blob/master/algorithms/README.md",
@@ -18,22 +18,22 @@
     "uniques": 4
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_LoRA.md",
-    "title": "/blob/master/notes/_archives/2025/09/SFT_LoRA.md",
+    "path": "/imhuay/sspace/blob/master/notes/999-WIKI.md",
+    "title": "/blob/master/notes/999-WIKI.md",
     "count": 3,
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/12/synonym.2012.KDD.01/README.md",
-    "title": "/blob/master/notes/_archives/2022/12/synonym.2012.KDD.01/README.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/09/设计模式.md",
+    "title": "/blob/master/notes/_archives/2022/09/设计模式.md",
     "count": 3,
-    "uniques": 2
+    "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/999-WIKI.md",
-    "title": "/blob/master/notes/999-WIKI.md",
-    "count": 2,
-    "uniques": 2
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_LoRA.md",
+    "title": "/blob/master/notes/_archives/2025/09/SFT_LoRA.md",
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/XGBoost.md",
@@ -48,14 +48,14 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/09/设计模式.md",
-    "title": "/blob/master/notes/_archives/2022/09/设计模式.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/概率论基础.md",
+    "title": "/blob/master/notes/_archives/2025/09/概率论基础.md",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/概率论基础.md",
-    "title": "/blob/master/notes/_archives/2025/09/概率论基础.md",
+    "path": "/imhuay/sspace/tree/master/algorithms",
+    "title": "/tree/master/algorithms",
     "count": 2,
     "uniques": 2
   }
