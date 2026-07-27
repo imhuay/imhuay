@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 44,
-    "uniques": 35
+    "count": 38,
+    "uniques": 34
   },
   {
     "path": "/imhuay/sspace/blob/master/algorithms/README.md",
@@ -12,20 +12,8 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
-    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
-    "count": 4,
-    "uniques": 4
-  },
-  {
     "path": "/imhuay/sspace/blob/master/notes/999-WIKI.md",
     "title": "/blob/master/notes/999-WIKI.md",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/09/设计模式.md",
-    "title": "/blob/master/notes/_archives/2022/09/设计模式.md",
     "count": 3,
     "uniques": 3
   },
@@ -36,14 +24,20 @@
     "uniques": 3
   },
   {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
+    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/XGBoost.md",
     "title": "/blob/master/notes/_archives/2022/05/XGBoost.md",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/09/设计模式-建造者模式.md",
-    "title": "/blob/master/notes/_archives/2022/09/设计模式-建造者模式.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/09/设计模式.md",
+    "title": "/blob/master/notes/_archives/2022/09/设计模式.md",
     "count": 2,
     "uniques": 2
   },
@@ -56,6 +50,12 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/概率论基础.md",
     "title": "/blob/master/notes/_archives/2025/09/概率论基础.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/tree/master/algorithms",
+    "title": "/tree/master/algorithms",
     "count": 2,
     "uniques": 2
   }
