@@ -24,12 +24,6 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
-    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/XGBoost.md",
     "title": "/blob/master/notes/_archives/2022/05/XGBoost.md",
     "count": 2,
@@ -38,6 +32,12 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/09/设计模式.md",
     "title": "/blob/master/notes/_archives/2022/09/设计模式.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
+    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
     "count": 2,
     "uniques": 2
   },
