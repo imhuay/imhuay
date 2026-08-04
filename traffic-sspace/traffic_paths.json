@@ -2,20 +2,14 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 42,
-    "uniques": 34
+    "count": 37,
+    "uniques": 30
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
-    "count": 4,
-    "uniques": 4
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
-    "title": "/blob/master/algorithms/README.md",
     "count": 3,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "path": "/imhuay/sspace/tree/master/notes",
@@ -30,33 +24,39 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/999-WIKI.md",
-    "title": "/blob/master/notes/999-WIKI.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/Transformer常见问题.md",
+    "title": "/blob/master/notes/_archives/2022/05/Transformer常见问题.md",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/09/设计模式.md",
-    "title": "/blob/master/notes/_archives/2022/09/设计模式.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_Agent_Prompt.md",
+    "title": "/blob/master/notes/_archives/2025/11/LLM_Agent_Prompt.md",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_LoRA.md",
-    "title": "/blob/master/notes/_archives/2025/09/SFT_LoRA.md",
+    "path": "/imhuay/sspace/blob/master/README.md",
+    "title": "/blob/master/README.md",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_MoE.md",
-    "title": "/blob/master/notes/_archives/2025/09/Transformer_MoE.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/爱因斯坦标记法.md",
+    "title": "/blob/master/notes/_archives/2022/05/爱因斯坦标记法.md",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
-    "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/08/使用LLM优化简历.md",
+    "title": "/blob/master/notes/_archives/2025/08/使用LLM优化简历.md",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/C-深度学习/E-经典论文/Attention-Is-All-You-Need-中文翻译.md",
+    "title": "/blob/master/C-深度学习/E-经典论文/Attention-Is-All-You-Need-中文翻译.md",
+    "count": 1,
+    "uniques": 1
   }
 ]
