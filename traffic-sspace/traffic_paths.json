@@ -2,14 +2,26 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 37,
-    "uniques": 30
+    "count": 39,
+    "uniques": 31
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
+    "title": "/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
+    "count": 6,
+    "uniques": 4
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/Transformer常见问题.md",
+    "title": "/blob/master/notes/_archives/2022/05/Transformer常见问题.md",
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/imhuay/sspace/tree/master/notes",
@@ -24,8 +36,8 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/Transformer常见问题.md",
-    "title": "/blob/master/notes/_archives/2022/05/Transformer常见问题.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/大模型微调/策略梯度定理及其推导.md",
+    "title": "/blob/master/notes/_archives/2025/09/大模型微调/策略梯度定理及其推导.md",
     "count": 2,
     "uniques": 2
   },
@@ -42,21 +54,9 @@
     "uniques": 1
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/爱因斯坦标记法.md",
-    "title": "/blob/master/notes/_archives/2022/05/爱因斯坦标记法.md",
+    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
+    "title": "/blob/master/algorithms/README.md",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/08/使用LLM优化简历.md",
-    "title": "/blob/master/notes/_archives/2025/08/使用LLM优化简历.md",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/C-深度学习/E-经典论文/Attention-Is-All-You-Need-中文翻译.md",
-    "title": "/blob/master/C-深度学习/E-经典论文/Attention-Is-All-You-Need-中文翻译.md",
-    "count": 1,
     "uniques": 1
   }
 ]
