@@ -2,7 +2,7 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 42,
+    "count": 43,
     "uniques": 31
   },
   {
@@ -10,6 +10,12 @@
     "title": "/blob/master/notes/_archives/2025/09/大模型微调/策略梯度定理及其推导.md",
     "count": 8,
     "uniques": 8
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
+    "title": "/blob/master/algorithms/README.md",
+    "count": 8,
+    "uniques": 4
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
@@ -24,16 +30,10 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
-    "title": "/blob/master/algorithms/README.md",
-    "count": 5,
-    "uniques": 2
-  },
-  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/imhuay/sspace/tree/master/notes",
@@ -54,8 +54,8 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_Agent_Prompt.md",
-    "title": "/blob/master/notes/_archives/2025/11/LLM_Agent_Prompt.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_改进.md",
+    "title": "/blob/master/notes/_archives/2025/09/Transformer_改进.md",
     "count": 2,
     "uniques": 2
   }
