@@ -2,14 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 93,
-    "uniques": 54
-  },
-  {
-    "path": "/imhuay/sspace/tree/master/algorithms",
-    "title": "/tree/master/algorithms",
-    "count": 16,
-    "uniques": 5
+    "count": 83,
+    "uniques": 56
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
@@ -24,10 +18,22 @@
     "uniques": 1
   },
   {
+    "path": "/imhuay/sspace/tree/master/algorithms",
+    "title": "/tree/master/algorithms",
+    "count": 13,
+    "uniques": 4
+  },
+  {
     "path": "/imhuay/sspace/blob/master/algorithms/README.md",
     "title": "/blob/master/algorithms/README.md",
-    "count": 13,
-    "uniques": 6
+    "count": 8,
+    "uniques": 5
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
+    "title": "/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
+    "count": 8,
+    "uniques": 2
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer_MoE.md",
@@ -36,20 +42,8 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
-    "title": "/blob/master/notes/_archives/2025/09/SFT_构建高质量训练数据.md",
-    "count": 7,
-    "uniques": 1
-  },
-  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
     "title": "/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
-    "count": 6,
-    "uniques": 4
-  },
-  {
-    "path": "/imhuay/sspace/tree/master",
-    "title": "/tree/master",
     "count": 6,
     "uniques": 4
   },
@@ -58,5 +52,11 @@
     "title": "/blob/master/notes/_archives/2025/09/概率论基础.md",
     "count": 5,
     "uniques": 5
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "title": "/blob/master/notes/_archives/2025/09/机器学习基础.md",
+    "count": 5,
+    "uniques": 3
   }
 ]
