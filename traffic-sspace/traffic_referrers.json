@@ -6,13 +6,8 @@
   },
   {
     "referrer": "Baidu",
-    "count": 28,
+    "count": 24,
     "uniques": 1
-  },
-  {
-    "referrer": "Google",
-    "count": 25,
-    "uniques": 3
   },
   {
     "referrer": "link.zhihu.com",
@@ -23,6 +18,11 @@
     "referrer": "Bing",
     "count": 5,
     "uniques": 1
+  },
+  {
+    "referrer": "Google",
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "link.csdn.net",
