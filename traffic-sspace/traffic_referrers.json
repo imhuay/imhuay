@@ -1,12 +1,12 @@
 [
   {
     "referrer": "github.com",
-    "count": 52,
-    "uniques": 17
+    "count": 47,
+    "uniques": 15
   },
   {
     "referrer": "Baidu",
-    "count": 24,
+    "count": 26,
     "uniques": 1
   },
   {
@@ -23,16 +23,6 @@
     "referrer": "Google",
     "count": 3,
     "uniques": 2
-  },
-  {
-    "referrer": "link.csdn.net",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "blog.csdn.net",
-    "count": 1,
-    "uniques": 1
   },
   {
     "referrer": "chatgpt.com",
