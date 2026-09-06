@@ -2,20 +2,20 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 85,
-    "uniques": 57
+    "count": 79,
+    "uniques": 53
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_Agent_Prompt.md",
     "title": "/blob/master/notes/_archives/2025/11/LLM_Agent_Prompt.md",
-    "count": 13,
+    "count": 12,
     "uniques": 1
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
-    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
-    "count": 7,
-    "uniques": 5
+    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
+    "title": "/blob/master/algorithms/README.md",
+    "count": 6,
+    "uniques": 6
   },
   {
     "path": "/imhuay/sspace/tree/master",
@@ -30,8 +30,8 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
-    "title": "/blob/master/algorithms/README.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
+    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
     "count": 5,
     "uniques": 5
   },
