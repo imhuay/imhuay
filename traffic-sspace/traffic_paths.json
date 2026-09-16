@@ -2,13 +2,13 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 64,
-    "uniques": 43
+    "count": 62,
+    "uniques": 44
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
-    "count": 9,
+    "count": 10,
     "uniques": 8
   },
   {
@@ -30,33 +30,33 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/010-深度学习.md",
-    "title": "/blob/master/notes/010-深度学习.md",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/12/商品NER标签设计.md",
     "title": "/blob/master/notes/_archives/2022/12/商品NER标签设计.md",
     "count": 4,
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/tree/master",
-    "title": "/tree/master",
-    "count": 4,
+    "path": "/imhuay/sspace/blob/master/notes/010-深度学习.md",
+    "title": "/blob/master/notes/010-深度学习.md",
+    "count": 3,
     "uniques": 3
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_Agent_Prompt.md",
-    "title": "/blob/master/notes/_archives/2025/11/LLM_Agent_Prompt.md",
-    "count": 4,
-    "uniques": 1
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/12/NER.md",
     "title": "/blob/master/notes/_archives/2022/12/NER.md",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/020-机器学习.md",
+    "title": "/blob/master/notes/020-机器学习.md",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_Agent_Prompt.md",
+    "title": "/blob/master/notes/_archives/2025/11/LLM_Agent_Prompt.md",
+    "count": 3,
+    "uniques": 1
   }
 ]
