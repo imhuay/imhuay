@@ -10,12 +10,12 @@
     "uniques": 4
   },
   {
-    "referrer": "Google",
-    "count": 1,
-    "uniques": 1
+    "referrer": "bbs.huaweicloud.com",
+    "count": 2,
+    "uniques": 2
   },
   {
-    "referrer": "bbs.huaweicloud.com",
+    "referrer": "Google",
     "count": 1,
     "uniques": 1
   },
