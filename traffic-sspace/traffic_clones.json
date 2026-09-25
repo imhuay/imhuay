@@ -1858,14 +1858,14 @@
       "uniques": 5
     },
     {
-      "timestamp": "2026-09-10T00:00:00Z",
-      "count": 10,
-      "uniques": 8
-    },
-    {
       "timestamp": "2026-09-11T00:00:00Z",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "timestamp": "2026-09-10T00:00:00Z",
+      "count": 10,
+      "uniques": 8
     },
     {
       "timestamp": "2026-09-12T00:00:00Z",
