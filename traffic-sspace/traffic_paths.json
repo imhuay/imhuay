@@ -2,14 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 67,
+    "count": 66,
     "uniques": 50
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/09/设计模式-建造者模式.md",
-    "title": "/blob/master/notes/_archives/2022/09/设计模式-建造者模式.md",
-    "count": 6,
-    "uniques": 6
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/10/程序员简历技巧.md",
@@ -34,6 +28,12 @@
     "title": "/blob/master/notes/_archives/2022/05/CNN.md",
     "count": 6,
     "uniques": 1
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/09/设计模式-建造者模式.md",
+    "title": "/blob/master/notes/_archives/2022/09/设计模式-建造者模式.md",
+    "count": 5,
+    "uniques": 5
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/999-WIKI.md",
