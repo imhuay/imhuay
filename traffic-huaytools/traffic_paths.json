@@ -4,5 +4,11 @@
     "title": "/blob/master/requirements-dev.txt",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/imhuay/huaytools/issues",
+    "title": "/issues",
+    "count": 1,
+    "uniques": 1
   }
 ]
