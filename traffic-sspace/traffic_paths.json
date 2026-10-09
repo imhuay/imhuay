@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 56,
-    "uniques": 45
+    "count": 51,
+    "uniques": 42
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/999-WIKI.md",
@@ -18,10 +18,10 @@
     "uniques": 4
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
-    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2023/02/Transformer与长度外推性.md",
+    "title": "/blob/master/notes/_archives/2023/02/Transformer与长度外推性.md",
     "count": 4,
-    "uniques": 2
+    "uniques": 4
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/04/实体链接/实体链接相关概念.md",
@@ -42,12 +42,6 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/综述-2019-Johnson.md",
-    "title": "/blob/master/notes/_archives/2022/05/综述-2019-Johnson.md",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/python国内镜像源.md",
     "title": "/blob/master/notes/_archives/2022/06/python国内镜像源.md",
     "count": 3,
@@ -56,6 +50,12 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/08/GithubAction备忘.md",
     "title": "/blob/master/notes/_archives/2022/08/GithubAction备忘.md",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/09/设计模式-建造者模式.md",
+    "title": "/blob/master/notes/_archives/2022/09/设计模式-建造者模式.md",
     "count": 3,
     "uniques": 3
   }
