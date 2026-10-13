@@ -2,26 +2,14 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 49,
-    "uniques": 41
+    "count": 52,
+    "uniques": 44
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/999-WIKI.md",
     "title": "/blob/master/notes/999-WIKI.md",
     "count": 5,
     "uniques": 5
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/09/设计模式-建造者模式.md",
-    "title": "/blob/master/notes/_archives/2022/09/设计模式-建造者模式.md",
-    "count": 4,
-    "uniques": 4
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/10/程序员简历技巧.md",
-    "title": "/blob/master/notes/_archives/2022/10/程序员简历技巧.md",
-    "count": 4,
-    "uniques": 4
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2023/02/Transformer与长度外推性.md",
@@ -36,8 +24,20 @@
     "uniques": 3
   },
   {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/损失函数.md",
+    "title": "/blob/master/notes/_archives/2022/05/损失函数.md",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/python国内镜像源.md",
     "title": "/blob/master/notes/_archives/2022/06/python国内镜像源.md",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/07/python类变量和成员变量的最佳实践.md",
+    "title": "/blob/master/notes/_archives/2022/07/python类变量和成员变量的最佳实践.md",
     "count": 3,
     "uniques": 3
   },
@@ -48,14 +48,14 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/12/label-studio使用记录.md",
-    "title": "/blob/master/notes/_archives/2022/12/label-studio使用记录.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/10/程序员简历技巧.md",
+    "title": "/blob/master/notes/_archives/2022/10/程序员简历技巧.md",
     "count": 3,
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/12/query扩展.md",
-    "title": "/blob/master/notes/_archives/2022/12/query扩展.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/12/label-studio使用记录.md",
+    "title": "/blob/master/notes/_archives/2022/12/label-studio使用记录.md",
     "count": 3,
     "uniques": 3
   }
