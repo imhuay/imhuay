@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 47,
-    "uniques": 37
+    "count": 43,
+    "uniques": 35
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2023/02/Transformer与长度外推性.md",
@@ -16,12 +16,6 @@
     "title": "/blob/master/notes/_archives/2022/06/python类方法中self的含义.md",
     "count": 4,
     "uniques": 1
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/999-WIKI.md",
-    "title": "/blob/master/notes/999-WIKI.md",
-    "count": 3,
-    "uniques": 3
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/不平衡学习概述.md",
@@ -58,5 +52,11 @@
     "title": "/tree/master/algorithms",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
+    "title": "/blob/master/algorithms/README.md",
+    "count": 2,
+    "uniques": 2
   }
 ]
