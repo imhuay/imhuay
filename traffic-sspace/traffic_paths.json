@@ -2,14 +2,14 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 43,
-    "uniques": 34
+    "count": 45,
+    "uniques": 36
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/不平衡学习概述.md",
-    "title": "/blob/master/notes/_archives/2022/05/不平衡学习概述.md",
-    "count": 4,
-    "uniques": 4
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
+    "title": "/blob/master/notes/_archives/2025/11/LLM_训练优化.md",
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/python类方法中self的含义.md",
@@ -30,8 +30,8 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/Linux解压缩.md",
-    "title": "/blob/master/notes/_archives/2022/06/Linux解压缩.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/不平衡学习概述.md",
+    "title": "/blob/master/notes/_archives/2022/05/不平衡学习概述.md",
     "count": 3,
     "uniques": 3
   },
@@ -54,8 +54,8 @@
     "uniques": 3
   },
   {
-    "path": "/imhuay/sspace/tree/master/B-计算机视觉",
-    "title": "/tree/master/B-计算机视觉",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/10/QA_合集.md",
+    "title": "/blob/master/notes/_archives/2025/10/QA_合集.md",
     "count": 3,
     "uniques": 3
   }
