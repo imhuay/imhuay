@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 60,
-    "uniques": 40
+    "count": 66,
+    "uniques": 45
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/RNN.md",
@@ -36,6 +36,12 @@
     "uniques": 4
   },
   {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/策略梯度定理及其推导.md",
+    "title": "/blob/master/notes/_archives/2025/09/RLHF/策略梯度定理及其推导.md",
+    "count": 4,
+    "uniques": 4
+  },
+  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
     "title": "/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
     "count": 4,
@@ -50,12 +56,6 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/python国内镜像源.md",
     "title": "/blob/master/notes/_archives/2022/06/python国内镜像源.md",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/07/pyspark_sql备忘.md",
-    "title": "/blob/master/notes/_archives/2022/07/pyspark_sql备忘.md",
     "count": 3,
     "uniques": 3
   }
