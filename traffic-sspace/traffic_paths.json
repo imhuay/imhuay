@@ -2,7 +2,7 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 71,
+    "count": 69,
     "uniques": 50
   },
   {
@@ -36,6 +36,12 @@
     "uniques": 4
   },
   {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
+    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
+    "count": 4,
+    "uniques": 4
+  },
+  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
     "title": "/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
     "count": 4,
@@ -50,12 +56,6 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/04/Gitbook备忘.md",
     "title": "/blob/master/notes/_archives/2022/04/Gitbook备忘.md",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/04/实体链接/2015.wsdm.el.01.md",
-    "title": "/blob/master/notes/_archives/2022/04/实体链接/2015.wsdm.el.01.md",
     "count": 3,
     "uniques": 3
   }
