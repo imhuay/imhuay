@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 76,
-    "uniques": 55
+    "count": 71,
+    "uniques": 51
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/RNN.md",
@@ -14,8 +14,8 @@
   {
     "path": "/imhuay/sspace/blob/master/algorithms/README.md",
     "title": "/blob/master/algorithms/README.md",
-    "count": 6,
-    "uniques": 6
+    "count": 5,
+    "uniques": 5
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
@@ -36,18 +36,6 @@
     "uniques": 4
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/CNN.md",
-    "title": "/blob/master/notes/_archives/2022/05/CNN.md",
-    "count": 4,
-    "uniques": 4
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/python国内镜像源.md",
-    "title": "/blob/master/notes/_archives/2022/06/python国内镜像源.md",
-    "count": 4,
-    "uniques": 4
-  },
-  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/12/实验报告模板.md",
     "title": "/blob/master/notes/_archives/2022/12/实验报告模板.md",
     "count": 4,
@@ -58,5 +46,17 @@
     "title": "/blob/master/notes/_archives/2025/08/VSCode备忘.md",
     "count": 4,
     "uniques": 4
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/策略梯度定理及其推导.md",
+    "title": "/blob/master/notes/_archives/2025/09/RLHF/策略梯度定理及其推导.md",
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
+    "title": "/blob/master/notes/_archives/2025/09/SFT.md",
+    "count": 4,
+    "uniques": 3
   }
 ]
