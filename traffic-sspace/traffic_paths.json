@@ -2,20 +2,14 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 71,
-    "uniques": 51
+    "count": 66,
+    "uniques": 52
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/RNN.md",
     "title": "/blob/master/notes/_archives/2022/05/RNN.md",
     "count": 7,
     "uniques": 4
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
-    "title": "/blob/master/algorithms/README.md",
-    "count": 5,
-    "uniques": 5
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
@@ -36,6 +30,12 @@
     "uniques": 4
   },
   {
+    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
+    "title": "/blob/master/algorithms/README.md",
+    "count": 4,
+    "uniques": 4
+  },
+  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/12/实验报告模板.md",
     "title": "/blob/master/notes/_archives/2022/12/实验报告模板.md",
     "count": 4,
@@ -48,8 +48,8 @@
     "uniques": 4
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/策略梯度定理及其推导.md",
-    "title": "/blob/master/notes/_archives/2025/09/RLHF/策略梯度定理及其推导.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
+    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
     "count": 4,
     "uniques": 4
   },

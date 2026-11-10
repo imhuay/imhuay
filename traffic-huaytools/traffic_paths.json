@@ -10,5 +10,17 @@
     "title": "/blob/master/requirements-dev.txt",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/imhuay/huaytools/branches",
+    "title": "/branches",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/imhuay/huaytools/releases",
+    "title": "/releases",
+    "count": 1,
+    "uniques": 1
   }
 ]
