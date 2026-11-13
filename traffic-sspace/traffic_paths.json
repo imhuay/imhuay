@@ -2,14 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 62,
-    "uniques": 48
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
-    "title": "/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
-    "count": 5,
-    "uniques": 5
+    "count": 63,
+    "uniques": 50
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/python国内镜像源.md",
@@ -18,9 +12,15 @@
     "uniques": 5
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF_强化学习基础.md",
-    "title": "/blob/master/notes/_archives/2025/09/RLHF/RLHF_强化学习基础.md",
-    "count": 5,
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
+    "title": "/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/Linux后台运行.md",
+    "title": "/blob/master/notes/_archives/2022/06/Linux后台运行.md",
+    "count": 4,
     "uniques": 4
   },
   {
@@ -36,18 +36,6 @@
     "uniques": 4
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/SFT.md",
-    "title": "/blob/master/notes/_archives/2025/09/SFT.md",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
-    "title": "/blob/master/notes/_archives/2025/09/RLHF/RLHF.md",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "path": "/imhuay/sspace/blob/master/algorithms/README.md",
     "title": "/blob/master/algorithms/README.md",
     "count": 3,
@@ -56,6 +44,18 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/04/Gitbook备忘.md",
     "title": "/blob/master/notes/_archives/2022/04/Gitbook备忘.md",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/04/实体链接/2015.wsdm.el.01.md",
+    "title": "/blob/master/notes/_archives/2022/04/实体链接/2015.wsdm.el.01.md",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/04/实体链接/README.md",
+    "title": "/blob/master/notes/_archives/2022/04/实体链接/README.md",
     "count": 3,
     "uniques": 3
   }
