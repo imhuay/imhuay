@@ -2,14 +2,14 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 67,
-    "uniques": 49
+    "count": 64,
+    "uniques": 48
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
     "title": "/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
-    "count": 5,
-    "uniques": 5
+    "count": 7,
+    "uniques": 7
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/python国内镜像源.md",
@@ -54,8 +54,8 @@
     "uniques": 4
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/08/VSCode备忘.md",
-    "title": "/blob/master/notes/_archives/2025/08/VSCode备忘.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/Copilot_备忘.md",
+    "title": "/blob/master/notes/_archives/2025/11/Copilot_备忘.md",
     "count": 4,
     "uniques": 4
   }

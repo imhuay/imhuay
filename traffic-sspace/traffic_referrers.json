@@ -10,14 +10,14 @@
     "uniques": 6
   },
   {
-    "referrer": "cloud.tencent.com",
+    "referrer": "Baidu",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "Baidu",
-    "count": 1,
-    "uniques": 1
+    "referrer": "cloud.tencent.com",
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "fantasy-jxf.gitbook.io",
