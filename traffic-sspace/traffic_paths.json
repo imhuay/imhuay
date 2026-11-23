@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 73,
-    "uniques": 34
+    "count": 70,
+    "uniques": 31
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/爱因斯坦标记法.md",
@@ -12,10 +12,10 @@
     "uniques": 7
   },
   {
-    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
-    "title": "/blob/master/algorithms/README.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
+    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
     "count": 7,
-    "uniques": 3
+    "uniques": 5
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/XGBoost.md",
@@ -24,10 +24,22 @@
     "uniques": 5
   },
   {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/11/LLM_Agent_Prompt.md",
+    "title": "/blob/master/notes/_archives/2025/11/LLM_Agent_Prompt.md",
+    "count": 6,
+    "uniques": 5
+  },
+  {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/基于互信息的表示学习.md",
     "title": "/blob/master/notes/_archives/2022/05/基于互信息的表示学习.md",
     "count": 6,
     "uniques": 4
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/algorithms/README.md",
+    "title": "/blob/master/algorithms/README.md",
+    "count": 6,
+    "uniques": 2
   },
   {
     "path": "/imhuay/sspace/tree/master",
@@ -42,20 +54,8 @@
     "uniques": 5
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
-    "title": "/blob/master/notes/_archives/2022/05/过拟合与正则化.md",
-    "count": 5,
-    "uniques": 5
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/python国内镜像源.md",
-    "title": "/blob/master/notes/_archives/2022/06/python国内镜像源.md",
-    "count": 5,
-    "uniques": 5
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/07/python函数声明中单独的正斜杠和星号是什么意思.md",
-    "title": "/blob/master/notes/_archives/2022/07/python函数声明中单独的正斜杠和星号是什么意思.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/Linux后台运行.md",
+    "title": "/blob/master/notes/_archives/2022/06/Linux后台运行.md",
     "count": 5,
     "uniques": 5
   }
