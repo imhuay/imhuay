@@ -6,20 +6,14 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/huaytools/branches",
-    "title": "/branches",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/imhuay/huaytools/commits/master/requirements-dev.txt",
     "title": "/commits/master/requirements-dev.txt",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/imhuay/huaytools/releases",
-    "title": "/releases",
+    "path": "/imhuay/huaytools/issues/1",
+    "title": "/issues/1",
     "count": 1,
     "uniques": 1
   }
