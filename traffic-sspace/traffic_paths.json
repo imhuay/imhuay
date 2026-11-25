@@ -2,8 +2,8 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 70,
-    "uniques": 31
+    "count": 74,
+    "uniques": 33
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/爱因斯坦标记法.md",
@@ -12,10 +12,10 @@
     "uniques": 7
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/XGBoost.md",
-    "title": "/blob/master/notes/_archives/2022/05/XGBoost.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/python国内镜像源.md",
+    "title": "/blob/master/notes/_archives/2022/06/python国内镜像源.md",
     "count": 6,
-    "uniques": 5
+    "uniques": 6
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/基于互信息的表示学习.md",
@@ -26,6 +26,12 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
     "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
+    "count": 6,
+    "uniques": 4
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/概率论基础.md",
+    "title": "/blob/master/notes/_archives/2025/09/概率论基础.md",
     "count": 6,
     "uniques": 4
   },
@@ -44,12 +50,6 @@
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/Linux后台运行.md",
     "title": "/blob/master/notes/_archives/2022/06/Linux后台运行.md",
-    "count": 5,
-    "uniques": 5
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/python国内镜像源.md",
-    "title": "/blob/master/notes/_archives/2022/06/python国内镜像源.md",
     "count": 5,
     "uniques": 5
   },
