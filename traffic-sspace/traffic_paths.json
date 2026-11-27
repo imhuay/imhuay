@@ -2,26 +2,26 @@
   {
     "path": "/imhuay/sspace",
     "title": "Overview",
-    "count": 71,
-    "uniques": 33
+    "count": 73,
+    "uniques": 35
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/爱因斯坦标记法.md",
     "title": "/blob/master/notes/_archives/2022/05/爱因斯坦标记法.md",
-    "count": 10,
-    "uniques": 7
+    "count": 9,
+    "uniques": 6
+  },
+  {
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
+    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
+    "count": 7,
+    "uniques": 5
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/XGBoost.md",
     "title": "/blob/master/notes/_archives/2022/05/XGBoost.md",
     "count": 6,
     "uniques": 5
-  },
-  {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/Transformer.md",
-    "title": "/blob/master/notes/_archives/2025/09/Transformer.md",
-    "count": 6,
-    "uniques": 4
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2025/09/概率论基础.md",
@@ -42,10 +42,10 @@
     "uniques": 2
   },
   {
-    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/06/Linux后台运行.md",
-    "title": "/blob/master/notes/_archives/2022/06/Linux后台运行.md",
+    "path": "/imhuay/sspace/blob/master/notes/_archives/2022/05/损失函数.md",
+    "title": "/blob/master/notes/_archives/2022/05/损失函数.md",
     "count": 5,
-    "uniques": 5
+    "uniques": 3
   },
   {
     "path": "/imhuay/sspace/blob/master/notes/_archives/2022/04/HiveSQL常用操作.md",

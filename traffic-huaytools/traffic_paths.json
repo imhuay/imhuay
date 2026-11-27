@@ -6,6 +6,12 @@
     "uniques": 2
   },
   {
+    "path": "/imhuay/huaytools/blob/master/requirements.txt",
+    "title": "/blob/master/requirements.txt",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/imhuay/huaytools/commits/master/requirements-dev.txt",
     "title": "/commits/master/requirements-dev.txt",
     "count": 1,
